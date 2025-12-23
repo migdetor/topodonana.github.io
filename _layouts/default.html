@@ -37,17 +37,20 @@
         {% endif %}
         
         {% if site.links %}
-          <div class="links">
-            {% for item in site.links %}
-              {% assign u = item.url %}
-              {% if u contains "://" or u contains "mailto:" %}
-                <p><a href="{{ u }}" target="_blank" rel="noopener">{{ item.label }}</a></p>
-              {% else %}
-                <p><a href="{{ u | relative_url }}">{{ item.label }}</a></p>
-              {% endif %}
-            {% endfor %}
-          </div>
-        {% endif %}
+  <div class="links-sep"></div>
+  <div class="links-title">Links</div>
+  <div class="links">
+    {% for item in site.links %}
+      {% assign u = item.url %}
+      {% if u contains "://" or u contains "mailto:" %}
+        <p><a href="{{ u }}" target="_blank" rel="noopener">{{ item.label }}</a></p>
+      {% else %}
+        <p><a href="{{ u | relative_url }}">{{ item.label }}</a></p>
+      {% endif %}
+    {% endfor %}
+  </div>
+{% endif %}
+
 
         {% if site.citation_text %}
           <div class="citation">
