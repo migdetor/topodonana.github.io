@@ -24,6 +24,8 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
                 {% if site.menu %}
+          <div class="menu-sep"></div>
+  <div class="menu-title">Menu</div>
           <div class="menu">
             {% for item in site.menu %}
               {% assign u = item.url %}
@@ -38,7 +40,7 @@
         
         {% if site.links %}
   <div class="links-sep"></div>
-  <div class="links-title">Links</div>
+  <div class="links-title">Links - Enlaces</div>
   <div class="links">
     {% for item in site.links %}
       {% assign u = item.url %}
