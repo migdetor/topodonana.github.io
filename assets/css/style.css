@@ -1,0 +1,11 @@
+/* Description in italics */
+.site-description { font-style: italic; }
+
+/* Space between "Links" title and first link */
+.links-title { margin-bottom: 10px; }
+
+/* Justify main content text */
+section p { 
+  text-align: justify; 
+  text-justify: inter-word; 
+}
