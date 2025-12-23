@@ -11,10 +11,14 @@
   Este repositorio centraliza la información cartográfica y ecológica asociada al Mapa ecológico actualizado del Parque Nacional de Doñana. Este representa la primera actualización de su tipo desde la publicación del "Mapa del Parque Nacional de Doñana" por el Dr. Javier Castroviejo en 1993.
 
   Mediante la creación de esta página se pretende poner a disposición pública la información cartográfica empleada para la creación del mismo, así como proporcionar el contexto socio-ecológico que permite entender las tendencias que viene experimentando Doñana en las últimas décadas, así como sus causas y consecuencias.  
-
+  
 
 ### Cómo citar
 M. de Felipe (2026). Mapa del Parque Nacional de Doñana (v1.0). Zenodo. DOI: [DOI]
+
+Versión actual: Mapa Ecológico del Parque Nacional de Doñana (v1.0, diciembre 2025)
+Versiones previas: 
+
 
 ## Qué incluye
 Capas principales: [lista corta: hidroperiodo, hábitats, unidades ecológicas, etc.]
