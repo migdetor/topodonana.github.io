@@ -1,5 +1,4 @@
 <img src="{{ "/assets/img/logo.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
-# Abstract - Resumen
 **[English]** 
 
 This repository centralizes the cartographic and ecologic information linked to the updated ecological map of Doñana National Park. This represents the first update of this kind since "Mapa del Parque Nacional de Doñana" by Dr. Javier Castroviejo in 1993.
@@ -16,9 +15,8 @@ Mediante la creación de esta página se pretende poner a disposición pública 
 #### Reccomended citation - Cita recomendada:
 M. de Felipe (2026). Mapa del Parque Nacional de Doñana (v1.0). Zenodo. DOI: [DOI]
 
-# Justification
+# Preface - Prólogo
 
-## Justification
 
 ## Qué incluye
 Capas principales: [lista corta: hidroperiodo, hábitats, unidades ecológicas, etc.]
