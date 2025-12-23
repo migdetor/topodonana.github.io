@@ -1,10 +1,10 @@
 theme: jekyll-theme-minimal
 logo: /assets/img/logo.png
-title:                
-description: Información cartográfica y recursos asociados al mapa actualizado del Parque Nacional de Doñana.
+title: Ecological Map of Doñana National Park (V1, 2026)
+description: With attention to ponds, marsh, toponyms and vernaculars.
 links: 
-  label: "Google Scholar"
+  - label: "Google Scholar"
   url: "https://scholar.google.com/citations?user=JQzRGw4AAAAJ&hl=es"
   
-  label: "Contacto"
+  - label: "Contacto"
   url: "mailto:m.defelipe.t@gmail.com"
