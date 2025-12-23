@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 title: "Doñana National Park: Updated Ecological Map (V1, 2026)"
-logo: /assets/img/logo.png
 description: "With special attention to its ponds, marsh, toponyms and vernaculars."
 links:
   - label: "Descarga de datos"
@@ -13,6 +12,7 @@ links:
     url: "mailto:m.defelipe.t@gmail.com"
   - label: "Instagram"
     url: "https://www.instagram.com/migueldefelipe/"
-citation_text: <strong>"Cita recomendada:"<strong> "M. de Felipe (2026). Mapa del Parque Nacional de Doñana (v1.0). Zenodo."
+citation_label: "Cita recomendada:"
+citation_text: "M. de Felipe (2026). Mapa del Parque Nacional de Doñana (v1.0). Zenodo."
 citation_doi_label: "DOI: [DOI]"
 citation_doi_url: "https://doi.org/[DOI]"
