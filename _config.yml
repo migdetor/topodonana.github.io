@@ -3,5 +3,8 @@ logo: /assets/img/logo.png
 title:                
 description: Información cartográfica y recursos asociados al mapa actualizado del Parque Nacional de Doñana.
 links: 
+  label: "Google Scholar"
+  url: "https://scholar.google.com/citations?user=JQzRGw4AAAAJ&hl=es"
+  
   label: "Contacto"
   url: "mailto:m.defelipe.t@gmail.com"
