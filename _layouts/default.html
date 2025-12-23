@@ -23,37 +23,34 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+        {% if site.links %}
+          <div class="links">
+            {% for item in site.links %}
+              {% assign u = item.url %}
+              {% if u contains "://" or u contains "mailto:" %}
+                <p><a href="{{ u }}" target="_blank" rel="noopener">{{ item.label }}</a></p>
+              {% else %}
+                <p><a href="{{ u | relative_url }}">{{ item.label }}</a></p>
+              {% endif %}
+            {% endfor %}
+          </div>
+        {% endif %}
 
-        
-    {% if site.links %}
-  <div class="links">
-    {% for item in site.links %}
-      {% assign u = item.url %}
-      {% if u contains "://" or u contains "mailto:" %}
-        <p><a href="{{ u }}" target="_blank" rel="noopener">{{ item.label }}</a></p>
-      {% else %}
-        <p><a href="{{ u | relative_url }}">{{ item.label }}</a></p>
-      {% endif %}
-    {% endfor %}
-  </div>
-{% endif %}
-
-{% if site.citation_text %}
-  <div class="citation">
-    <p>
-      {{ site.citation_text }}
-      {% if site.citation_doi_url %}
-        <a href="{{ site.citation_doi_url }}" target="_blank" rel="noopener">
-          {{ site.citation_doi_label | default: site.citation_doi_url }}
-        </a>
-      {% else %}
-        {{ site.citation_doi_label }}
-      {% endif %}
-    </p>
-  </div>
-{% endif %}
-
-      
+        {% if site.citation_text %}
+          <div class="citation">
+            <p>
+              <strong>{{ site.citation_label | default: "Cita recomendada:" }}</strong>
+              {{ site.citation_text }}
+              {% if site.citation_doi_url %}
+                <a href="{{ site.citation_doi_url }}" target="_blank" rel="noopener">
+                  {{ site.citation_doi_label | default: site.citation_doi_url }}
+                </a>
+              {% else %}
+                {{ site.citation_doi_label }}
+              {% endif %}
+            </p>
+          </div>
+        {% endif %}
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
