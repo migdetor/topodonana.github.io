@@ -3,11 +3,11 @@ title: "Ecological Map of Doñana National Park (V1.0, 2026)"
 description: "With special attention to its ponds, marsh, toponyms and vernaculars."
 
 menu:
-  - label: "Home - Inicio"
+  - label: "Home / Inicio"
     url: "/"
-  - label: "Preface - Justificación"
+  - label: "Preface / Justificación"
     url: "/"
-  - label: "Content - Contenido"
+  - label: "Contents - Contenidos"
     url: "/carto/"
   - label: "Download data / Descarga de datos"
     url: "https://zenodo.org/records/13960897"
@@ -15,6 +15,8 @@ menu:
     url: "/recursos/"
 
 links:
+  - label: "Google Scholar"
+    url: "https://scholar.google.com/citations?user=JQzRGw4AAAAJ&hl=es"
   - label: "Contact me/ Contáctame"
     url: "mailto:m.defelipe.t@gmail.com"
 
