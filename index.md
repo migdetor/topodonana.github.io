@@ -18,46 +18,14 @@ M. de Felipe (2026). Mapa del Parque Nacional de Doñana (v1.0). Zenodo. DOI: [D
 # Preface - Prólogo
 ¿Cómo nace la idea de este mapa?
 
-# Contents - Contenido
-Cobertura espacial: [resumen]
-
-Resolución/escala recomendada: [resumen]
-
-## Capas principales
-Toponimia de Doñana: [Documentación] [Descarga]
-
-Cartografía de la red de lagunas: [Documentación] [Descarga]
-
-Alcornoques del Parque Nacional de Doñana: [Documentación] [Descarga]
-
-Duración de la inundación: [Documentación] [Descarga]
-
-## Capas secundarias
-Red de caminos, carriles y cortafuegos: [Documentación]
-
-Vallados y cercados: [Documentación]
-
-Edificaciones y construcciones: [Documentación]
-
-## Capas base
-Mapa Digital de Elevación del Terreno: [Documentación] [Link CNIG]
-
-Mapa de Pendientes: [Documentación] [Link CNIG]
-
-Mapa LiDAR: [Documentación] [Link CNIG]
-
-
-
-Capas principales: [lista corta: hidroperiodo, hábitats, unidades ecológicas, etc.]
-Productos derivados: [PDF, paquetes GIS, estilos, etc.]
-
-
 # Descarga directa
 Datos y materiales (Zenodo, DOI): [enlace al concept DOI o al depósito principal]
 Versión PDF (alta resolución): [enlace]
 Versión PDF (baja resolución): [enlace]
 Datos GIS (GeoPackage / Shapefile / ráster): [enlace]
 
+# Acknowledgements - Agradecimientos
+Este mapa... guardas, ganaderos, Luis García...
 
 # Licencia de uso
 Los **datos cartográficos y ecológicos** disponibles para descarga se publican bajo licencia Creative Commons Attribution–NonCommercial 4.0 International (**CC BY-NC 4.0**). Se permite su uso, distribución y creación de obras derivadas únicamente para fines no comerciales, siempre que se cite la fuente.
