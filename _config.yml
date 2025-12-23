@@ -5,19 +5,17 @@ description: "With special attention to its ponds, marsh, toponyms and vernacula
 menu:
   - label: "Home - Inicio"
     url: "/"
-  - label: "Cartography - Cartografía"
+  - label: "Preface - Justificación"
+    url: "/"
+  - label: "Content - Contenido"
     url: "/carto/"
-  - label: "Threats - Amenazas"
-    url: "/amenazas/"
-  - label: "Impacts - Impactos"
-    url: "/impacts/"
-  - label: "Resources - Recursos"
+  - label: "Download data / Descarga de datos"
+    url: "https://zenodo.org/records/13960897"
+  - label: "Additional resources - Recursos adicionales"
     url: "/recursos/"
 
 links:
-  - label: "Download data / Descarga de datos"
-    url: "https://zenodo.org/records/13960897"
-  - label: "Contact / Contacto"
+  - label: "Contact me/ Contáctame"
     url: "mailto:m.defelipe.t@gmail.com"
 
 citation_label: "Cita recomendada:"
