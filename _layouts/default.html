@@ -23,6 +23,19 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+                {% if site.menu %}
+          <div class="menu">
+            {% for item in site.menu %}
+              {% assign u = item.url %}
+              {% if u contains "://" or u contains "mailto:" %}
+                <p><a href="{{ u }}" target="_blank" rel="noopener">{{ item.label }}</a></p>
+              {% else %}
+                <p><a href="{{ u | relative_url }}">{{ item.label }}</a></p>
+              {% endif %}
+            {% endfor %}
+          </div>
+        {% endif %}
+        
         {% if site.links %}
           <div class="links">
             {% for item in site.links %}
