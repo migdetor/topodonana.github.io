@@ -24,8 +24,6 @@
         <p class="site-description">{{ site.description | default: site.github.project_tagline }}</p>
 
                 {% if site.menu %}
-          <div class="menu-sep"></div>
-  <div class="menu-title">Menu</div>
           <div class="menu">
             {% for item in site.menu %}
               {% assign u = item.url %}
