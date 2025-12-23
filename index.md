@@ -1,8 +1,17 @@
 <img src="{{ "/assets/img/logo.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
-# Mapa Ecológico Actualizado del Parque Nacional de Doñana (v1.0, 2026)
-Este repositorio centraliza la información cartográfica y ecológica asociada al Mapa ecológico actualizado del Parque Nacional de Doñana. El mapa supone la primera actualización de su tipo desde la publicación del Dr. Javier Castroviejo en 199X
+# Mapa Ecológico del Parque Nacional de Doñana (v1.0, 2026)
+## Con especial atención a sus lagunas, marisma, topónimos y vernáculos.
 
-Acceso abierto: visualización del producto final y descarga libre de datos y materiales.
+**[English]** 
+  This repository centralizes the cartographic and ecologic information linked to the updated ecological map of Doñana National Park. This represents the first update of this kind since "Mapa del Parque Nacional de Doñana" by Dr. Javier Castroviejo in 1993.
+  
+  In this page...
+
+**[Español]** 
+  Este repositorio centraliza la información cartográfica y ecológica asociada al Mapa ecológico actualizado del Parque Nacional de Doñana. Este representa la primera actualización de su tipo desde la publicación del "Mapa del Parque Nacional de Doñana" por el Dr. Javier Castroviejo en 1993.
+
+  Mediante la creación de esta página se pretende poner a disposición pública la información cartográfica empleada para la creación del mismo, así como proporcionar el contexto socio-ecológico que permite entender las tendencias que viene experimentando Doñana en las últimas décadas, así como sus causas y consecuencias.  
+
 
 ### Cómo citar
 M. de Felipe (2026). Mapa del Parque Nacional de Doñana (v1.0). Zenodo. DOI: [DOI]
