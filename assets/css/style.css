@@ -1,5 +1,2 @@
-/* Justify main content text */
-section p { 
-  text-align: justify; 
-  text-justify: inter-word; 
-}
+/* Description in italics */
+.site-description { font-style: italic; }
