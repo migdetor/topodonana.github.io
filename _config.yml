@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
-title: "Doñana National Park: Updated Ecological Map (V1, 2026)"
+title: "An Updated Ecological Map of Doñana National Park (V1, 2026)"
 description: "With special attention to its ponds, marsh, toponyms and vernaculars."
+
 links:
   - label: "Descarga de datos"
     url: "https://zenodo.org/records/13960897"
@@ -8,10 +9,11 @@ links:
     url: "https://scholar.google.com/citations?user=JQzRGw4AAAAJ&hl=es"
   - label: "Researchgate"
     url: "https://www.researchgate.net/profile/Miguel-De-Felipe?ev=prf_overview"
-  - label: "Contacto"
-    url: "mailto:m.defelipe.t@gmail.com"
   - label: "Instagram"
     url: "https://www.instagram.com/migueldefelipe/"
+  - label: "Contacto"
+    url: "mailto:m.defelipe.t@gmail.com"
+
 citation_label: "Cita recomendada:"
 citation_text: "M. de Felipe (2026). Mapa del Parque Nacional de Doñana (v1.0). Zenodo."
 citation_doi_label: "DOI: [DOI]"
