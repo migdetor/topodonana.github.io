@@ -17,8 +17,6 @@ menu:
 links:
   - label: "Download data / Descarga de datos"
     url: "https://zenodo.org/records/13960897"
-  - label: "Google Scholar"
-    url: "https://scholar.google.com/citations?user=JQzRGw4AAAAJ&hl=es"
   - label: "Contact / Contacto"
     url: "mailto:m.defelipe.t@gmail.com"
 
