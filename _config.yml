@@ -5,8 +5,14 @@ description: "With special attention to its ponds, marsh, toponyms and vernacula
 menu:
   - label: "Home"
     url: "/"
-  - label: "Toponyms - Toponimia"
-    url: "/toponimos/"
+  - label: "Cartography - Cartografía"
+    url: "/carto/"
+  - label: "Threats - Amenazas"
+    url: "/amenazas/"
+  - label: "Impacts - Impactos"
+    url: "/impacts/"
+  - label: "Resources - Recursos"
+    url: "/recursos/"
 
 links:
   - label: "Download data / Descarga de datos"
