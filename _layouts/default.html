@@ -36,6 +36,21 @@
       {% endif %}
     {% endfor %}
   </div>
+
+        {% if site.citation_text %}
+  <div class="citation">
+    <p>
+      {{ site.citation_text }}
+      {% if site.citation_doi_url %}
+        <a href="{{ site.citation_doi_url }}" target="_blank" rel="noopener">{{ site.citation_doi_label | default: site.citation_doi_url }}</a>
+      {% else %}
+        {{ site.citation_doi_label }}
+      {% endif %}
+    </p>
+  </div>
+{% endif %}
+
+        
 {% endif %}
       
 
