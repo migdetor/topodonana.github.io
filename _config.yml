@@ -2,6 +2,12 @@ theme: jekyll-theme-minimal
 title: "Ecological Map of Doñana National Park (V1, 2026)"
 description: "With special attention to its ponds, marsh, toponyms and vernaculars."
 
+menu:
+  - label: "Home"
+    url: "/"
+  - label: "Toponyms - Toponimia"
+    url: "/toponimos/"
+
 links:
   - label: "Download data / Descarga de datos"
     url: "https://zenodo.org/records/13960897"
