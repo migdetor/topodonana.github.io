@@ -5,7 +5,7 @@ description: "With special attention to its ponds, marsh, toponyms and vernacula
 menu:
   - label: "Home / Inicio"
     url: "/"
-  - label: "Preface / Justificación"
+  - label: "The map / El mapa"
     url: "/preface/"
   - label: "Contents - Contenidos"
     url: "/carto/"
