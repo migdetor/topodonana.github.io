@@ -3,6 +3,8 @@ layout: default
 title: "Cartography - Cartografía"
 permalink: /carto/
 ---
+<img src="{{ "/assets/img/guad.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
+
 # Contents - Contenido
 Cobertura espacial: [resumen]
 
