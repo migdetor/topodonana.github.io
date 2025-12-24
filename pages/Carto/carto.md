@@ -6,7 +6,7 @@ permalink: /carto/
 <!--
 <img src="{{ "/assets/img/perezi.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 -->
-# Cartographic information — Información cartográfica
+# Cartographic information   Información cartográfica
 
 [EN] This page brings together the cartographic layers and resources associated with the updated map of Doñana National Park. For each layer you will find a **Fact sheet** (documentation) and, when applicable, a **Download** link (repository / Zenodo).
 
@@ -52,6 +52,7 @@ permalink: /carto/
 ## Main layers - Capas principales
 
 **[EN]**
+
 | Layer | Fact sheet | Download |
 |---|---|---|
 | **Doñana toponyms** | [Fact sheet]({{ "/toponimos/" | relative_url }}) | [Download](https://zenodo.org/records/XXXXX) |
@@ -60,6 +61,7 @@ permalink: /carto/
 | **Flooding duration (hydroperiods)** | [Fact sheet]({{ "/hidroperiodos/" | relative_url }}) | [Download](https://zenodo.org/records/XXXXX) |
 
 **[ES]**
+
 | Capa | Ficha | Descarga |
 |---|---|---|
 | **Toponimia de Doñana** | [Ficha]({{ "/toponimos/" | relative_url }}) | [Descarga](https://zenodo.org/records/XXXXX) |
