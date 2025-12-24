@@ -4,6 +4,6 @@ title: "Preface - Justificación"
 permalink: /preface/
 ---
 
-<img src="{{ "/assets/img/MFT_4860.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
+<img src="{{ "/assets/img/marisma.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 # Preface - Prólogo
 ¿Cómo nace la idea de este mapa?
