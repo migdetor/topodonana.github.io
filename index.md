@@ -3,13 +3,13 @@
 
 This repository centralizes the cartographic and ecologic information linked to the updated ecological map of Doñana National Park. This represents the first update of this kind since "Mapa del Parque Nacional de Doñana" by Dr. Javier Castroviejo in 1993.
   
-  In this page...
+Through this page, we aim to make publicly available the cartographic information used to produce the map, as well as to provide the socio-ecological context needed to understand the trends Doñana has been experiencing over recent decades, along with their causes and consequences.
 
 **[Español]** 
 
 Este repositorio centraliza la información cartográfica y ecológica asociada al Mapa ecológico actualizado del Parque Nacional de Doñana. Este representa la primera actualización de su tipo desde la publicación del "Mapa del Parque Nacional de Doñana" por el Dr. Javier Castroviejo en 1993.
 
-Mediante la creación de esta página se pretende poner a disposición pública la información cartográfica empleada para la creación del mismo, así como proporcionar el contexto socio-ecológico que permite entender las tendencias que viene experimentando Doñana en las últimas décadas, así como sus causas y consecuencias.
+Mediante la creación de esta página se pretende poner a disposición pública la información cartográfica empleada para la creación del mismo, así como proporcionar el contexto socio-ecológico que permita entender las tendencias que viene experimentando Doñana en las últimas décadas, así como sus causas y consecuencias.
   
 
 ### Direct download - Descarga directa
