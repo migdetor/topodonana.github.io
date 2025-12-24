@@ -15,16 +15,13 @@ Mediante la creación de esta página se pretende poner a disposición pública 
 #### Reccomended citation - Cita recomendada:
 M. de Felipe (2026). Mapa del Parque Nacional de Doñana (v1.0). Zenodo. DOI: [DOI]
 
-# Direct download - Descarga directa
-Datos y materiales (Zenodo, DOI): [enlace al concept DOI o al depósito principal]
-Versión PDF (alta resolución): [enlace]
-Versión PDF (baja resolución): [enlace]
-Datos GIS (GeoPackage / Shapefile / ráster): [enlace]
+### Direct download - Descarga directa
+Click **[here]([https://zenodo.org/records/13960897])** to be redirected to a Zenodo repository to download the cartographic data. 
 
 # Acknowledgements - Agradecimientos
 Este mapa... guardas, ganaderos, Luis García...
 
-# Licencia de uso
+## Use license - Licencia de uso
 Los **datos cartográficos y ecológicos** disponibles para descarga se publican bajo licencia Creative Commons Attribution–NonCommercial 4.0 International (**CC BY-NC 4.0**). Se permite su uso, distribución y creación de obras derivadas únicamente para fines no comerciales, siempre que se cite la fuente.
 
 El diseño, composición, maquetación y versión final del mapa (**plano/PDF/imagen**) están protegidos por derechos de autor. © Miguel de Felipe Toro, 2026. **Todos los derechos reservados**. Queda prohibida la reproducción total o parcial, distribución o comunicación pública del mapa final sin consentimiento expreso por escrito del titular de los derechos.
