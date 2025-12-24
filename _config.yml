@@ -6,7 +6,7 @@ menu:
   - label: "Home / Inicio"
     url: "/"
   - label: "Preface / Justificación"
-    url: "/"
+    url: "/preface/"
   - label: "Contents - Contenidos"
     url: "/carto/"
   - label: "Download data / Descarga de datos"
