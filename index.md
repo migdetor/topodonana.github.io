@@ -13,9 +13,9 @@ Mediante la creación de esta página se pretende poner a disposición pública 
   
 
 ### Direct download - Descarga directa
-Click **[here](https://zenodo.org/records/13960897)** to be redirected to a Zenodo repository to download the cartographic data. 
+**[EN]** Click **[here](https://zenodo.org/records/13960897)** to be redirected to a Zenodo repository to download the cartographic data. 
 
-Pulsa **[aqui](https://zenodo.org/records/13960897)** para ser redirigido a un repositorio desde donde descargar la información cartográfica.
+**[ES]** Pulsa **[aqui](https://zenodo.org/records/13960897)** para ser redirigido a un repositorio desde donde descargar la información cartográfica.
 
 #### Reccomended citation - Cita recomendada:
 <i>M. de Felipe (2026). Mapa del Parque Nacional de Doñana (v1.0). Zenodo. DOI: [DOI]<i>
