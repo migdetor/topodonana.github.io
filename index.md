@@ -9,14 +9,16 @@ This repository centralizes the cartographic and ecologic information linked to 
 
 Este repositorio centraliza la información cartográfica y ecológica asociada al Mapa ecológico actualizado del Parque Nacional de Doñana. Este representa la primera actualización de su tipo desde la publicación del "Mapa del Parque Nacional de Doñana" por el Dr. Javier Castroviejo en 1993.
 
-Mediante la creación de esta página se pretende poner a disposición pública la información cartográfica empleada para la creación del mismo, así como proporcionar el contexto socio-ecológico que permite entender las tendencias que viene experimentando Doñana en las últimas décadas, así como sus causas y consecuencias.  
+Mediante la creación de esta página se pretende poner a disposición pública la información cartográfica empleada para la creación del mismo, así como proporcionar el contexto socio-ecológico que permite entender las tendencias que viene experimentando Doñana en las últimas décadas, así como sus causas y consecuencias.
   
 
-#### Reccomended citation - Cita recomendada:
-M. de Felipe (2026). Mapa del Parque Nacional de Doñana (v1.0). Zenodo. DOI: [DOI]
-
 ### Direct download - Descarga directa
-Click **[here]([https://zenodo.org/records/13960897])** to be redirected to a Zenodo repository to download the cartographic data. 
+Click **[here](https://zenodo.org/records/13960897)** to be redirected to a Zenodo repository to download the cartographic data. 
+
+Pulsa **[aqui](https://zenodo.org/records/13960897)** para ser redirigido a un repositorio desde donde descargar la información cartográfica.
+
+#### Reccomended citation - Cita recomendada:
+<i>M. de Felipe (2026). Mapa del Parque Nacional de Doñana (v1.0). Zenodo. DOI: [DOI]<i>
 
 # Acknowledgements - Agradecimientos
 Este mapa... guardas, ganaderos, Luis García...
