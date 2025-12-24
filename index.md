@@ -15,10 +15,7 @@ Mediante la creación de esta página se pretende poner a disposición pública 
 #### Reccomended citation - Cita recomendada:
 M. de Felipe (2026). Mapa del Parque Nacional de Doñana (v1.0). Zenodo. DOI: [DOI]
 
-# Preface - Prólogo
-¿Cómo nace la idea de este mapa?
-
-# Descarga directa
+# Direct download - Descarga directa
 Datos y materiales (Zenodo, DOI): [enlace al concept DOI o al depósito principal]
 Versión PDF (alta resolución): [enlace]
 Versión PDF (baja resolución): [enlace]
@@ -37,5 +34,7 @@ Versión actual: Mapa Ecológico del Parque Nacional de Doñana (v1.0, diciembre
 
 Versiones previas: 
 
-# Contacto
-Para reportar errores, sugerencias o consultas de uso, consultar en m.defelipe.t@gmail.com
+# Contact - Contacto
+**[EN]** To report errors, suggestions or questions, you can contact me **[here](mailto:m.defelipe.t@gmail.com)**.
+
+**[ES]** Para reportar errores, sugerencias o consultas de uso, escríbeme **[aquí](mailto:m.defelipe.t@gmail.com)**.
