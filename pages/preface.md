@@ -11,27 +11,25 @@ permalink: /preface/
 <i>"Para aquellos que carecen de imaginación, un lugar en blanco en el mapa es un desperdicio inútil; para otros, la parte más valiosa."<i> Edward Abbey
 
 ## Origin - Origen
-La idea de este mapa no nace como algo premeditado; simplemente <i>surgió<i>. 
+La idea de este mapa no nace como algo premeditado; <i>surgió<i>, como un ojo de la marisma. 
 
-Mi tesis doctoral (2021-2026) se centró en estudiar la Red de Lagunas Temporales del Parque Nacional de Doñana. Durante el transcurso de la misma hemos presenciado y cuantificado la degradación de estos ecosistemas acuáticos. Hasta el punto de que en 2018, el 59% de las más de 3000 lagunas habían desaparecido por completo, siendo colonizadas por la vegetación terrestre. No sólo esto: el 83% de las mismas se encontraban afectadas por las extracciones de aguas subterráneas para la agricultura y abastecimiento de agua en urbanizaciones turísticas. En 2024, la laguna de Santa Olalla, la última laguna permanente, se secó por tercer año consecutivo; marcando un hito nunca antes descrito en Doñana. 
+Mi [tesis doctoral](add.link) se ha centrado en estudiar la red de lagunas del Parque Nacional de Doñana: una red de más de 3300 cuerpos de agua (REF) con una densidad, diversidad y conectividad tales que albergan a más de 600 especies de animales y plantas –muchas de ellas raras o amenazadas (Green et al. 201X). Estas lagunas se encuentran sobre el manto eólico –las arenas– y son, en su mayoría, Lagunas Temporales Mediterráneas (3170*; hábitat prioritario en la UE), dependiendo su inundación del buen estado del acuífero sobre el que yacen. Sin embargo, durante los últimos años hemos presenciado y cuantificado la degradación de estos ecosistemas acuáticos a una velocidad sin precedentes.
 
-A la desaparición de las lagunas, le siguió la de sus ecosistemas y biodiversidad asociada: el 24% de las especies de plantas acuáticas asociadas a las lagunas se encuentran hoy día extintas, mientras que el 78.9 de las especies restantes sufrieron graves declives a partir del año 2001 (García-Murillo et al. 2025). En los anfibios, su riqueza se redujo de 4.3 especies por kilómetro cuadrado en el año 2003, a 3.1 en el 2022. Asímismo, diez de las once especies de anfibios experimentaron acusados declives en su distribución. Respecto a las dos especies de galápagos nativos de la Península Ibérica, (galápago europeo, <i>Emys orbicularis<i>; galápago leproso <i>Mauremys leprosa<i>), ambas han visto reducida sus abundancia en un 74.1% y 56.9%, respectivamente.
+Ya en 2018, el 83% de las lagunas se encontraban afectadas por las extracciones de aguas subterráneas para la agricultura y el abastecimiento de agua en urbanizaciones turísticas (de Felipe et al. 2023). Hasta el punto que el 59% de las lagunas había desaparecido por completo (de Felipe et al. 2023), siendo colonizadas sus cubetas por la vegetación terrestre (Díaz-Paniagua et al. 2023). A la desaparición de las lagunas, le ha seguido la de su biodiversidad asociada: plantas acuáticas (García-Murillo et al. 2025), invertebrados (Florencio et al. in prep.), anfibios (Díaz-Paniagua et al. 2024) y galápagos acuáticos (de Felipe et al. in press.). Ya en 2024, la última laguna permanente –<i>Santa Olalla<i>– [se secó por tercer año consecutivo](link.al.csic), marcando un hito nunca antes descrito en Doñana. 
 
-A la hora de describir mi área de estudio, me di cuenta que las más de 3300 lagunas temporales mediterráneas de Doñana no caben en un mapa de 10x5 cm, como el que normalmente acompaña las tesis doctorales. Se me ocurrió entonces representarlas en un mapa tamaño A1 en el que poder verlas en detalle por primera vez. Y quizás, para muchas de ellas, también por última.
+Por todo esto, me parecía importante mostrar la abundancia y diversidad de lagunas de Doñana. Sin embargo, a la hora de intentar describirlas y representarlas, me di cuenta que las lagunas no se apreciaban en un mapa de 10x5 cm, como el que normalmente acompaña las tesis doctorales. Se me ocurrió entonces representarlas en formato A1; un mapa en el que poder verlas en detalle sobre el papel por primera y, quizás, para muchas de ellas, por última vez.
 
-La idea sin embargo no es nueva:
+## Antecedents - Antecedente
 
-Valverde durante los 50: bocetos ecológicos
+** J. A. Valverde** durante los 50: bocetos de la estructura y funcionamiento de las unidades ecológicas que componen Doñana. Culminación en la [estructura de una comunidad de vertebrados mediterraneos](addlink). Predilección por la marisma: (mapas marisma de castañuela y de bayunco), pero ya aparecen las lagunas como unidades ecologicas.
 
-En 1974, Allier
+En 1974, **Allier**: : primer mapa ecológico de la Reserva Biológica de Doñana. Se representa el cordón de lagunas peridunares y unas pocas lagunas más de largo hidroperiodo, navazos y depresiones húmedas con vegetación hidrofítica.
 
-En 1993 Javier Castroviejo reflejó en su <i>Mapa del Parque Nacional de Doñana<i> los distintos ecosistemas de Doñana (En el que aparecen por primera vez varias decenas de lagunas temporales y permanentes), así como una extensa toponimia. 
+En 1993 **Javier Castroviejo** reflejó en su <i>Mapa del Parque Nacional de Doñana<i> los distintos ecosistemas de Doñana (En el que aparecen por primera vez varias decenas de lagunas temporales y permanentes), así como una extensa toponimia. 
 
-En 2005, <u>Ruiz-Labourdette et al.<u> publicaron en su <i>Mapa del complejo palustre de los arenales de Doñana<i> la primera cartografía detallada de formaciones palustres de los mantos eólicos y la flecha litoral de El Abalario-Doñana sobre un mosaico de imágenes de satélite Spot corregidas.
+En 2005, **Ruiz-Labourdette et al.** publicaron en su [<i>Mapa del complejo palustre de los arenales de Doñana<i>](addlink) la primera cartografía detallada de formaciones palustres de los mantos eólicos y la flecha litoral de El Abalario-Doñana sobre un mosaico de imágenes de satélite Spot corregidas.
 
-Cada uno de estos trabajos tiene una importancia fundacional excepcional. Sin embargo....
-
-Si bien ambos trabajos poseen una calidad excepcional; el primero por lo pionero y la inclusión de las dimensiones históricas ecológicas y humanas, las cuales permiten entender mejor el presente –y quizás el futuro– de Doñana. 
+Cada uno de estos trabajos tiene una importancia fundacional excepcional que en su conjunto integra las dimensiones históricas ecológicas y humanas. Sin embargo, no fue hasta la publicación de la cartografía de las lagunas temporales del Parque Nacional de Doñana ([Gómez-Rodríguez et al. 2011](add.link)) cuando descubrimos que históricamente se había subestimado la abundancia e importancia de las lagunas temporales en Doñana. 
 
 ## What we did - El proceso
 ¿Qué hemos hecho?
