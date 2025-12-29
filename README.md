@@ -23,7 +23,7 @@ Mediante la creación de esta página se pretende poner a disposición pública 
 
 # Acknowledgements - Agradecimientos
 
-Este trabajo no habría sido posible sin las aportaciones de biólogos, guardas, ganaderos y marismeños. Sólo por nombrar a algunos: gracias a Poli, David Aragonés, Alejandro Sánchez, Luis García, Plácido Rodríguez-Paradas y Vilches. Gracias también a todos los que apoyasteis y mostrasteis interés en el desarrollo del mapa a pesar de escapar de los corsés de la academia. Y, por supuesto, gracias a los pioneros sin cuyo trabajo décadas atrás, nada de esto habría sido posible.
+Este trabajo no habría sido posible sin las aportaciones de biólogos, guardas, ganaderos y marismeños. Sólo por nombrar a algunos: gracias a Poli, David Aragonés, Alejandro Sánchez, Luis García, Plácido Rodríguez-Paradas y Vilches. Gracias también a todos los que apoyasteis y mostrasteis interés en el desarrollo del mapa a pesar de escapar de los corsés que impone una una carrera académica al uso. Y, por supuesto, gracias a los pioneros sin cuyo trabajo décadas atrás, nada de esto habría sido posible.
 
 
 
