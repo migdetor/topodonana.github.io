@@ -19,7 +19,7 @@ Ya en 2018, el 83% de las lagunas se encontraban afectadas por las extracciones 
 
 Por todo esto, me parecía importante mostrar la abundancia y diversidad de lagunas de Doñana. Sin embargo, a la hora de intentar describirlas y representarlas, me di cuenta que las lagunas no se apreciaban en un mapa de 10x5 cm, como el que normalmente acompaña las tesis doctorales. Se me ocurrió entonces representarlas en formato A1; un mapa en el que poder verlas en detalle sobre el papel por primera y, quizás, para muchas de ellas, por última vez.
 
-## Antecedents - Antecedente
+## Antecedents - Antecedentes
 
 **J. A. Valverde** durante los 50: bocetos de la estructura y funcionamiento de las unidades ecológicas que componen Doñana. Culminación en la [estructura de una comunidad de vertebrados mediterraneos](addlink). Predilección por la marisma: (mapas marisma de castañuela y de bayunco), pero ya aparecen las lagunas como unidades ecologicas.
 
@@ -27,12 +27,26 @@ En 1974, **Allier**: : primer mapa ecológico de la Reserva Biológica de Doñan
 
 En 1993 **Javier Castroviejo** reflejó en su <i>Mapa del Parque Nacional de Doñana<i> los distintos ecosistemas de Doñana (En el que aparecen por primera vez varias decenas de lagunas temporales y permanentes), así como una extensa toponimia. 
 
-En 2005, **Ruiz-Labourdette et al.** publicaron en su [<i>Mapa del complejo palustre de los arenales de Doñana<i>](addlink) la primera cartografía detallada de formaciones palustres de los mantos eólicos y la flecha litoral de El Abalario-Doñana sobre un mosaico de imágenes de satélite Spot corregidas.
+En 2005, **Ruiz-Labourdette et al.** publicaron en su [Mapa del complejo palustre de los arenales de Doñana](addlink) la primera cartografía detallada de formaciones palustres de los mantos eólicos y la flecha litoral de El Abalario-Doñana sobre un mosaico de imágenes de satélite Spot corregidas.
 
-Cada uno de estos trabajos tiene una importancia fundacional excepcional que en su conjunto integra las dimensiones históricas ecológicas y humanas. Sin embargo, no fue hasta la publicación de la cartografía de las lagunas temporales del Parque Nacional de Doñana ([Gómez-Rodríguez et al. 2011](add.link)) cuando descubrimos que históricamente se había subestimado la abundancia e importancia de las lagunas temporales en Doñana. 
+Cada uno de estos trabajos tiene una importancia fundacional excepcional que en su conjunto integra las dimensiones históricas, ecológicas y humanas. Sin embargo, no fue hasta la publicación de la cartografía de las lagunas temporales del Parque Nacional de Doñana ([Gómez-Rodríguez et al. 2011](add.link)) cuando descubrimos que históricamente se había subestimado la abundancia e importancia de las lagunas temporales en Doñana. 
 
 ## What we did - El proceso
 ¿Qué hemos hecho?
+
+Integración de datos base como:
+- DEM
+- mapa pendientes
+- LiDAR
+
+Con otros tales como:
+- cartografía lagunas de carola
+- hidroperiodos lagunas + marisma
+- alcornoques
+- toponimia
+- caminos, cortafuegos
+- construcciones
+- vallados
 
 ## Outcome - Producto final
 ¿Cuál es el resultado?
