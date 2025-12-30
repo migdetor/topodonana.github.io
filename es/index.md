@@ -29,10 +29,9 @@ citation_doi_url: "https://doi.org/[DOI]"
 ---
 <img src="{{ "/assets/img/logo.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 
-Este repositorio centraliza la información cartográfica y ecológica asociada al Mapa actualizado del Parque Nacional de Doñana. Este representa la primera actualización de su tipo desde la publicación del "Mapa del Parque Nacional de Doñana" por el Dr. Javier Castroviejo en 1993.
+Este repositorio centraliza la información cartográfica y ecológica asociada al Mapa actualizado del Parque Nacional de Doñana.
 
 Mediante la creación de esta página se pretende poner a disposición pública la información cartográfica empleada para la creación del mismo, actualizar de forma periódica las distintas capas de información que lo componen, y proporcionar el contexto socio-ecológico que permita entender las tendencias que viene experimentando Doñana en las últimas décadas, así como sus causas y consecuencias.
-  
 
 ### Direct download - Descarga directa
 Pulsa **[aqui](https://zenodo.org/records/13960897)** para ser redirigido a un repositorio desde donde descargar la información cartográfica.
@@ -42,10 +41,10 @@ Pulsa **[aqui](https://zenodo.org/records/13960897)** para ser redirigido a un r
 
 # Índice
   - [Justificación]({{ "/es/preface/" | relative_url }})
-  - El Mapa
-  - Contenidos
-  - Descarga de Datos
-  - Recursos Adicionales
+  - [El Mapa]({{ "/es/map/" | relative_url }})
+  - [Contenidos]({{ "/es/content/" | relative_url }})
+  - [Descarga de Datos](https://zenodo.org/records/13960897)
+  - [Recursos Adicionales]({{ "/es/recursos/" | relative_url }})
 
 <img src="{{ "/assets/img/marisma.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 
