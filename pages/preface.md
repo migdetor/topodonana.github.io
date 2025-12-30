@@ -33,7 +33,28 @@ For all these reasons, it seemed essential to highlight the abundance and divers
 
 ## 2. Antecedents
 
-jejejeje
+In **1958**, **J. A. Valverde** published in _British Birds_ **"An ecological sketch of Coto Doñana"**. For the first time, Doñana was described in terms of ecological units, their structure, and their functioning. During the 1950s, this approach produced sketches of the structure and functioning of the ecological units that make up Doñana. This way of understanding the landscape would culminate in [_Estructura de una comunidad mediterránea de vertebrados terrestres_]([addlink](https://files01.core.ac.uk/download/pdf/36194286.pdf)) and _Vertebrados de las Marismas del Guadalquivir_. Ponds already appear here as an ecological unit.
+
+<img src="{{ "/assets/img/mosaicsketch.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
+
+_In **1974**, **C. Allier et al.** produced the first ecological map of the Doñana Biological Reserve. It depicts the belt of peridunal ponds and a few additional long-hydroperiod ponds, as well as “navazos” and wet depressions with hydrophytic vegetation._
+
+<img src="{{ "/assets/img/allier.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
+
+In **1993**, **J. Castroviejo** produced the _Map of Doñana National Park_ (_Mapa del Parque Nacional de Doñana_). In the accompanying report, the historical, human, climatological, edaphic, and hydrological factors governing the functioning of Doñana’s different ecosystems were compiled for the first time, along with the threats and pressures on the integrity of the National Park. An extensive toponymy and approximately ~70 ponds were also included for the first time.
+
+In **1998**, **[C. Montes et al.](https://www.ign.es/web/catalogo-cartoteca/resources/html/023568.html)** produced the [first hierarchical classification of the National Park’s ecosystems](https://www.researchgate.net/profile/Francisco-Barrera-6/publication/260182698_Reconocimiento_Biofisico_de_Espacios_Naturales_Protegidos_Donana_una_aproximacion_ecosistenica/links/0c96052fe687226991000000/Reconocimiento-Biofisico-de-Espacios-Naturales-Protegidos-Donana-una-aproximacion-ecosistenica.pdf) through photo-interpretation of aerial photographs, satellite imagery, and field verification on the ground.
+
+<img src="{{ "/assets/img/montes.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
+
+In **2005**, **D. Ruiz-Labourdette et al.** published, in their [Map of the palustrine complex of the Doñana sands]([addlink](https://portalrediam.cica.es/geonetwork/static/api/records/0d07732a-71a9-4642-8e79-a99c7cfe5668)), the first detailed cartography of palustrine formations across the aeolian mantles and the coastal spit of El Abalario–Doñana. Using satellite imagery, they mapped approximately ~680 ponds distributed across the National and Natural Parks.
+
+<img src="{{ "/assets/img/coleto.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
+
+Each of these works has a unique foundational importance that, taken together, integrates historical, ecological, and human dimensions. However, it was not until the publication of the cartography of temporary ponds in Doñana National Park ([Gómez-Rodríguez et al. 2011](https://www.researchgate.net/publication/236586598_Cartografia_de_lagunas_temporales_del_Parque_Nacional_de_Donana)) that we realized the abundance and importance of Doñana’s ponds had historically been underestimated—an ecosystem that is both unique and threatened.
+
+<img src="{{ "/assets/img/carola2.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
+
 
 ## 1. Origen **[ES]**
 
