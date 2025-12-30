@@ -11,6 +11,8 @@ menu:
     url: "/es/"
   - label: "Download data - Descarga de datos"
     url: "https://zenodo.org/records/13960897"
+  - label: "Acknowledgements - Agradecimientos"
+    url: "agradecimientos"
   - label: "Contact - Contacto"
     url: "/recursos/"
 
