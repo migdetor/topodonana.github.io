@@ -31,9 +31,3 @@ Este trabajo no habría sido posible sin las muchas aportaciones y enseñanzas d
 Los **datos cartográficos y ecológicos** disponibles para descarga se publican bajo licencia Creative Commons Attribution–NonCommercial 4.0 International (**CC BY-NC 4.0**). Se permite su uso, distribución y creación de obras derivadas únicamente para fines no comerciales, siempre que se cite la fuente.
 
 El diseño, composición, maquetación y versión final del mapa (**plano/PDF/imagen**) están protegidos por derechos de autor. © Miguel de Felipe Toro, 2026. **Todos los derechos reservados**. Queda prohibida la reproducción total o parcial, distribución o comunicación pública del mapa final sin consentimiento expreso por escrito del titular de los derechos.
-
-
-# Contact - Contacto
-**[EN]** To report errors, suggestions or questions, you can contact me **[here](mailto:m.defelipe.t@gmail.com)**.
-
-**[ES]** Para informar de errores, sugerencias o consultas de uso, escríbeme **[aquí](mailto:m.defelipe.t@gmail.com)**.
