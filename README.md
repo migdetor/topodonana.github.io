@@ -1,15 +1,15 @@
 <img src="{{ "/assets/img/logo.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 **[English]** 
 
-This repository centralizes the cartographic and ecologic information linked to the updated ecological map of Doñana National Park. This represents the first update of this kind since "Mapa del Parque Nacional de Doñana" by Dr. Javier Castroviejo in 1993.
+This repository centralizes the cartographic and ecologic information linked to the updated map of Doñana National Park. This represents the first update of this kind since "Mapa del Parque Nacional de Doñana" by Dr. Javier Castroviejo in 1993.
   
-Through this page, we aim to make publicly available the cartographic information used to produce the map, as well as to provide the socio-ecological context needed to understand the trends Doñana has been experiencing over recent decades, along with their causes and consequences.
+Through this page, we aim to make publicly available the cartographic information used to produce the map, periodically update the different layers that conform it, as well as to provide the socio-ecological context needed to understand the trends Doñana has been experiencing over recent decades, along with their causes and consequences.
 
 **[Español]** 
 
-Este repositorio centraliza la información cartográfica y ecológica asociada al Mapa ecológico actualizado del Parque Nacional de Doñana. Este representa la primera actualización de su tipo desde la publicación del "Mapa del Parque Nacional de Doñana" por el Dr. Javier Castroviejo en 1993.
+Este repositorio centraliza la información cartográfica y ecológica asociada al Mapa actualizado del Parque Nacional de Doñana. Este representa la primera actualización de su tipo desde la publicación del "Mapa del Parque Nacional de Doñana" por el Dr. Javier Castroviejo en 1993.
 
-Mediante la creación de esta página se pretende poner a disposición pública la información cartográfica empleada para la creación del mismo, así como proporcionar el contexto socio-ecológico que permita entender las tendencias que viene experimentando Doñana en las últimas décadas, así como sus causas y consecuencias.
+Mediante la creación de esta página se pretende poner a disposición pública la información cartográfica empleada para la creación del mismo, actualizar de forma periódica las distintas capas de información que lo componen, y proporcionar el contexto socio-ecológico que permita entender las tendencias que viene experimentando Doñana en las últimas décadas, así como sus causas y consecuencias.
   
 
 ### Direct download - Descarga directa
@@ -23,7 +23,7 @@ Mediante la creación de esta página se pretende poner a disposición pública 
 
 # Acknowledgements - Agradecimientos
 
-Este trabajo no habría sido posible sin las aportaciones de biólogos, guardas, ganaderos y marismeños. Sólo por nombrar a algunos: gracias a Poli, David Aragonés, Alejandro Sánchez, Luis García, Plácido Rodríguez-Paradas y Vilches. Gracias también a todos los que apoyasteis y mostrasteis interés en el desarrollo del mapa a pesar de escapar de los corsés que impone una una carrera académica al uso. Y, por supuesto, gracias a los pioneros sin cuyo trabajo décadas atrás, nada de esto habría sido posible.
+Este trabajo no habría sido posible sin las muchas aportaciones y enseñanzas de biólogos, guardas y marismeños varios. Sólo por nombrar a algunos: gracias a Poli, Luis García, David Aragonés, Alejandro Sánchez, Plácido Rodríguez-Paradas y Vilches. Gracias también a todos los que me apoyasteis en el desarrollo del mapa a pesar de escapar de los corsés que impone la carrera científica habitual. Y, por supuesto, gracias a aquellos pioneros sin cuyo trabajo nada de esto habría sido posible.
 
 
 
