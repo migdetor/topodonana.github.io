@@ -8,7 +8,6 @@ permalink: /preface/
 <!--
 <img src="{{ "/assets/img/laguna.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 -->
-
 _"Para aquellos que carecen de imaginación, un lugar en blanco en el mapa es un desperdicio inútil; para otros, la parte más valiosa."_ Edward Abbey
 
 ## Origin - Origen
@@ -27,25 +26,27 @@ Por todo esto, me pareció fundamental poner en valor la abundancia y diversidad
 
 ## Antecedents - Antecedentes
 
-En **1958**, **J. A. Valverde** publicó en _British Birds_ el "An ecological sketch of Coto Doñana". Por primera vez, se describe Doñana en base a unidades ecológicas, su estructura y funcionamiento.  durante los 50: bocetos de la estructura y funcionamiento de las unidades ecológicas que componen Doñana. Culminación en la [estructura de una comunidad de vertebrados mediterraneos](addlink). Predilección por la marisma: (mapas marisma de castañuela y de bayunco), pero ya aparecen las lagunas como unidades ecologicas.
+En **1958**, **J. A. Valverde** publica en _British Birds_ el "An ecological sketch of Coto Doñana". Por primera vez, se describe Doñana en base a unidades ecológicas, su estructura y funcionamiento.  durante los 50: bocetos de la estructura y funcionamiento de las unidades ecológicas que componen Doñana. Esta forma de entender el paisaje culminaría en la [_Estructura de una comunidad mediterránea de vertebrados terrestres_]([addlink](https://files01.core.ac.uk/download/pdf/36194286.pdf)) y _Vertebrados de las Marismas del Guadalquivir_. Aparecen aquí ya las lagunas como unidad ecológica.
 
 <img src="{{ "/assets/img/mosaicsketch.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 
-En **1974**, **C. Allier et al. **: primer mapa ecológico de la Reserva Biológica de Doñana. Se representa el cordón de lagunas peridunares y unas pocas lagunas más de largo hidroperiodo, navazos y depresiones húmedas con vegetación hidrofítica.
+_En **1974**, **C. Allier et al.**: primer mapa ecológico de la Reserva Biológica de Doñana. Se representa el cordón de lagunas peridunares y unas pocas lagunas más de largo hidroperiodo, navazos y depresiones húmedas con vegetación hidrofítica._
 
 <img src="{{ "/assets/img/allier.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 
-En **1993**, **J. Castroviejo** reflejó en su _Mapa del Parque Nacional de Doñana_ los distintos ecosistemas de Doñana (En el que aparecen por primera vez varias decenas de lagunas temporales y permanentes), así como una extensa toponimia. 
+En **1993**, **J. Castroviejo** realiza el _Mapa del Parque Nacional de Doñana_. En la memoria que lo acompaña se recogen por primera vez los aspectos históricos, humanos, climatológicos, edáficos e hídricos que rigen el funcionamiento de los distintos ecosistemas de Doñana, así como las amenazas y agresiones a la integridad del Parque Nacional. Se recoge por primera vez una extensa toponimia así como ~70 lagunas. 
 
-En **1998**, **[C. Montes et al.](https://www.ign.es/web/catalogo-cartoteca/resources/html/023568.html)** realizaron la [primera clasificación jerárquica completa de los ecosistemas de Doñana](https://www.researchgate.net/profile/Francisco-Barrera-6/publication/260182698_Reconocimiento_Biofisico_de_Espacios_Naturales_Protegidos_Donana_una_aproximacion_ecosistenica/links/0c96052fe687226991000000/Reconocimiento-Biofisico-de-Espacios-Naturales-Protegidos-Donana-una-aproximacion-ecosistenica.pdf) (distinguiendo ecodistritos, ecosecciones y ecotopos) mediante la fotointerpretación de fotografías aéreas, imágenes satélite y verificación en campo. 
+En **1998**, **[C. Montes et al.](https://www.ign.es/web/catalogo-cartoteca/resources/html/023568.html)** realizaron la [primera clasificación jerárquica de los ecosistemas del Parque Nacional](https://www.researchgate.net/profile/Francisco-Barrera-6/publication/260182698_Reconocimiento_Biofisico_de_Espacios_Naturales_Protegidos_Donana_una_aproximacion_ecosistenica/links/0c96052fe687226991000000/Reconocimiento-Biofisico-de-Espacios-Naturales-Protegidos-Donana-una-aproximacion-ecosistenica.pdf) mediante la fotointerpretación de fotografías aéreas, imágenes satélite y verificación a pie campo. 
 
 <img src="{{ "/assets/img/montes.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 
-En **2005**, **D. Ruiz-Labourdette et al.** publicaron en su [Mapa del complejo palustre de los arenales de Doñana]([addlink](https://portalrediam.cica.es/geonetwork/static/api/records/0d07732a-71a9-4642-8e79-a99c7cfe5668)) la primera cartografía detallada de formaciones palustres (incluyendo las lagunas) de los mantos eólicos y la flecha litoral de El Abalario-Doñana usando imágenes satélite.
+En **2005**, **D. Ruiz-Labourdette et al.** publicaron en su [Mapa del complejo palustre de los arenales de Doñana]([addlink](https://portalrediam.cica.es/geonetwork/static/api/records/0d07732a-71a9-4642-8e79-a99c7cfe5668)) la primera cartografía detallada de formaciones palustres de los mantos eólicos y la flecha litoral de El Abalario-Doñana usando imágenes satélite. Se cartografían ~680 lagunas distribuidas entre el Parque Nacional y Natural.
 
 <img src="{{ "/assets/img/coleto.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 
-Cada uno de estos trabajos tiene una importancia fundacional excepcional que en su conjunto integra las dimensiones históricas, ecológicas y humanas. Sin embargo, no fue hasta la publicación de la cartografía de las lagunas temporales del Parque Nacional de Doñana ([Gómez-Rodríguez et al. 2011](https://www.researchgate.net/publication/236586598_Cartografia_de_lagunas_temporales_del_Parque_Nacional_de_Donana)) cuando descubrimos que históricamente se había subestimado la abundancia e importancia de las lagunas temporales en Doñana. 
+Cada uno de estos trabajos tiene una importancia fundacional única que en su conjunto integra las dimensiones históricas, ecológicas y humanas. Sin embargo, no fue hasta la publicación de la cartografía de las lagunas temporales del Parque Nacional de Doñana ([Gómez-Rodríguez et al. 2011](https://www.researchgate.net/publication/236586598_Cartografia_de_lagunas_temporales_del_Parque_Nacional_de_Donana)) cuando descubrimos que históricamente se había subestimado la abundancia e importancia de las lagunas de Doñana. 
+
+<img src="{{ "/assets/img/carola2.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 
 ## References - Referencias
 - Allier C., González-Bernáldez F., Ramírez-Díaz, L. (1974). <i>Mapa Ecológico de la Reserva Biológica de Doñana<i>. Consejo Superior de Investigaciones Científicas (CSIC).
