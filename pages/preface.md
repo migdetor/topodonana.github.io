@@ -32,7 +32,7 @@ En **1958**, **J. A. Valverde** publicó en _British Birds_ el "An ecological sk
 
 <img src="{{ "/assets/img/mosaicsketch.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 
-En** 1974**, **C. Allier**: : primer mapa ecológico de la Reserva Biológica de Doñana. Se representa el cordón de lagunas peridunares y unas pocas lagunas más de largo hidroperiodo, navazos y depresiones húmedas con vegetación hidrofítica.
+En **1974**, **C. Allier et al. **: primer mapa ecológico de la Reserva Biológica de Doñana. Se representa el cordón de lagunas peridunares y unas pocas lagunas más de largo hidroperiodo, navazos y depresiones húmedas con vegetación hidrofítica.
 
 <img src="{{ "/assets/img/allier.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 
