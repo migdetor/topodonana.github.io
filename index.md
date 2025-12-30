@@ -23,7 +23,7 @@ Este repositorio centraliza la información cartográfica y ecológica asociada 
 
 Mediante la creación de esta página se pretende poner a disposición pública la información cartográfica empleada para la creación del mismo, actualizar de forma periódica las distintas capas de información que lo componen, y proporcionar el contexto socio-ecológico que permita entender las tendencias que viene experimentando Doñana en las últimas décadas, así como sus causas y consecuencias.
 
-#### Reccomended citation - Cita recomendada:
+### Reccomended citation - Cita recomendada:
 <i>M. de Felipe (2026). Mapa del Parque Nacional de Doñana (v1.0). Zenodo. DOI: [DOI]<i>
 
 ## Use license - Licencia de uso
