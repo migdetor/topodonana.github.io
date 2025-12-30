@@ -4,7 +4,7 @@ title: "Preface - Justificación"
 permalink: /preface/
 ---
 
-# The Map - El Mapa
+# Preface - Justificación
 
 <!--
 <img src="{{ "/assets/img/laguna.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
@@ -47,35 +47,6 @@ En **2005**, **D. Ruiz-Labourdette et al.** publicaron en su [Mapa del complejo 
 <img src="{{ "/assets/img/coleto.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 
 Cada uno de estos trabajos tiene una importancia fundacional excepcional que en su conjunto integra las dimensiones históricas, ecológicas y humanas. Sin embargo, no fue hasta la publicación de la cartografía de las lagunas temporales del Parque Nacional de Doñana ([Gómez-Rodríguez et al. 2011](https://www.researchgate.net/publication/236586598_Cartografia_de_lagunas_temporales_del_Parque_Nacional_de_Donana)) cuando descubrimos que históricamente se había subestimado la abundancia e importancia de las lagunas temporales en Doñana. 
-
-## What we did - El proceso
-
-
-Integración de datos base como:
-- DEM
-- mapa pendientes
-- LiDAR
-
-Con otros tales como:
-- cartografía lagunas de carola
-- hidroperiodos lagunas + marisma
-- alcornoques
-- toponimia
-- caminos, cortafuegos
-- construcciones
-- vallados
-- ojos, pozos y zacallones
-
-## Outcome - Producto final
-¿Cuál es el resultado?
-
-## Access & use - Acceso y uso
-¿Qué ponemos a disposición de la gente?
-
-## Get a map - Hazte con el mapa
-Contact me **[here](mailto:m.defelipe.t@gmail.com)**.
-
-Contáctame **[aqui](mailto:m.defelipe.t@gmail.com)**.
 
 ## References - Referencias
 - Allier C., González-Bernáldez F., Ramírez-Díaz, L. (1974). <i>Mapa Ecológico de la Reserva Biológica de Doñana<i>. Consejo Superior de Investigaciones Científicas (CSIC).
