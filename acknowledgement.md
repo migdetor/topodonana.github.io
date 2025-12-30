@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "acknowledgements"
-permalink: /acknowledgement
+permalink: /acknowledgement/
 ---
 # Acknowledgements - Agradecimientos
 **[EN]** This...
