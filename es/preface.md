@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Justificación"
-permalink: /preface/
+permalink: /es/preface/
 ---
 
 # Justificación
