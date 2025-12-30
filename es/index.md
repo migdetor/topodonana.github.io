@@ -36,7 +36,7 @@ Mediante la creación de esta página se pretende poner a disposición pública 
 ## Índice
   - [Justificación]({{ "/es/preface/" | relative_url }})
   - [El Mapa]({{ "/es/map/" | relative_url }})
-  - [Información cartográficaI({{ "/es/content/" | relative_url }})
+  - [Información cartográfica]({{ "/es/content/" | relative_url }})
   - [Descarga de Datos](https://zenodo.org/records/13960897)
   - [Recursos Adicionales]({{ "/es/recursos/" | relative_url }})
 
