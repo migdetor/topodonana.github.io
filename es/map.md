@@ -52,9 +52,7 @@ Con otros tales como:
 ¿Qué ponemos a disposición de la gente?
 
 ## Hazte con el mapa
-Contact me **[here](mailto:m.defelipe.t@gmail.com)**.
-
-Contáctame **[aqui](mailto:m.defelipe.t@gmail.com)**.
+Pregúntame cómo hacerte con uno **[por aqui](mailto:m.defelipe.t@gmail.com)**.
 
 ## Referencias
 - kmkm
