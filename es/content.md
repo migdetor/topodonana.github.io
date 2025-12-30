@@ -9,7 +9,7 @@ menu:
     url: "/es/preface/"
   - label: "El mapa"
     url: "/es/map/"
-  - label: "Contenidos"
+  - label: "Información cartográfica"
     url: "/es/content/"
   - label: "Descarga de datos"
     url: "https://zenodo.org/records/13960897"
@@ -27,5 +27,69 @@ citation_text: "M. de Felipe (2026). Mapa actualizado del Parque Nacional de Do�
 citation_doi_label: "DOI: [DOI]"
 citation_doi_url: "https://doi.org/[DOI]"
 ---
+# Información cartográfica
 
-contenidos aqui.
+Esta página reúne las capas cartográficas y recursos asociados al mapa actualizado del Parque Nacional de Doñana. Para cada capa encontrarás una **Ficha** (documentación) y, cuando aplique, un enlace de **Descarga** (repositorio / Zenodo).
+
+---
+
+## Acceso rápido
+
+- **Descarga completa** (paquete estable): [Zenodo](https://zenodo.org/records/XXXXX) · [Releases](https://github.com/USUARIO/REPO/releases)
+- **Versiones y cambios** (changelog): [GitHub Releases](https://github.com/USUARIO/REPO/releases)
+  
+
+- **Cómo citar**: [DOI](https://doi.org/10.XXXX/XXXXX) · [License]({{ "/licencias/" | relative_url }})  
+ 
+---
+
+## Alcance y uso recomendado
+
+- **Cobertura espacial**: Parque Nacional de Doñana y entorno inmediato (especificar límites si aplica).
+- **Sistema de referencia (CRS)**: EPSG:XXXX (p. ej., ETRS89 / UTM zona 30N).
+- **Uso recomendado**: cartografía de síntesis y análisis ecológico/territorial.  
+  *No apto para deslindes ni decisiones jurídicas.*
+- **Resolución / escala efectiva**: producto integrado ~1:XX.XXX (aprox.). Cada capa puede tener su propia escala efectiva (ver fichas).
+- **Cobertura temporal**: versión V1 (2026). Componentes temporales específicos se documentan por capa.
+
+---
+
+## Capas principales
+
+| Capa | Ficha | Descarga |
+|---|---|---|
+| **Toponimia de Doñana** | [Ficha]({{ "/toponimos/" | relative_url }}) | [Descarga](https://zenodo.org/records/XXXXX) |
+| **Cartografía de la red de lagunas** | [Ficha]({{ "/lagunas/" | relative_url }}) | [Descarga](https://zenodo.org/records/XXXXX) |
+| **Alcornoques del PN Doñana** | [Ficha]({{ "/alcornoques/" | relative_url }}) | [Descarga](https://zenodo.org/records/XXXXX) |
+| **Duración de la inundación (hidroperiodos)** | [Ficha]({{ "/hidroperiodos/" | relative_url }}) | [Descarga](https://zenodo.org/records/XXXXX) |
+
+---
+
+## Capas secundarias
+
+> Nota: estas capas pueden ser incompletas o interpretativas. Consulta la ficha antes de su uso.
+
+| Capa | Ficha | Descarga |
+|---|---|---|
+| **Red de caminos, carriles y cortafuegos** | [Ficha]({{ "/caminos/" | relative_url }}) | — |
+| **Vallados y cercados** | [Ficha]({{ "/vallados/" | relative_url }}) | — |
+| **Edificaciones y construcciones** | [Ficha]({{ "/edificaciones/" | relative_url }}) | — |
+
+---
+
+## Datos de referencia
+
+> Estas fuentes son externas. Si publicas derivados (pendientes, sombreado, mosaicos), indica claramente el origen y el proceso.
+
+| Recurso | Ficha | Fuente |
+|---|---|---|
+| **Modelo Digital del Terreno (MDT)** | [Ficha]({{ "/mdt/" | relative_url }}) | [CNIG/IGN](https://www.cnig.es/) |
+| **Mapa de pendientes** | [Ficha]({{ "/pendientes/" | relative_url }}) | [CNIG/IGN](https://www.cnig.es/) |
+| **LiDAR** | [Ficha]({{ "/lidar/" | relative_url }}) | [CNIG/IGN](https://www.cnig.es/) |
+
+---
+
+## Licencia y contacto
+
+- **Licencia**: consulta [Licencias]({{ "/licencias/" | relative_url }}).
+- **Sugerencias / correcciones**: escríbeme [aquí](mailto:m.defelipe.t@gmail.com).
