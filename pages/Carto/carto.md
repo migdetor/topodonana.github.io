@@ -8,9 +8,9 @@ permalink: /carto/
 -->
 # Cartographic information   Información cartográfica
 
-[EN] This page brings together the cartographic layers and resources associated with the updated map of Doñana National Park. For each layer you will find a **Fact sheet** (documentation) and, when applicable, a **Download** link (repository / Zenodo).
+**[EN]** This page brings together the cartographic layers and resources associated with the updated map of Doñana National Park. For each layer you will find a **Fact sheet** (documentation) and, when applicable, a **Download** link (repository / Zenodo).
 
-[ES] Esta página reúne las capas cartográficas y recursos asociados al mapa actualizado del Parque Nacional de Doñana. Para cada capa encontrarás una **Ficha** (documentación) y, cuando aplique, un enlace de **Descarga** (repositorio / Zenodo).
+**[ES]** Esta página reúne las capas cartográficas y recursos asociados al mapa actualizado del Parque Nacional de Doñana. Para cada capa encontrarás una **Ficha** (documentación) y, cuando aplique, un enlace de **Descarga** (repositorio / Zenodo).
 
 ---
 
