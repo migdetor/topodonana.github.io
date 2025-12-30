@@ -28,11 +28,9 @@ Por todo esto, me pareció fundamental poner en valor la abundancia y diversidad
 En **1958**, **J. A. Valverde** publica en _British Birds_ el "An ecological sketch of Coto Doñana". Por primera vez, se describe Doñana en base a unidades ecológicas, su estructura y funcionamiento.  durante los 50: bocetos de la estructura y funcionamiento de las unidades ecológicas que componen Doñana. Esta forma de entender el paisaje culminaría en la [_Estructura de una comunidad mediterránea de vertebrados terrestres_]([addlink](https://files01.core.ac.uk/download/pdf/36194286.pdf)) y _Vertebrados de las Marismas del Guadalquivir_. Aparecen aquí ya las lagunas como unidad ecológica.
 
 <img src="{{ "/assets/img/mosaicsketch.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
-
 _En **1974**, **C. Allier et al.**: primer mapa ecológico de la Reserva Biológica de Doñana. Se representa el cordón de lagunas peridunares y unas pocas lagunas más de largo hidroperiodo, navazos y depresiones húmedas con vegetación hidrofítica._
 
 <img src="{{ "/assets/img/allier.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
-
 En **1993**, **J. Castroviejo** realiza el _Mapa del Parque Nacional de Doñana_. En la memoria que lo acompaña se recogen por primera vez los aspectos históricos, humanos, climatológicos, edáficos e hídricos que rigen el funcionamiento de los distintos ecosistemas de Doñana, así como las amenazas y agresiones a la integridad del Parque Nacional. Se recoge por primera vez una extensa toponimia así como ~70 lagunas. 
 
 En **1998**, **[C. Montes et al.](https://www.ign.es/web/catalogo-cartoteca/resources/html/023568.html)** realizaron la [primera clasificación jerárquica de los ecosistemas del Parque Nacional](https://www.researchgate.net/profile/Francisco-Barrera-6/publication/260182698_Reconocimiento_Biofisico_de_Espacios_Naturales_Protegidos_Donana_una_aproximacion_ecosistenica/links/0c96052fe687226991000000/Reconocimiento-Biofisico-de-Espacios-Naturales-Protegidos-Donana-una-aproximacion-ecosistenica.pdf) mediante la fotointerpretación de fotografías aéreas, imágenes satélite y verificación a pie campo. 
