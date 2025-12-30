@@ -9,7 +9,7 @@ menu:
     url: "/es/preface/"
   - label: "El mapa"
     url: "/es/map/"
-  - label: "Contenidos"
+  - label: "Información cartográfica"
     url: "/es/content/"
   - label: "Descarga de datos"
     url: "https://zenodo.org/records/13960897"
