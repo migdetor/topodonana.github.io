@@ -47,6 +47,7 @@ Con otros tales como:
 - caminos, cortafuegos
 - construcciones
 - vallados
+- ojos, pozos y zacallones
 
 ## Outcome - Producto final
 ¿Cuál es el resultado?
