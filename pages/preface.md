@@ -17,8 +17,7 @@ _"To those devoid of imagination, a blank place on the map is a useless waste; t
 
 _"Para aquellos que carecen de imaginación, un lugar en blanco en el mapa es un desperdicio inútil; para otros, la parte más valiosa."_ Aldo Leopold
 
-**[EN]**
-## 1. Origin
+## 1. Origin **[EN]**
 
 The idea for this map did not begin as something planned; it simply emerged, like an <abbr title="A natural, permanent freshwater spring that surfaces through the clayey soils of the marsh.">eye</abbr> of the marsh.
 
@@ -36,8 +35,7 @@ For all these reasons, it seemed essential to highlight the abundance and divers
 
 jejejeje
 
-**[ES]**
-## 1. Origen
+## 1. Origen **[ES]**
 
 La idea de este mapa no nace como algo premeditado; simplemente _surgió_, como un <abbr title="Surgencia natural de agua dulce permanente que aflora en el terreno arcilloso la marisma.">ojo</abbr>
  de la marisma. 
