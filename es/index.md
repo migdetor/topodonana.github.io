@@ -33,9 +33,6 @@ Este repositorio centraliza la información cartográfica y ecológica asociada 
 
 Mediante la creación de esta página se pretende poner a disposición pública la información cartográfica empleada para la creación del mismo, actualizar de forma periódica las distintas capas de información que lo componen, y proporcionar el contexto socio-ecológico que permita entender las tendencias que viene experimentando Doñana en las últimas décadas, así como sus causas y consecuencias.
 
-## Descarga directa
-Pulsa **[aqui](https://zenodo.org/records/13960897)** para ser redirigido a un repositorio desde donde descargar la información cartográfica.
-
 ## Índice
   - [Justificación]({{ "/es/preface/" | relative_url }})
   - [El Mapa]({{ "/es/map/" | relative_url }})
@@ -43,14 +40,16 @@ Pulsa **[aqui](https://zenodo.org/records/13960897)** para ser redirigido a un r
   - [Descarga de Datos](https://zenodo.org/records/13960897)
   - [Recursos Adicionales]({{ "/es/recursos/" | relative_url }})
 
+## Descarga directa
+Pulsa **[aqui](https://zenodo.org/records/13960897)** para ser redirigido a un repositorio desde donde descargar la información cartográfica.
+
 ### Cita recomendada:
 <i>M. de Felipe (2026). Mapa actualizado del Parque Nacional de Doñana (v1.0). Zenodo. DOI: [DOI]<i>
 
-# Licencia de uso
+## Licencia de uso
 Los **datos cartográficos y ecológicos** disponibles para descarga se publican bajo licencia Creative Commons Attribution–NonCommercial 4.0 International (**CC BY-NC 4.0**). Se permite su uso, distribución y creación de obras derivadas únicamente para fines no comerciales, siempre que se cite la fuente.
 
 El diseño, composición, maquetación y versión final del mapa (**plano/PDF/imagen**) están protegidos por derechos de autor. © Miguel de Felipe Toro, 2026. **Todos los derechos reservados**. Queda prohibida la reproducción total o parcial, distribución o comunicación pública del mapa final sin consentimiento expreso por escrito del titular de los derechos.
 
-
-# Contacto
+## Contacto
 Para informar de errores, sugerencias o consultas de uso, escríbeme **[aquí](mailto:m.defelipe.t@gmail.com)**.
