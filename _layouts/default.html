@@ -23,9 +23,20 @@
 
         <p class="site-description">{{ site.description | default: site.github.project_tagline }}</p>
 
-                {% if site.menu %}
-          <div class="menu">
-            {% for item in site.menu %}
+                {% assign nav = page.menu | default: site.menu %}
+{% if nav %}
+  <div class="menu">
+    {% for item in nav %}
+      {% assign u = item.url %}
+      {% if u contains "://" or u contains "mailto:" %}
+        <p><a href="{{ u }}" target="_blank" rel="noopener">{{ item.label }}</a></p>
+      {% else %}
+        <p><a href="{{ u | relative_url }}">{{ item.label }}</a></p>
+      {% endif %}
+    {% endfor %}
+  </div>
+{% endif %}
+
               {% assign u = item.url %}
               {% if u contains "://" or u contains "mailto:" %}
                 <p><a href="{{ u }}" target="_blank" rel="noopener">{{ item.label }}</a></p>
@@ -36,11 +47,12 @@
           </div>
         {% endif %}
         
-        {% if site.links %}
+        {% assign ext = page.links | default: site.links %}
+{% if ext %}
   <div class="links-sep"></div>
-  <div class="links-title">© Miguel de Felipe Toro</div>
+  <div class="links-title">{{ page.links_title | default: site.links_title | default: "Links" }}</div>
   <div class="links">
-    {% for item in site.links %}
+    {% for item in ext %}
       {% assign u = item.url %}
       {% if u contains "://" or u contains "mailto:" %}
         <p><a href="{{ u }}" target="_blank" rel="noopener">{{ item.label }}</a></p>
@@ -52,21 +64,25 @@
 {% endif %}
 
 
-        {% if site.citation_text %}
-          <div class="citation">
-            <p>
-              <strong>{{ site.citation_label | default: "Cita recomendada:" }}</strong>
-              {{ site.citation_text }}
-              {% if site.citation_doi_url %}
-                <a href="{{ site.citation_doi_url }}" target="_blank" rel="noopener">
-                  {{ site.citation_doi_label | default: site.citation_doi_url }}
-                </a>
-              {% else %}
-                {{ site.citation_doi_label }}
-              {% endif %}
-            </p>
-          </div>
-        {% endif %}
+
+        {% assign ctext = page.citation_text | default: site.citation_text %}
+{% if ctext %}
+  <div class="citation">
+    <p>
+      <strong>{{ page.citation_label | default: site.citation_label | default: "Recommended citation:" }}</strong>
+      {{ ctext }}
+      {% assign cdoi = page.citation_doi_url | default: site.citation_doi_url %}
+      {% if cdoi %}
+        <a href="{{ cdoi }}" target="_blank" rel="noopener">
+          {{ page.citation_doi_label | default: site.citation_doi_label | default: cdoi }}
+        </a>
+      {% else %}
+        {{ page.citation_doi_label | default: site.citation_doi_label }}
+      {% endif %}
+    </p>
+  </div>
+{% endif %}
+
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
