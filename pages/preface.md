@@ -8,9 +8,21 @@ permalink: /preface/
 <!--
 <img src="{{ "/assets/img/laguna.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 -->
-_"Para aquellos que carecen de imaginación, un lugar en blanco en el mapa es un desperdicio inútil; para otros, la parte más valiosa."_ Edward Abbey
+**[English]**
+
+_"To those devoid of imagination, a blank place on the map is a useless waste; to others, the most valuable part."_ Aldo Leopold
+
+**[Español]**
+
+
+_"Para aquellos que carecen de imaginación, un lugar en blanco en el mapa es un desperdicio inútil; para otros, la parte más valiosa."_ Aldo Leopold
 
 ## Origin - Origen
+
+**[EN]**
+fewjfbnfjv
+
+**[ES]**
 La idea de este mapa no nace como algo premeditado; simplemente _surgió_, como un <abbr title="Surgencia natural de agua dulce permanente que aflora en el terreno arcilloso la marisma.">ojo</abbr>
  de la marisma. 
 
