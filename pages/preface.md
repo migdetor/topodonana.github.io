@@ -21,7 +21,7 @@ Por todo esto, me parecía importante mostrar la abundancia y diversidad de lagu
 
 ## Antecedents - Antecedente
 
-** J. A. Valverde** durante los 50: bocetos de la estructura y funcionamiento de las unidades ecológicas que componen Doñana. Culminación en la [estructura de una comunidad de vertebrados mediterraneos](addlink). Predilección por la marisma: (mapas marisma de castañuela y de bayunco), pero ya aparecen las lagunas como unidades ecologicas.
+**J. A. Valverde** durante los 50: bocetos de la estructura y funcionamiento de las unidades ecológicas que componen Doñana. Culminación en la [estructura de una comunidad de vertebrados mediterraneos](addlink). Predilección por la marisma: (mapas marisma de castañuela y de bayunco), pero ya aparecen las lagunas como unidades ecologicas.
 
 En 1974, **Allier**: : primer mapa ecológico de la Reserva Biológica de Doñana. Se representa el cordón de lagunas peridunares y unas pocas lagunas más de largo hidroperiodo, navazos y depresiones húmedas con vegetación hidrofítica.
 
