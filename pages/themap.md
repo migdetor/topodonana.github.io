@@ -9,11 +9,7 @@ permalink: /map/
 <!--
 <img src="{{ "/assets/img/laguna.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 --> 
-
-_"Para aquellos que carecen de imaginación, un lugar en blanco en el mapa es un desperdicio inútil; para otros, la parte más valiosa."_ Edward Abbey
-
 ## What we did - El proceso
-
 
 Integración de datos base como:
 - DEM
