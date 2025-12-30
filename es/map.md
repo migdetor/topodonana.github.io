@@ -27,12 +27,8 @@ citation_text: "M. de Felipe (2026). Mapa actualizado del Parque Nacional de Do�
 citation_doi_label: "DOI: [DOI]"
 citation_doi_url: "https://doi.org/[DOI]"
 ---
-# The map - El mapa
-
-<!--
-<img src="{{ "/assets/img/laguna.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
---> 
-## What we did - El proceso
+# El mapa 
+## El proceso
 
 Integración de datos base como:
 - DEM
@@ -49,16 +45,16 @@ Con otros tales como:
 - vallados
 - ojos, pozos y zacallones
 
-## Outcome - Producto final
+## Producto
 ¿Cuál es el resultado?
 
-## Access & use - Acceso y uso
+## Acceso y uso
 ¿Qué ponemos a disposición de la gente?
 
-## Get a map - Hazte con el mapa
+## Hazte con el mapa
 Contact me **[here](mailto:m.defelipe.t@gmail.com)**.
 
 Contáctame **[aqui](mailto:m.defelipe.t@gmail.com)**.
 
-## References - Referencias
+## Referencias
 - kmkm
