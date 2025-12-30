@@ -12,7 +12,7 @@ menu:
   - label: "Download data - Descarga de datos"
     url: "https://zenodo.org/records/13960897"
   - label: "Acknowledgements - Agradecimientos"
-    url: "acknowledgement"
+    url: "/acknowledgement/"
   - label: "Contact - Contacto"
     url: "/contact/"
 
