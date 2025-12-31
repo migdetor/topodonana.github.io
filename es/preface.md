@@ -111,7 +111,7 @@ Cada uno de estos trabajos tiene una importancia fundacional única que en su co
 <figure style="margin: 0 0 1rem 0;">
   <img src="{{ "/assets/img/carola2.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
     <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
-Extensión y densidad de la red de lagunas temporales cartografiadas por Gómez-Rodríguez et al. 
+En el lado derecho: extensión y densidad de la red de lagunas temporales cartografiadas por Gómez-Rodríguez et al. 
   </figcaption>
 </figure>
 
