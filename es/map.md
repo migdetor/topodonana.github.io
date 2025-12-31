@@ -28,12 +28,10 @@ citation_doi_label: "DOI: [DOI]"
 citation_doi_url: "https://doi.org/[DOI]"
 ---
 # El mapa 
-## El proceso
+La extensión geográfica del mapa cubre aquella protegida como Parque Nacional de Doñana, así como la zona de marisma natural restaurada ubicada en el Parque Natural conocida como _Marisma Gallega_. 
 
-Integración de datos base como:
-- DEM
-- mapa pendientes
-- LiDAR
+Para la realización del mapa actualizado de Doñana hemos integrado diversas fuentes de información incluyendo fuentes propias como externas. Así los datos base que componen el mapa están formados por el **modelo digital de elevación del terreno MDT0X con proyección ETRS89 y huso 29N**, el **modelo digital de pendientes MDP0X con proyección ETRS89 y huso 29** y un **mapa LIDAR de Xª cobertura con proyección ETRS89 y huso 29**.
+
 
 Con otros tales como:
 - cartografía lagunas de carola
