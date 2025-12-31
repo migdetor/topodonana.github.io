@@ -31,7 +31,9 @@ citation_doi_url: "https://doi.org/[DOI]"
 <!--
 <img src="{{ "/assets/img/laguna.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 -->
-_"Para aquellos que carecen de imaginación, un lugar en blanco en el mapa es un desperdicio inútil; para otros, la parte más valiosa."_ Aldo Leopold
+<p style="font-size: 0.85em;">
+"<em>Para aquellos que carecen de imaginación, un lugar en blanco en el mapa es un desperdicio inútil; para otros, la parte más valiosa.</em>" Aldo Leopold
+</p>
 
 ## Origen
 
@@ -47,7 +49,7 @@ Imagen aérea de la red de lagunas en primavera de 2011. En el lado derecho, al 
   </figcaption>
 </figure>
 
-En 2018, el 83% de las lagunas se encontraban afectadas por las extracciones de aguas subterráneas para la agricultura y el abastecimiento de agua en urbanizaciones turísticas ([de Felipe et al. 2023](https://doi.org/10.1016/j.scitotenv.2023.163329)). Hasta el punto que el 59% de las lagunas había desaparecido por completo ([de Felipe et al. 2023](https://doi.org/10.1016/j.scitotenv.2023.163329)), siendo colonizadas sus cubetas por la vegetación terrestre ([Díaz-Paniagua et al. 2023](https://doi.org/10.1002/aqc.3984); [Díaz-Paniagua et al. 2024](https://doi.org/10.1163/15685381-bja10179)). A la desaparición de las lagunas, le ha seguido la de su biodiversidad asociada: plantas acuáticas ([García-Murillo et al. 2025](https://doi.org/10.1016/j.jnc.2024.126814)), invertebrados (Florencio et al. in prep.), anfibios ([Díaz-Paniagua et al. 2024](https://doi.org/10.1163/15685381-bja10179)) y galápagos acuáticos (de Felipe et al. in press.). Hasta que ya en 2024, la última laguna permanente –_Santa Olalla_– [se secó por tercer año consecutivo]([link.al.csic](https://www.csic.es/es/actualidad-del-csic/la-laguna-de-santa-olalla-en-donana-se-seca-por-tercer-ano-consecutivo)), marcando un hito nunca antes descrito en Doñana. 
+En 2018, el 83% de las lagunas se encontraban afectadas por las extracciones de aguas subterráneas para agricultura y abastecimiento de agua en urbanizaciones turísticas ([de Felipe et al. 2023](https://doi.org/10.1016/j.scitotenv.2023.163329)). Hasta el punto que el 59% de las lagunas había desaparecido por completo ([de Felipe et al. 2023](https://doi.org/10.1016/j.scitotenv.2023.163329)), siendo colonizadas sus cubetas por la vegetación terrestre ([Díaz-Paniagua et al. 2023](https://doi.org/10.1002/aqc.3984); [Díaz-Paniagua et al. 2024](https://doi.org/10.1163/15685381-bja10179)). A la desaparición de las lagunas, le ha seguido la de su biodiversidad asociada: plantas acuáticas ([García-Murillo et al. 2025](https://doi.org/10.1016/j.jnc.2024.126814)), invertebrados (Florencio et al. in prep.), anfibios ([Díaz-Paniagua et al. 2024](https://doi.org/10.1163/15685381-bja10179)) y galápagos acuáticos (de Felipe et al. in press.). Ya en 2024, la última laguna permanente –_Santa Olalla_– [se secó por tercer año consecutivo]([link.al.csic](https://www.csic.es/es/actualidad-del-csic/la-laguna-de-santa-olalla-en-donana-se-seca-por-tercer-ano-consecutivo)), marcando un hito nunca antes descrito en Doñana. 
 
 <figure style="margin: 0 0 1rem 0;">
   <img src="{{ "/assets/img/zahillo.jpeg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
@@ -62,7 +64,7 @@ Por todo esto, me pareció fundamental poner en valor la abundancia y diversidad
 
 La idea de elaborar un mapa de Doñana no es nueva:
 
-En **1958**, **J. A. Valverde** publica en _British Birds_ el "An ecological sketch of Coto Doñana". Por primera vez, se describe Doñana en base a unidades ecológicas, su estructura y funcionamiento. Esta forma de entender el paisaje culminaría en la [_Estructura de una comunidad mediterránea de vertebrados terrestres_]([addlink](https://files01.core.ac.uk/download/pdf/36194286.pdf)) y _Vertebrados de las Marismas del Guadalquivir_. Aparecen aquí ya las lagunas como unidad ecológica.
+En **1958**, **J. A. Valverde** publica en _British Birds_ el ["An ecological sketch of Coto Doñana"](https://britishbirds.co.uk/journal/article/ecological-sketch-coto-donana). Por primera vez, se describe Doñana en base a unidades ecológicas, su estructura y funcionamiento. Esta forma de entender el paisaje culminaría en la [_Estructura de una comunidad mediterránea de vertebrados terrestres_]([addlink](https://files01.core.ac.uk/download/pdf/36194286.pdf)) y _Vertebrados de las Marismas del Guadalquivir_. Aparecen aquí ya las lagunas como unidad ecológica.
 
 <figure style="margin: 0 0 1rem 0;">
   <img src="{{ "/assets/img/mosaicsketch.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
@@ -71,7 +73,7 @@ Fig. superior: sección principal del Coto de Doñana desde el Océano Atlántic
   </figcaption>
 </figure>
 
-En **1974**, **C. Allier et al.** elaboran el primer mapa ecológico de la Reserva Biológica de Doñana. Se distinguen 11 complejos ambientales y se representan las lagunas semipermanentes, de largo hidroperiodo, navazos y depresiones húmedas con vegetación hidrofítica.
+En **1974**, **C. Allier et al.** elaboran el primer mapa ecológico de la Reserva Biológica de Doñana. Se distinguen 11 complejos ambientales y se representan las lagunas permanentes, de largo hidroperiodo, navazos y depresiones húmedas con vegetación hidrofítica.
 
 <figure style="margin: 0 0 1rem 0;">
   <img src="{{ "/assets/img/allier2.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
