@@ -71,21 +71,21 @@ Fig. superior: sección principal del Coto de Doñana desde el Océano Atlántic
   </figcaption>
 </figure>
 
-_En **1974**, **C. Allier et al.**: primer mapa ecológico de la Reserva Biológica de Doñana. Se representa el cordón de lagunas peridunares y unas pocas lagunas más de largo hidroperiodo, navazos y depresiones húmedas con vegetación hidrofítica._
+En **1974**, **C. Allier et al.** elaboran el primer mapa ecológico de la Reserva Biológica de Doñana. Se distinguen 11 complejos ambientales y se representan las lagunas semipermanentes, de largo hidroperiodo, navazos y depresiones húmedas con vegetación hidrofítica.
 
 <figure style="margin: 0 0 1rem 0;">
   <img src="{{ "/assets/img/allier2.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
-Pie de figura aqui. 
+Detalle del mapa ecológico de la Reserva Biológica de Doñana a escala 1:10000 elaborado por C. Allier, F. González-Bernáldez y L. Ramírez-Díaz.
   </figcaption>
 </figure>
 
-En **1993**, **J. Castroviejo** realiza el _Mapa del Parque Nacional de Doñana_. En la memoria que lo acompaña se recogen por primera vez los aspectos históricos, humanos, climatológicos, edáficos e hídricos que rigen el funcionamiento de los distintos ecosistemas de Doñana, así como las amenazas y agresiones a la integridad del Parque Nacional. Se recoge por primera vez una extensa toponimia así como ~70 lagunas. 
+En **1993**, **J. Castroviejo** realiza el _Mapa del Parque Nacional de Doñana_. En la memoria que lo acompaña se recogen por primera vez los aspectos históricos, humanos, climatológicos, edáficos e hídricos que rigen el funcionamiento de los distintos ecosistemas de Doñana, así como las amenazas y agresiones a la integridad del Parque Nacional. Se recoge por primera vez una extensa toponimia, así como ~70 lagunas. 
 
 <figure style="margin: 0 0 1rem 0;">
   <img src="{{ "/assets/img/castrov.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
-Pie de figura aqui. 
+Detalle del mapa del Parque Nacional de Doñana a escala 1:50000 elaborado por J. Castroviejo.  
   </figcaption>
 </figure>
 
@@ -110,14 +110,11 @@ Cada uno de estos trabajos tiene una importancia fundacional única que en su co
 
 <figure style="margin: 0 0 1rem 0;">
   <img src="{{ "/assets/img/carola2.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
-  <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
-Pie de figura aqui. 
-  </figcaption>
 </figure>
 
 ## Referencias
 - Allier C., González-Bernáldez F., Ramírez-Díaz, L. (1974). <i>Mapa Ecológico de la Reserva Biológica de Doñana<i>. Consejo Superior de Investigaciones Científicas (CSIC).
-- Castroviejo Bolibar, J. (1993). <i>Mapa del parque nacional de Doñana<i>: memoria. Consejo Superior de Investigaciones Científicas (CSIC) Agencia de Medio Ambiente (AMA) de la Junta de Andalucía.
+- Castroviejo, J. (1993). <i>Mapa del parque nacional de Doñana<i>: memoria. Consejo Superior de Investigaciones Científicas (CSIC) Agencia de Medio Ambiente (AMA) de la Junta de Andalucía.
 - Custodio (2009)
 - de Felipe (2023)
 - Díaz-Paniagua (2015)
@@ -126,7 +123,7 @@ Pie de figura aqui.
 - García-Murillo (2025)
 - Gómez-Rodríguez (2011)
 - Green  (2016).
-- Monter et al. (1998)
+- Montes et al. (1998)
 - Ruiz-Labourdette, D., Coleto, C., Bravo, M. A., Borja, F., Borja, C., Montes, C. (2005). <i>Mapa del complejo palustre de los arenales de Doñana<i>. Consejería de Sostenibilidad y Medio Ambiente, Junta de Andalucía (REDIAM). [Link](https://portalrediam.cica.es/geonetwork/static/api/records/0d07732a-71a9-4642-8e79-a99c7cfe5668).
 - Valverde, J. A. (1958). An Ecological Sketch of the coto . British Birds. <i>LI<i>(I).
 - Valverde, J. A. (1967). Estructura de una comunidad mediterránea de vertebrados terrestres. 209.
