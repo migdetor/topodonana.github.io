@@ -115,17 +115,17 @@ Cada uno de estos trabajos tiene una importancia fundacional única que en su co
 ## Referencias
 - Allier C., González-Bernáldez F., Ramírez-Díaz, L. (1974). <i>Mapa Ecológico de la Reserva Biológica de Doñana<i>. Consejo Superior de Investigaciones Científicas (CSIC).
 - Castroviejo, J. (1993). <i>Mapa del parque nacional de Doñana<i>: memoria. Consejo Superior de Investigaciones Científicas (CSIC) Agencia de Medio Ambiente (AMA) de la Junta de Andalucía.
-- Custodio (2009)
-- de Felipe (2023)
-- Díaz-Paniagua (2015)
-- Díaz-Paniagua (2023)
-- Díaz-Paniagua (2024)
-- García-Murillo (2025)
-- Gómez-Rodríguez (2011)
-- Green  (2016).
+- Custodio, E., Manzano, M., Montes, C. (2009). Las aguas subterráneas en Doñana – Aspectos ecológicos y sociales. Agencia Andaluza del Agua, Consejería de Medio Ambiente, Sevilla.
+- De Felipe, M., Aragonés, D., Díaz-Paniagua, C. (2023). Thirty-four years of Landsat monitoring reveal long-term effects of groundwater abstractions on a World Heritage Site wetland. Science of the Total Environment. 880:163329. [DOI](https://doi.org/10.1016/j.scitotenv.2023.163329). 
+- Díaz-Paniagua, C., Fernández-Zamudio, R., Serrano, L., Florencio, M., Gómez-Rodríguez, C., Sousa, A., et al. (2015). El Sistema de Lagunas Temporales de Doñana, una red de hábitats acuáticos singulares. Organismo Autónomo de Parques Nacionales. Ministerio de Agricultura, Alimentación y Medio Ambiente, Madrid.
+- Díaz‐Paniagua, C., Ramírez‐Soto, M., & Aragonés, D. (2023). Pond basin colonization by terrestrial vegetation indicates wetland deterioration. Aquatic Conservation: Marine and Freshwater Ecosystems, 33(8), 798-809. [DOI](https://doi.org/10.1002/aqc.3984).
+- Díaz-Paniagua, C., Florencio, M., de Felipe, M., Ramírez-Soto, M., Román, I., & Arribas, R. (2024). Groundwater decline has negatively affected the well-preserved amphibian community of Doñana National Park (SW Spain). Amphibia-Reptilia (published online ahead of print 2024). [DOI](https://doi.org/10.1163/15685381-bja10179).
+- Garcia-Murillo, P., Diaz-Paniagua, C., & Fernández-Zamudio, R. (2025). Decline of aquatic plants in an iconic European protected natural area. Journal for Nature Conservation, 84, 126814. [DOI](https://doi.org/10.1016/j.jnc.2024.126814).
+- Gómez-Rodríguez, C., Díaz-Paniagua, C., Bustamante, J. (2011). Cartografía de lagunas temporales del Parque Nacional de Doñana. Agencia Andaluza del Agua. Consejería de Medio Ambiente, Sevilla.
+- Green, A.J., Bustamante, J., Janss, G.F.E., Fernández-Zamudio, R. & Díaz-Paniagua, C. (2018). Doñana Wetlands (Spain). Wetlands Book. 1–14. Springer, Dordrecht.
 - Montes et al. (1998)
 - Ruiz-Labourdette, D., Coleto, C., Bravo, M. A., Borja, F., Borja, C., Montes, C. (2005). <i>Mapa del complejo palustre de los arenales de Doñana<i>. Consejería de Sostenibilidad y Medio Ambiente, Junta de Andalucía (REDIAM). [Link](https://portalrediam.cica.es/geonetwork/static/api/records/0d07732a-71a9-4642-8e79-a99c7cfe5668).
 - Valverde, J. A. (1958). An Ecological Sketch of the coto . British Birds. <i>LI<i>(I).
 - Valverde, J. A. (1967). Estructura de una comunidad mediterránea de vertebrados terrestres. 209.
-- Zacharias & Zamparas. (2010).
+- Zacharias, I., & Zamparas, M. (2010). Mediterranean temporary ponds. A disappearing ecosystem. Biodiversity and conservation, 19(14), 3827-3834. [DOI](https://doi.org/10.1007/s10531-010-9933-7).
 
