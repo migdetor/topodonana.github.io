@@ -52,7 +52,7 @@ Esta página reúne las capas de información geográfica y recursos asociados a
  *No apto para deslindes ni decisiones jurídicas.*
 - **Cobertura temporal**: versión V1 (2026). Componentes temporales específicos se documentan por capa.
 
->**Nota:** Debido a la naturaleza potencialmente sensible de la información contenida en algunas capas, estas no se encuentran disponibles para descarga directa. No obstante, el autor podrá facilitarlas previa solicitud, una vez se haya informado del uso previsto de los datos.
+>**Nota:** Debido a la naturaleza potencialmente sensible de la información contenida. Algunas capas no se encuentran disponibles para descarga directa. No obstante, el autor podrá facilitarlas previa solicitud, una vez se haya informado del uso previsto de los datos.
 
 ---
 
