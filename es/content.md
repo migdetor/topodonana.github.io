@@ -29,7 +29,7 @@ citation_doi_url: "https://doi.org/[DOI]"
 ---
 # Información cartográfica
 
-Esta página reúne las capas de información geográfica y recursos asociados al mapa actualizado del Parque Nacional de Doñana. Para cada capa encontrarás una **Ficha** (documentación) y, cuando aplique, un enlace de **Descarga** (desde un repositorio).
+Esta página reúne las capas de información geográfica y recursos asociados al mapa actualizado del Parque Nacional de Doñana. Para cada capa encontrarás una **Ficha** (documentación) y, cuando aplique, un enlace de **Descarga**.
 
 ---
 
@@ -45,11 +45,11 @@ Esta página reúne las capas de información geográfica y recursos asociados a
 
 ## Alcance y uso recomendado
 
-- **Cobertura espacial**: Parque Nacional de Doñana y marisma natural restaurada (_marisma gallega_) del Parque Natural de Doñana. Toponimia también incluye el entorno inmediato.
+- **Cobertura espacial**: Parque Nacional de Doñana y marisma restaurada (_marisma gallega_) del Parque Natural de Doñana. Toponimia también incluye el entorno inmediato.
 - **Sistema de referencia (CRS)**: ETRS89 / UTM zona 29N (EPSG:25829).
+- **Resolución / escala efectiva**: producto integrado ~1:49.800. Cada capa puede tener su propia escala efectiva (ver fichas).
 - **Uso recomendado**: consulta, síntesis, análisis ecológico/territorial.  
  *No apto para deslindes ni decisiones jurídicas.*
-- **Resolución / escala efectiva**: producto integrado ~1:49.800. Cada capa puede tener su propia escala efectiva (ver fichas).
 - **Cobertura temporal**: versión V1 (2026). Componentes temporales específicos se documentan por capa.
 
 >**Nota:** Debido a la naturaleza potencialmente sensible de la información contenida en algunas capas, estas no se encuentran disponibles para descarga directa. No obstante, el autor podrá facilitarlas previa solicitud, una vez se haya informado del uso previsto de los datos.
@@ -87,8 +87,8 @@ Esta página reúne las capas de información geográfica y recursos asociados a
 
 | Recurso | Ficha | Fuente |
 |---|---|---|
-| **Modelo Digital del Terreno (MDT)** | [Ficha]({{ "/mdt/" | relative_url }}) | [CNIG/IGN](https://www.cnig.es/) |
-| **Mapa de pendientes** | [Ficha]({{ "/pendientes/" | relative_url }}) | [CNIG/IGN](https://www.cnig.es/) |
+| **Modelo Digital del Terreno (MDT02 ETRS89 UTM H29N)** | [Ficha](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search?#/metadata/spaignMDT02) | [CNIG(IGN)]([https://www.cnig.es/](https://centrodedescargas.cnig.es/CentroDescargas/modelo-digital-terreno-mdt02-segunda-cobertura#)) |
+| **Modelo digital de pendientes (MDP05 ETRS89 H29N)** | [Ficha](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search?#/metadata/spaignMDP05) | [CNIG(IGN)]([https://www.cnig.es/](https://centrodedescargas.cnig.es/CentroDescargas/modelo-digital-pendientes-mdp05-primera-cobertura)) |
 | **LiDAR** | [Ficha]({{ "/lidar/" | relative_url }}) | [CNIG/IGN](https://www.cnig.es/) |
 | **Niveles de protección** | [Ficha]({{ "/proteccion/" | relative_url }}) | — |
 | **vértices geodésicos** | [Ficha]({{ "/vertices/" | relative_url }}) | — |
