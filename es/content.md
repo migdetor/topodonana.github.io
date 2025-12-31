@@ -60,11 +60,11 @@ Esta página reúne las capas de información geográfica y recursos asociados a
 
 | Capa | Ficha | Descarga |
 |---|---|---|
-| **Toponimia de Doñana** | [Ficha]({{ "/toponimos/" | relative_url }}) | [Descarga](https://zenodo.org/records/XXXXX) |
-| **Cartografía de la red de lagunas** | [Ficha]({{ "/lagunas/" | relative_url }}) | [Descarga](https://zenodo.org/records/XXXXX) |
-| **Alcornoques del PN Doñana** | [Ficha]({{ "/alcornoques/" | relative_url }}) | [Descarga](https://zenodo.org/records/XXXXX) |
-| **Duración de la inundación (hidroperiodos)** | [Ficha]({{ "/hidroperiodos/" | relative_url }}) | [Descarga](https://zenodo.org/records/XXXXX) |
-| **Zacallones, pozos y ojos** | [Ficha]({{ "/zacallones/" | relative_url }}) | [Descarga](https://zenodo.org/records/XXXXX) |
+| **Toponimia de Doñana** EN CONSTRUCCION | [Ficha]({{ "/toponimos/" | relative_url }}) | [Descarga](https://zenodo.org/records/XXXXX) |
+| **Cartografía de la red de lagunas** EN CONSTRUCCION | [Ficha]({{ "/lagunas/" | relative_url }}) | [Descarga](https://zenodo.org/records/XXXXX) |
+| **Alcornoques del PN Doñana** EN CONSTRUCCION | [Ficha]({{ "/alcornoques/" | relative_url }}) | [Descarga](https://zenodo.org/records/XXXXX) |
+| **Duración de la inundación (hidroperiodos)** EN CONSTRUCCION | [Ficha]({{ "/hidroperiodos/" | relative_url }}) | [Descarga](https://zenodo.org/records/XXXXX) |
+| **Zacallones, pozos y ojos** EN CONSTRUCCION | [Ficha]({{ "/zacallones/" | relative_url }}) | [Descarga](https://zenodo.org/records/XXXXX) |
 
 ---
 
@@ -74,10 +74,10 @@ Esta página reúne las capas de información geográfica y recursos asociados a
 
 | Capa | Ficha | Descarga |
 |---|---|---|
-| **Vallados y cercados** | [Ficha]({{ "/vallados/" | relative_url }}) | — |
-| **Red de caminos, carriles y cortafuegos** | [Ficha]({{ "/caminos/" | relative_url }}) | — |
-| **Edificaciones y construcciones** | [Ficha]({{ "/edificaciones/" | relative_url }}) | — |
-| **Estaciones hidrometeorológicas** | [Ficha]({{ "/hidromet/" | relative_url }}) | — |
+| **Vallados y cercados** EN CONSTRUCCION | [Ficha]({{ "/vallados/" | relative_url }}) | — |
+| **Red de caminos, carriles y cortafuegos** EN CONSTRUCCION | [Ficha]({{ "/caminos/" | relative_url }}) | — |
+| **Edificaciones y construcciones** EN CONSTRUCCION | [Ficha]({{ "/edificaciones/" | relative_url }}) | [Descarga](addlink) |
+| **Estaciones hidrometeorológicas** EN CONSTRUCCION | [Ficha]({{ "/hidromet/" | relative_url }}) | [Descarga](addlink) |
 
 ---
 
