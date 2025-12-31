@@ -74,6 +74,7 @@ Esta página reúne las capas cartográficas y recursos asociados al mapa actual
 | **Red de caminos, carriles y cortafuegos** | [Ficha]({{ "/caminos/" | relative_url }}) | — |
 | **Vallados y cercados** | [Ficha]({{ "/vallados/" | relative_url }}) | — |
 | **Edificaciones y construcciones** | [Ficha]({{ "/edificaciones/" | relative_url }}) | — |
+| **Niveles de protección** | [Ficha]({{ "/proteccion/" | relative_url }}) | — |
 
 ---
 
