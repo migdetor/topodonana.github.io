@@ -43,16 +43,16 @@ Mi [tesis doctoral](/) se ha centrado en estudiar la red de lagunas del Parque N
 <figure style="margin: 0 0 1rem 0;">
   <img src="{{ "/assets/img/aerealagunas.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
-Pie de figura aqui. 
+Imagen aérea de la red de lagunas en primavera de 2011. En el lado derecho, al fondo, se aprecian las lagunas peridunares de los Hermanillos, Sapo, las Pajas, Santa Olalla y Dulce.
   </figcaption>
 </figure>
 
 En 2018, el 83% de las lagunas se encontraban afectadas por las extracciones de aguas subterráneas para la agricultura y el abastecimiento de agua en urbanizaciones turísticas ([de Felipe et al. 2023](https://doi.org/10.1016/j.scitotenv.2023.163329)). Hasta el punto que el 59% de las lagunas había desaparecido por completo ([de Felipe et al. 2023](https://doi.org/10.1016/j.scitotenv.2023.163329)), siendo colonizadas sus cubetas por la vegetación terrestre ([Díaz-Paniagua et al. 2023](https://doi.org/10.1002/aqc.3984); [Díaz-Paniagua et al. 2024](https://doi.org/10.1163/15685381-bja10179)). A la desaparición de las lagunas, le ha seguido la de su biodiversidad asociada: plantas acuáticas ([García-Murillo et al. 2025](https://doi.org/10.1016/j.jnc.2024.126814)), invertebrados (Florencio et al. in prep.), anfibios ([Díaz-Paniagua et al. 2024](https://doi.org/10.1163/15685381-bja10179)) y galápagos acuáticos (de Felipe et al. in press.). Hasta que ya en 2024, la última laguna permanente –_Santa Olalla_– [se secó por tercer año consecutivo]([link.al.csic](https://www.csic.es/es/actualidad-del-csic/la-laguna-de-santa-olalla-en-donana-se-seca-por-tercer-ano-consecutivo)), marcando un hito nunca antes descrito en Doñana. 
 
 <figure style="margin: 0 0 1rem 0;">
-  <img src="{{ "/assets/img/zahillo.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
+  <img src="{{ "/assets/img/zahillo.jpeg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
-Pie de figura aqui. 
+Comparativa del estado de la laguna del Zahillo –una de las lagunas peridunares más importantes de Doñana– en primavera de 2011 y 2022. Esta laguna llegaba a comportarse como permanente en años húmedos. 
   </figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ En **1998**, **[C. Montes et al.](https://www.ign.es/web/catalogo-cartoteca/reso
 <figure style="margin: 0 0 1rem 0;">
   <img src="{{ "/assets/img/montes.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
-Pie de figura aqui. 
+Mapa Ecologico de Doñana a escala 1:40000 elaborado por C. Montes et al.
   </figcaption>
 </figure>
 En **2005**, **D. Ruiz-Labourdette et al.** publicaron en su [Mapa del complejo palustre de los arenales de Doñana]([addlink](https://portalrediam.cica.es/geonetwork/static/api/records/0d07732a-71a9-4642-8e79-a99c7cfe5668)) la primera cartografía detallada de formaciones palustres de los mantos eólicos y la flecha litoral de El Abalario-Doñana. Mediante imágenes satélite se cartografían ~680 lagunas distribuidas entre el Parque Nacional y Natural.
@@ -102,7 +102,7 @@ En **2005**, **D. Ruiz-Labourdette et al.** publicaron en su [Mapa del complejo 
 <figure style="margin: 0 0 1rem 0;">
   <img src="{{ "/assets/img/coleto.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
-Pie de figura aqui. 
+Mapa de las formaciones palustres del Espacio Natural de Doñana a escala 1:60000 elaborado por D. Ruiz-Labourdette et al. 
   </figcaption>
 </figure>
 
