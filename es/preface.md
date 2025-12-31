@@ -62,9 +62,10 @@ Fig. superior: sección principal del Coto de Doñana desde el Océano Atlántic
 
 _En **1974**, **C. Allier et al.**: primer mapa ecológico de la Reserva Biológica de Doñana. Se representa el cordón de lagunas peridunares y unas pocas lagunas más de largo hidroperiodo, navazos y depresiones húmedas con vegetación hidrofítica._
 
-<img src="{{ "/assets/img/allier.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
+<img src="{{ "/assets/img/allier2.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 En **1993**, **J. Castroviejo** realiza el _Mapa del Parque Nacional de Doñana_. En la memoria que lo acompaña se recogen por primera vez los aspectos históricos, humanos, climatológicos, edáficos e hídricos que rigen el funcionamiento de los distintos ecosistemas de Doñana, así como las amenazas y agresiones a la integridad del Parque Nacional. Se recoge por primera vez una extensa toponimia así como ~70 lagunas. 
 
+<img src="{{ "/assets/img/castrov.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 En **1998**, **[C. Montes et al.](https://www.ign.es/web/catalogo-cartoteca/resources/html/023568.html)** realizaron la [primera clasificación jerárquica de los ecosistemas del Parque Nacional](https://www.researchgate.net/profile/Francisco-Barrera-6/publication/260182698_Reconocimiento_Biofisico_de_Espacios_Naturales_Protegidos_Donana_una_aproximacion_ecosistenica/links/0c96052fe687226991000000/Reconocimiento-Biofisico-de-Espacios-Naturales-Protegidos-Donana-una-aproximacion-ecosistenica.pdf) mediante la fotointerpretación de fotografías aéreas, imágenes satélite y verificación a pie campo. 
 
 <img src="{{ "/assets/img/montes.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
