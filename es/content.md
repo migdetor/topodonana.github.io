@@ -91,5 +91,5 @@ Esta página reúne las capas cartográficas y recursos asociados al mapa actual
 
 ## Licencia y contacto
 
-- **Licencia**: consulta [Licencias]({{ "/licencias/" | relative_url }}).
+- **Licencia**: consulta [Licencias]({{ "/es/" | relative_url }}).
 - **Sugerencias / correcciones**: escríbeme [aquí](mailto:m.defelipe.t@gmail.com).
