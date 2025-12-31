@@ -81,17 +81,17 @@ Esta página reúne las capas de información geográfica y recursos asociados a
 
 ---
 
-## Datos de referencia
+## Capas de referencia
 
 > Estas fuentes son externas. Si publicas derivados (pendientes, sombreado, mosaicos), indica claramente el origen y el proceso.
 
 | Recurso | Ficha | Fuente |
 |---|---|---|
-| **Modelo Digital del Terreno** (MDT02 de 2ª cobertura; ETRS89 UTM H29N) | [Ficha](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search?#/metadata/spaignMDT02) | [CNIG(IGN)](https://centrodedescargas.cnig.es/CentroDescargas/modelo-digital-terreno-mdt02-segunda-cobertura#) |
+| **Modelo Digital del Terreno** (MDT25 de 2ª cobertura; ETRS89 UTM H29N) | [Ficha](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search?#/metadata/spaignMDT25-2) | [CNIG(IGN)](https://centrodedescargas.cnig.es/CentroDescargas/mdt25-segunda-cobertura) |
 | **Modelo digital de pendientes** (MDP02 de 2ª cobertura; ETRS89 H29N) | [Ficha](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search?#/metadata/spaignMDP05) | [CNIG(IGN)](https://centrodedescargas.cnig.es/CentroDescargas/modelo-digital-pendientes-mdp02-primera-cobertura) |
 | **Modelo Digital de Superficies Vegetación** (MDSnV2,5 de 2ª cobertura; ETRS89 H29N) | [Ficha](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search?#/metadata/spaignMDS_Normalizado_Vegetacion_cob2) | [CNIG(IGN)](https://centrodedescargas.cnig.es/CentroDescargas/modelo-digital-superficies-vegetacion-segunda-cobertura#) |
-| **Niveles de protección** EN CONSTRUCCION | [Ficha](addlink) | [REDIAM]() |
-| **vértices geodésicos** EN CONSTRUCCION | [Ficha](addlink) | [REDIAM]() |
+| **Niveles de protección** EN CONSTRUCCION | [Ficha](addlink) | [REDIAM](addlink) |
+| **Vértices geodésicos** EN CONSTRUCCION | [Ficha](addlink) | [CNIG(IGN](addlink) |
 
 ---
 
