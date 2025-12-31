@@ -60,7 +60,7 @@ Por todo esto, me pareció fundamental poner en valor la abundancia y diversidad
 
 ## Antecedentes
 
-Pero la idea de elaborar un mapa de Doñana no es nueva:
+La idea de elaborar un mapa de Doñana no es nueva:
 
 En **1958**, **J. A. Valverde** publica en _British Birds_ el "An ecological sketch of Coto Doñana". Por primera vez, se describe Doñana en base a unidades ecológicas, su estructura y funcionamiento. Esta forma de entender el paisaje culminaría en la [_Estructura de una comunidad mediterránea de vertebrados terrestres_]([addlink](https://files01.core.ac.uk/download/pdf/36194286.pdf)) y _Vertebrados de las Marismas del Guadalquivir_. Aparecen aquí ya las lagunas como unidad ecológica.
 
@@ -106,7 +106,7 @@ Mapa de las formaciones palustres del Espacio Natural de Doñana a escala 1:6000
   </figcaption>
 </figure>
 
-Cada uno de estos trabajos tiene una importancia fundacional única que en su conjunto integra las dimensiones históricas, ecológicas y humanas. Sin embargo, no fue hasta la publicación de la cartografía de las lagunas temporales del Parque Nacional de Doñana ([Gómez-Rodríguez et al. 2011](https://www.researchgate.net/publication/236586598_Cartografia_de_lagunas_temporales_del_Parque_Nacional_de_Donana)) cuando descubrimos que históricamente se había subestimado la abundancia e importancia de las lagunas de Doñana: un ecosistema único pero amenazado.
+Cada uno de estos trabajos tiene una importancia fundacional única que en su conjunto integra las dimensiones históricas, ecológicas y humanas. Sin embargo, no fue hasta la publicación de la cartografía de las lagunas temporales del Parque Nacional de Doñana ([Gómez-Rodríguez et al. 2011](https://www.researchgate.net/publication/236586598_Cartografia_de_lagunas_temporales_del_Parque_Nacional_de_Donana)) cuando descubrimos que históricamente se había subestimado la abundancia e importancia de las lagunas de Doñana: un ecosistema único pero tan amenazado que corre el riesgo de desaparecer antes de que muchos se percaten siquiera de su existencia. 
 
 <figure style="margin: 0 0 1rem 0;">
   <img src="{{ "/assets/img/carola2.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
