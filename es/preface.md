@@ -43,7 +43,7 @@ Mi [tesis doctoral](/) se ha centrado en estudiar la red de lagunas del Parque N
 <figure style="margin: 0 0 1rem 0;">
   <img src="{{ "/assets/img/aerealagunas.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
-Imagen aérea de la red de lagunas en primavera de 2011. En el lado derecho, al fondo, se aprecian las lagunas peridunares de los Hermanillos, Sapo, las Pajas, Santa Olalla y Dulce.
+Imagen aérea de la red de lagunas en primavera de 2011. En el lado derecho, al fondo, se aprecian las lagunas peridunares de los Hermanillos, Sapo, las Pajas, Santa Olalla y Dulce. Fotografía: Héctor Garrido - CSIC
   </figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ En 2018, el 83% de las lagunas se encontraban afectadas por las extracciones de 
 <figure style="margin: 0 0 1rem 0;">
   <img src="{{ "/assets/img/zahillo.jpeg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
-Comparativa del estado de la laguna del Zahillo –una de las lagunas peridunares más importantes de Doñana– en primavera de 2011 y 2022. Esta laguna llegaba a comportarse como permanente en años húmedos. 
+Comparativa del estado de la laguna del Zahillo –una de las lagunas peridunares más importantes de Doñana– en primavera de 2011 y 2022. Esta laguna llegaba a comportarse como permanente en años húmedos. Fotografía: Carmen Díaz-Paniagua.
   </figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ En **1958**, **J. A. Valverde** publica en _British Birds_ el "An ecological ske
 <figure style="margin: 0 0 1rem 0;">
   <img src="{{ "/assets/img/mosaicsketch.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
-Fig. superior: sección principal del Coto de Doñana desde el Océano Atlántico a través de las dunas, pinares y otros sustratos arenosos a las arcillas de la marisma. Aqui se representan las posiciones relativas de los bocetos más detallados de cada zona principal que son representados en la parte inferior de la figura. El eje vertical está fuera de escala. Fig. inf. izq.: boceto de los alrededores de una laguna. Las lagunas se consideran vestigios de antiguos brazos del Río Guadalquivir y se disponen en serie a lo largo de la línea que separa pinos y jaguarzales, de manera que cada laguna tiene pinos a un lado, y monte blanco al otro. Fig. inf. dcha.: boceto del parque de alcornoques y la vera. El efecto "parque" es creado por la gran abundancia de alcornoques (Quercus suber) en la llanura de jaguarzo que bordea la marisma–resultado del sustrato más húmedo en esta zona. El boceto ilustra la forma en que las depresiones húmedas son dominadas por zarzas (Rubus), helechos (Pteridium) y brezo (Erica arborea). 
+Fig. superior: sección principal del Coto de Doñana desde el Océano Atlántico a través de las dunas, pinares y otros sustratos arenosos a las arcillas de la marisma. Aqui se representan las posiciones relativas de los bocetos más detallados de cada zona principal que son representados en la parte inferior de la figura. El eje vertical está fuera de escala. Fig. inf. izq.: boceto de los alrededores de una laguna. Las lagunas se consideran vestigios de antiguos brazos del Río Guadalquivir y se disponen en serie a lo largo de la línea que separa pinos y jaguarzales, de manera que cada laguna tiene pinos a un lado, y monte blanco al otro. Fig. inf. dcha.: boceto del parque de alcornoques y la vera. El efecto "parque" es creado por la gran abundancia de alcornoques (Quercus suber) en la llanura de jaguarzo que bordea la marisma–resultado del sustrato más húmedo en esta zona. El boceto ilustra la forma en que las depresiones húmedas son dominadas por zarzas (Rubus), helechos (Pteridium) y brezo (Erica arborea). Extraido de Valverde (1958).
   </figcaption>
 </figure>
 
@@ -110,20 +110,23 @@ Cada uno de estos trabajos tiene una importancia fundacional única que en su co
 
 <figure style="margin: 0 0 1rem 0;">
   <img src="{{ "/assets/img/carola2.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
+    <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
+Extensión y densidad de la red de lagunas temporales cartografiadas por Gómez-Rodríguez et al. 
+  </figcaption>
 </figure>
 
 ## Referencias
 - Allier C., González-Bernáldez F., Ramírez-Díaz, L. (1974). <i>Mapa Ecológico de la Reserva Biológica de Doñana<i>. Consejo Superior de Investigaciones Científicas (CSIC).
 - Castroviejo, J. (1993). <i>Mapa del parque nacional de Doñana<i>: memoria. Consejo Superior de Investigaciones Científicas (CSIC) Agencia de Medio Ambiente (AMA) de la Junta de Andalucía.
-- Custodio, E., Manzano, M., Montes, C. (2009). Las aguas subterráneas en Doñana – Aspectos ecológicos y sociales. Agencia Andaluza del Agua, Consejería de Medio Ambiente, Sevilla.
+- Custodio, E., Manzano, M., Montes, C. (2009). Las aguas subterráneas en Doñana – Aspectos ecológicos y sociales. Agencia Andaluza del Agua, Consejería de Medio Ambiente, Sevilla. [Link](https://www.juntadeandalucia.es/medioambiente/web/Bloques_Tematicos/agencia_andaluza_agua/participacion/publicaciones/libro_donana_baja.pdf)
 - De Felipe, M., Aragonés, D., Díaz-Paniagua, C. (2023). Thirty-four years of Landsat monitoring reveal long-term effects of groundwater abstractions on a World Heritage Site wetland. Science of the Total Environment. 880:163329. [DOI](https://doi.org/10.1016/j.scitotenv.2023.163329). 
-- Díaz-Paniagua, C., Fernández-Zamudio, R., Serrano, L., Florencio, M., Gómez-Rodríguez, C., Sousa, A., et al. (2015). El Sistema de Lagunas Temporales de Doñana, una red de hábitats acuáticos singulares. Organismo Autónomo de Parques Nacionales. Ministerio de Agricultura, Alimentación y Medio Ambiente, Madrid.
+- Díaz-Paniagua, C., Fernández-Zamudio, R., Serrano, L., Florencio, M., Gómez-Rodríguez, C., Sousa, A., et al. (2015). El Sistema de Lagunas Temporales de Doñana, una red de hábitats acuáticos singulares. Organismo Autónomo de Parques Nacionales. Ministerio de Agricultura, Alimentación y Medio Ambiente, Madrid. [Link](https://www.researchgate.net/publication/305303117_El_Sistema_de_Lagunas_Temporales_de_Donana_una_red_de_habitats_acuaticos_singulares).
 - Díaz‐Paniagua, C., Ramírez‐Soto, M., & Aragonés, D. (2023). Pond basin colonization by terrestrial vegetation indicates wetland deterioration. Aquatic Conservation: Marine and Freshwater Ecosystems, 33(8), 798-809. [DOI](https://doi.org/10.1002/aqc.3984).
 - Díaz-Paniagua, C., Florencio, M., de Felipe, M., Ramírez-Soto, M., Román, I., & Arribas, R. (2024). Groundwater decline has negatively affected the well-preserved amphibian community of Doñana National Park (SW Spain). Amphibia-Reptilia (published online ahead of print 2024). [DOI](https://doi.org/10.1163/15685381-bja10179).
 - Garcia-Murillo, P., Diaz-Paniagua, C., & Fernández-Zamudio, R. (2025). Decline of aquatic plants in an iconic European protected natural area. Journal for Nature Conservation, 84, 126814. [DOI](https://doi.org/10.1016/j.jnc.2024.126814).
-- Gómez-Rodríguez, C., Díaz-Paniagua, C., Bustamante, J. (2011). Cartografía de lagunas temporales del Parque Nacional de Doñana. Agencia Andaluza del Agua. Consejería de Medio Ambiente, Sevilla.
-- Green, A.J., Bustamante, J., Janss, G.F.E., Fernández-Zamudio, R. & Díaz-Paniagua, C. (2018). Doñana Wetlands (Spain). Wetlands Book. 1–14. Springer, Dordrecht.
-- Montes et al. (1998)
+- Gómez-Rodríguez, C., Díaz-Paniagua, C., Bustamante, J. (2011). Cartografía de lagunas temporales del Parque Nacional de Doñana. Agencia Andaluza del Agua. Consejería de Medio Ambiente, Sevilla. [Link](https://www.researchgate.net/publication/236586598_Cartografia_de_lagunas_temporales_del_Parque_Nacional_de_Donana).
+- Green, A.J., Bustamante, J., Janss, G.F.E., Fernández-Zamudio, R. & Díaz-Paniagua, C. (2018). Doñana Wetlands (Spain). Wetlands Book. 1–14. Springer, Dordrecht. [DOI](https://doi.org/10.1007/978-94-007-6173-5_139-1).
+- Montes et al. (1998). Reconocimiento Biofísico de Espacios naturales de Andalucía: Doñana. Comunidad Europea, Fondo Europeo de Desarrollo Regional ; Junta de Andalucía, Consejería de Medio Ambiente. [Link](https://www.ign.es/web/catalogo-cartoteca/resources/html/023568.html)
 - Ruiz-Labourdette, D., Coleto, C., Bravo, M. A., Borja, F., Borja, C., Montes, C. (2005). <i>Mapa del complejo palustre de los arenales de Doñana<i>. Consejería de Sostenibilidad y Medio Ambiente, Junta de Andalucía (REDIAM). [Link](https://portalrediam.cica.es/geonetwork/static/api/records/0d07732a-71a9-4642-8e79-a99c7cfe5668).
 - Valverde, J. A. (1958). An Ecological Sketch of the coto . British Birds. <i>LI<i>(I).
 - Valverde, J. A. (1967). Estructura de una comunidad mediterránea de vertebrados terrestres. 209.
