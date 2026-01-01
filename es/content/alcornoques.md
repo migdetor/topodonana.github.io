@@ -44,7 +44,6 @@ El marcaje de los alcornoques centenarios fue una de las primeras labores que J.
 
 <img src="{{ "/assets/img/portadaalc.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 
-<img src="{{ "/assets/img/206.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 Para poner en valor la abundancia y distribución de estos alcornoques centenarios, hemos recopilado y combinado bases de datos del alcornocal de la RBD y ampliado mediante fotointerpretación de ortofotografías a la **totalidad del Parque Nacional**. De este modo, se han logrado identificar un total de **2584 alcornoques** que se encontraban vivos hasta 2022.
 
 **Descarga el catálogo fotográfico de los alcornoques de la RBD** de Ramo & Calderon (2013) [aqui](http://libros.csic.es/product_info.php?products_id=752)
