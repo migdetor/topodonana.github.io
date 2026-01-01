@@ -27,7 +27,7 @@ citation_text: "M. de Felipe (2026). Mapa actualizado del Parque Nacional de Do�
 citation_doi_label: "DOI: https://doi.org/10.5281/zenodo.18109683"
 citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 ---
-<img src="{{ "/assets/img/alcmap.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
+<img src="{{ "/assets/img/alcmapa.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 # Alcornoques del P. N. Doñana - Ficha de capa
 
 > **Descarga:** [Zenodo](https://doi.org/10.5281/zenodo.18109683)  
