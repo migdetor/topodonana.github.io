@@ -155,7 +155,8 @@ El archivo incluye un “diccionario” de campos.
   - **Incertidumbre temporal:** el producto representa individuos **vivos hasta 2022** según las fuentes y la interpretación; no refleja mortalidad posterior ni reclutamiento reciente.
 
 - **Precisión posicional (si se conoce):**    
-  - En caso de uso analítico sensible a la posición exacta (p. ej., distancias finas), se recomienda **verificación de campo** o cotejo con fuentes GPS.
+En caso de uso analítico sensible a la posición exacta (p. ej., distancias finas), se recomienda **verificación de campo** o cotejo con fuentes GPS.
+
 ---
 
 ## 9. Limitaciones y uso apropiado
@@ -185,10 +186,11 @@ M. de Felipe (2026). Mapa actualizado del Parque Nacional de Doñana. Zenodo. [D
 ## 11. Historial de cambios de la capa
 
 - **v1.0.0 (10-01-2026)** — Creación del archivo
-- <!-- - **vX.Y.Z (YYYY-MM-DD)** — … -->
+  <!--
+   **vX.Y.Z (YYYY-MM-DD)** — … -->
 
 ---
 
 ## 12. Contacto
 
-Para dudas, sugerencias, incidencias o acceso a capas no públicas: <email>.
+Para dudas, sugerencias, incidencias o acceso a capas no públicas, contáctame [aqui](mailto:m.defelipe.t@gmail.com).
