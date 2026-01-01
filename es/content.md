@@ -23,8 +23,8 @@ links:
     url: "mailto:m.defelipe.t@gmail.com"
 
 citation_label: "Cita recomendada:"
-citation_text: "M. de Felipe (2026). Mapa actualizado del Parque Nacional de Doñana (v1.0). Zenodo."
-citation_doi_label: "DOI: [DOI]"
+citation_text: "M. de Felipe (2026). Mapa actualizado del Parque Nacional de Doñana. Zenodo."
+citation_doi_label: "DOI: https://doi.org/10.5281/zenodo.18109683"
 citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 ---
 # Información cartográfica
@@ -35,11 +35,11 @@ Esta página reúne las capas de información geográfica y recursos asociados a
 
 ## Acceso rápido
 
-- **Descarga completa** (paquete estable): [Zenodo](https://zenodo.org/records/XXXXX)
+- **Descarga completa** (paquete estable): [Zenodo](https://doi.org/10.5281/zenodo.18109683)
 - **Versiones y cambios** (changelog): [GitHub Releases](https://github.com/USUARIO/REPO/releases)
   
 
-- **Cómo citar**: M. de Felipe (2026). Mapa actualizado del Parque Nacional de Doñana (v1.0). Zenodo. [DOI](https://doi.org/10.5281/zenodo.18109683)  
+- **Cómo citar**: M. de Felipe (2026). Mapa actualizado del Parque Nacional de Doñana. Zenodo. [DOI: https://doi.org/10.5281/zenodo.18109683](https://doi.org/10.5281/zenodo.18109683)  
  
 ---
 
