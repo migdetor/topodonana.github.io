@@ -12,7 +12,7 @@ menu:
   - label: "Información cartográfica"
     url: "/es/content/"
   - label: "Descarga de datos"
-    url: "https://zenodo.org/records/13960897"
+    url: "https://doi.org/10.5281/zenodo.18109683"
   - label: "Recursos adicionales"
     url: "/es/recursos/"
 
@@ -25,7 +25,7 @@ links:
 citation_label: "Cita recomendada:"
 citation_text: "M. de Felipe (2026). Mapa actualizado del Parque Nacional de Doñana (v1.0). Zenodo."
 citation_doi_label: "DOI: [DOI]"
-citation_doi_url: "https://doi.org/[DOI]"
+citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 ---
 <img src="{{ "/assets/img/logo.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 
@@ -37,11 +37,11 @@ Mediante la creación de esta página se pretende poner a disposición pública 
   - [Justificación]({{ "/es/preface/" | relative_url }})
   - [El mapa]({{ "/es/map/" | relative_url }})
   - [Información cartográfica]({{ "/es/content/" | relative_url }})
-  - [Descarga de datos](https://zenodo.org/records/13960897)
+  - [Descarga de datos](https://doi.org/10.5281/zenodo.18109683)
   - [Recursos adicionales]({{ "/es/recursos/" | relative_url }})
 
 ## Descarga directa
-Pulsa **[aqui](https://zenodo.org/records/13960897)** para ser redirigido a un repositorio desde donde descargar la información cartográfica.
+Pulsa **[aqui](https://doi.org/10.5281/zenodo.18109683)** para ser redirigido a un repositorio desde donde descargar la información cartográfica.
 
 ### Cita recomendada:
 <i>M. de Felipe (2026). Mapa actualizado del Parque Nacional de Doñana (v1.0). Zenodo. DOI: [DOI]<i>
