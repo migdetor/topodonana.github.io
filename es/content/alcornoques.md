@@ -30,7 +30,7 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 
 # Alcornoques del P. N. Doñana - Ficha de capa
 
-> **Descarga:** [Zenodo/GitHub](https://doi.org/10.5281/zenodo.18109683)  
+> **Descarga:** [Zenodo](https://doi.org/10.5281/zenodo.18109683)  
 > **Versión:** v1.0.0 · **Última actualización:** 10-01-2026  
 > **Licencia:** CC BY-NC 4.0
 
@@ -42,22 +42,19 @@ El marcaje de los alcornoques centenarios fue una de las primeras labores que J.
 
 Para poner en valor la abundancia y distribución de estos alcornoques centenarios, hemos recopilado y combinado bases de datos del alcornocal de la RBD y ampliado mediante fotointerpretación de ortofotografías a la totalidad del Parque Nacional. De este modo, se han logrado identificar un total de **XX alcornoques** que se encontraban vivos hasta 2022.
 
-
 ---
 
 ## 2. Contenido
 
-- **Tipo de entidad:** puntos / líneas / polígonos / ráster  
-- **Qué se cartografía:** (definición precisa de la entidad o fenómeno)  
-- **Unidad de observación:** (laguna, topónimo, tramo, píxel, etc.)
+- **Tipo de entidad:** Shapefile de puntos
+- **Qué se cartografía:** Pies de alcornoque (_Quercus suber_) dentro del Parque Nacional de Doñana.
 
 ---
 
 ## 3. Alcance espacial y temporal
 
-- **Cobertura espacial:** (PN, entorno, recortes, límites administrativos/ecológicos)  
-- **Cobertura temporal:** (años, estación, periodo, “a fecha de…”, si aplica)  
-- **Escala recomendada / resolución efectiva:** (p. ej., 1:25.000; 10 m)  
+- **Cobertura espacial:** Parque Nacional de Doñana  
+- **Cobertura temporal:** junio-julio 2022 
 
 > **Aviso:** no apto para deslindes ni decisiones jurídicas (si aplica).
 
@@ -65,9 +62,8 @@ Para poner en valor la abundancia y distribución de estos alcornoques centenari
 
 ## 4. Sistema de referencia (CRS)
 
-- **CRS / EPSG:** EPSG:XXXX (nombre)  
-- **Unidades:** metros / grados  
-- **Datum horizontal:** (si aplica)
+- **CRS / EPSG:** EPSG:25829 (ETRS89 / UTM zone 29N)  
+- **Unidades:** individuos (pies) de _Quercus suber_.
 
 ---
 
@@ -75,7 +71,7 @@ Para poner en valor la abundancia y distribución de estos alcornoques centenari
 
 Lista las fuentes principales con cita y enlace/DOI.
 
-- Fuente 1: …  
+- Fuente 1: Ramo, C. & Calderón, J. (2013). Mapa y catálogo de los alcornoques centenarios de la Reserva Biológica de Doñana. 
 - Fuente 2: …  
 
 ---
@@ -107,12 +103,6 @@ Incluye un “diccionario” de campos.
 **Valores ausentes / nulos:** (p. ej., NA, -9999)  
 **Codificación:** (p. ej., UTF-8, si aplica)
 
-Si es ráster, añade:
-- **Tamaño de píxel:** …  
-- **NoData:** …  
-- **Rango de valores:** …  
-- **Método de cálculo:** …
-
 ---
 
 ## 8. Control de calidad y validación
@@ -130,24 +120,23 @@ Si es ráster, añade:
 - **No recomendado para:** …  
 - **Restricciones específicas:** (si hay información sensible, generalizaciones, etc.)
 
----
-
-## 10. Citación
-
-**Cita recomendada:**  
-<Autor(es)> (<Año>). <Nombre de la capa> (vX.Y.Z). <Repositorio/Zenodo>. DOI: <doi>
-
-Si procede, añade “Cómo citar las fuentes externas” (CNIG/IGN, etc.).
+La fotointerpretación presenta limitaciones sólo subsanables mediante la verdad-terreno; del mismo modo que manchas especialmente densas de piruétano (_Pyrus bourgaeana_) pueden haberse confundido con alcornoques, no todos los alcornoques han sido representados. Asimismo, aunque el mayor evento de mortalidad ocurrió durante 2023, numerosos ejemplares se encontraban ya muy debilitados en 2022 y es posible que no hayan sido correctamente identificados.
 
 ---
 
-## 11. Historial de cambios (por capa)
+## 10. Cita recomendada
 
-- **vX.Y.Z (YYYY-MM-DD)** — Añadido/Cambiado/Corregido…  
-- **vX.Y.Z (YYYY-MM-DD)** — …
+M. de Felipe (2026). Mapa actualizado del Parque Nacional de Doñana. Zenodo. [DOI: https://doi.org/10.5281/zenodo.18109683](https://doi.org/10.5281/zenodo.18109683)
+
+---
+
+## 11. Historial de cambios de la capa
+
+- **v1.0.0 (10-01-2026)** — Creado
+- <!-- - **vX.Y.Z (YYYY-MM-DD)** — … -->
 
 ---
 
 ## 12. Contacto
 
-Para dudas, incidencias o acceso a capas no públicas: <email>.
+Para dudas, sugerencias, incidencias o acceso a capas no públicas: <email>.
