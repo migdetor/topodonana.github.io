@@ -27,7 +27,7 @@ citation_text: "M. de Felipe (2026). Mapa actualizado del Parque Nacional de Do�
 citation_doi_label: "DOI: https://doi.org/10.5281/zenodo.18109683"
 citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 ---
-
+<img src="{{ "/assets/img/alcmap.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 # Alcornoques del P. N. Doñana - Ficha de capa
 
 > **Descarga:** [Zenodo](https://doi.org/10.5281/zenodo.18109683)  
@@ -44,6 +44,7 @@ Para poner en valor la abundancia y distribución de estos alcornoques centenari
 
 **Descarga el catálogo fotográfico de los alcornoques de la RBD** de Ramo & Calderon (2013) [aqui](http://libros.csic.es/product_info.php?products_id=752)
 
+<img src="{{ "/assets/img/308.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 ---
 
 ## 2. Contenido
@@ -133,6 +134,7 @@ El archivo incluye un “diccionario” de campos.
 
 **Valores ausentes / nulos:** _NULL_ 
 
+<img src="{{ "/assets/img/206.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 ---
 
 ## 8. Control de calidad y validación
