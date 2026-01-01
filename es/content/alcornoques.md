@@ -138,7 +138,6 @@ El archivo incluye un “diccionario” de campos.
 
 **Valores ausentes / nulos:** _NULL_ 
 
-<img src="{{ "/assets/img/308.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 ---
 
 ## 8. Control de calidad y validación
@@ -200,3 +199,6 @@ M. de Felipe (2026). Mapa actualizado del Parque Nacional de Doñana. Zenodo. [D
 ## 12. Contacto
 
 Para dudas, sugerencias, incidencias o acceso a capas no públicas, contáctame [aqui](mailto:m.defelipe.t@gmail.com).
+
+---
+<img src="{{ "/assets/img/308.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
