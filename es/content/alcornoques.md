@@ -38,14 +38,17 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 
 ## 1. Resumen
 
-El marcaje de los alcornoques centenarios fue una de las primeras labores que J. A. Valverde encomendara en 1963 a los guardas mayores Antonio Chico y José Boixo en aquella incipiente Reserva Biológica de Doñana (RBD). Los alcornoques se marcaban con tablillas marcadas al fuego con un número único y, en total, se marcaron 454 alcornoques; 136 de ellos serían fotografiados en 1966 por [Lorenzo García](https://ealorenzogarcia.wordpress.com/la-figura-de-lorenzo-garcia/), del Centro de Aclimatación de Almería (perteneciente al CSIC). Durante 1989-1990, Juan Carlos Solís elaboró la primera cartografía de los alcornoques de la RBD. Sobre esta cartografía, ya en 2008-2012, se tomó la posición GPS de los alcornoques, encontrándose 315 de ellos vivos ([Ramo & Calderon 2013](http://libros.csic.es/product_info.php?products_id=752)). Sobre esta base –y con motivo de las mortandades de alcornoques debido a su ocupación por las pajareras y la seca de encina–, la Dra. Cristina Ramo inició el seguimiento de ~250 alcornoques, incluyendo 133 alcornoques monitorizados de forma sistemática en la Reserva Biológica de Doñana y 119 monitorizados de forma puntual distribuidos a lo largo del Parque Nacional. En 2023, el mal estado del acuífero de Doñana fue responsable de que el [7% de los alcornoques de la Reserva Biológica murieran en menos de un año](https://efeverde.com/alcornoques-reserva-biologica-donana/); árboles que resistieron sequías durante siglos, se secaron ante la falta de aguas subterráneas.
+El marcaje de los alcornoques centenarios fue una de las primeras labores que J. A. Valverde encomendara en 1963 a los guardas mayores Antonio Chico y José Boixo en aquella incipiente Reserva Biológica de Doñana (RBD). Los alcornoques se marcaban con tablillas marcadas al fuego con un número único y, en total, se marcaron 454 alcornoques; 136 de ellos serían fotografiados en 1966 por [Lorenzo García](https://ealorenzogarcia.wordpress.com/la-figura-de-lorenzo-garcia/), del Centro de Aclimatación de Almería (perteneciente al CSIC). Durante 1989-1990, Juan Carlos Solís elaboró la primera cartografía de los alcornoques de la RBD. Sobre esta cartografía, ya en 2008-2012, se tomó la posición GPS de los alcornoques, encontrándose 315 de ellos vivos ([Ramo & Calderon 2013](http://libros.csic.es/product_info.php?products_id=752)). Sobre esta base –y con motivo de las mortandades de alcornoques debido a su ocupación por las pajareras y la seca de encina–, la Dra. Cristina Ramo inició el seguimiento de ~250 alcornoques, incluyendo 133 alcornoques monitorizados de forma sistemática en la Reserva Biológica de Doñana y 119 monitorizados de forma puntual distribuidos a lo largo del Parque Nacional. En 2023, el mal estado del acuífero de Doñana fue responsable de que el [7% de los alcornoques de la Reserva Biológica murieran en menos de un año](https://efeverde.com/alcornoques-reserva-biologica-donana/).
 
-Para poner en valor la abundancia y distribución de estos alcornoques centenarios, hemos recopilado y combinado bases de datos del alcornocal de la RBD y ampliado mediante fotointerpretación de ortofotografías a la totalidad del Parque Nacional. De este modo, se han logrado identificar un total de **XX alcornoques** que se encontraban vivos hasta 2022.
+Para poner en valor la abundancia y distribución de estos alcornoques centenarios, hemos recopilado y combinado bases de datos del alcornocal de la RBD y ampliado mediante fotointerpretación de ortofotografías a la **totalidad del Parque Nacional**. De este modo, se han logrado identificar un total de **XX alcornoques** que se encontraban vivos hasta 2022.
+
+**Descarga el catálogo fotográfico de los alcornoques de la RBD** de Ramo & Calderon (2013) [aqui](http://libros.csic.es/product_info.php?products_id=752)
 
 ---
 
 ## 2. Contenido
 
+- **Nombre de archivo:** alcornoques_25829.shp
 - **Tipo de entidad:** Shapefile de puntos
 - **Qué se cartografía:** Pies de alcornoque (_Quercus suber_) dentro del Parque Nacional de Doñana.
 
@@ -70,7 +73,7 @@ Para poner en valor la abundancia y distribución de estos alcornoques centenari
 ## 5. Fuentes de datos
 
 **Base de partida:** compilación de fuentes previas.  
-**Tratamiento posterior:** la base fue **modificada, ampliada y armonizada por el autor** (Sección 6).
+**Tratamiento posterior:** la base fue ***modificada, ampliada y armonizada por el autor*** (Sección 6).
 
 - Solís, J. C. (1996). Plan de ordenación del alcornocal de Doñana. Informe Técnico, 105 pp
 - Ramo, C. & Calderón, J. (2013). Mapa y catálogo de los alcornoques centenarios de la Reserva Biológica de Doñana. 
@@ -118,10 +121,9 @@ Incluye un “diccionario” de campos.
 ## 9. Limitaciones y uso apropiado
 
 - **Usos recomendados:** …  
-- **No recomendado para:** …  
-- **Restricciones específicas:** (si hay información sensible, generalizaciones, etc.)
+- **No recomendado para:** … 
 
-La fotointerpretación presenta limitaciones sólo subsanables mediante la verdad-terreno; del mismo modo que manchas especialmente densas de piruétano (_Pyrus bourgaeana_) pueden haberse confundido con alcornoques, no todos los alcornoques han sido representados. Asimismo, aunque el mayor evento de mortalidad ocurrió durante 2023, numerosos ejemplares se encontraban ya muy debilitados en 2022 y es posible que no hayan sido correctamente identificados.
+La fotointerpretación presenta limitaciones sólo subsanables mediante la verdad-terreno; manchas especialmente densas de piruétano (_Pyrus bourgaeana_) pueden confundirse en ortofoto con alcornoques. Asimismo, aunque el mayor evento de mortalidad ocurrió durante 2023, numerosos ejemplares se encontraban ya muy debilitados en 2022 y es posible que no hayan sido correctamente identificados.
 
 ---
 
@@ -133,7 +135,7 @@ M. de Felipe (2026). Mapa actualizado del Parque Nacional de Doñana. Zenodo. [D
 
 ## 11. Historial de cambios de la capa
 
-- **v1.0.0 (10-01-2026)** — Creado
+- **v1.0.0 (10-01-2026)** — Creación del archivo
 - <!-- - **vX.Y.Z (YYYY-MM-DD)** — … -->
 
 ---
