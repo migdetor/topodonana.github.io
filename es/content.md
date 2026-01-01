@@ -33,16 +33,6 @@ Esta página reúne las capas de información geográfica y recursos asociados a
 
 ---
 
-## Acceso rápido
-
-- **Descarga completa** (paquete estable): [Zenodo](https://doi.org/10.5281/zenodo.18109683)
-- **Versiones y cambios** (changelog): [GitHub Releases](https://github.com/USUARIO/REPO/releases)
-  
-
-- **Cómo citar**: M. de Felipe (2026). Mapa actualizado del Parque Nacional de Doñana. Zenodo. [DOI: https://doi.org/10.5281/zenodo.18109683](https://doi.org/10.5281/zenodo.18109683)  
- 
----
-
 ## Alcance y uso recomendado
 
 - **Cobertura espacial**: Parque Nacional de Doñana y marisma restaurada (_marisma gallega_) del Parque Natural de Doñana. Toponimia también incluye el entorno inmediato.
@@ -55,16 +45,26 @@ Esta página reúne las capas de información geográfica y recursos asociados a
 >**Nota:** Debido a la naturaleza potencialmente sensible de la información contenida. Algunas capas no se encuentran disponibles para descarga directa. No obstante, el autor podrá facilitarlas previa solicitud, una vez se haya informado del uso previsto de los datos.
 
 ---
+ 
+## Acceso rápido
+
+- **Descarga** (paquete estable): [Zenodo](https://doi.org/10.5281/zenodo.18109683)
+
+- **Versiones y cambios** (changelog): [GitHub Releases](https://github.com/USUARIO/REPO/releases)
+
+- ***Cómo citar***: M. de Felipe (2026). Mapa actualizado del Parque Nacional de Doñana. Zenodo. [DOI: https://doi.org/10.5281/zenodo.18109683](https://doi.org/10.5281/zenodo.18109683)  
+ 
+---
 
 ## Capas principales
 
 | Capa | Ficha | Descarga |
 |---|---|---|
-| **Toponimia de Doñana** EN CONSTRUCCION | [Ficha]({{ "/toponimos/" | relative_url }}) | [Descarga](https://zenodo.org/records/XXXXX) |
-| **Cartografía de la red de lagunas** EN CONSTRUCCION | [Ficha]({{ "/lagunas/" | relative_url }}) | [Descarga](https://zenodo.org/records/XXXXX) |
-| **Alcornoques del PN Doñana** EN CONSTRUCCION | [Ficha]({{ "/alcornoques/" | relative_url }}) | [Descarga](https://zenodo.org/records/XXXXX) |
-| **Duración de la inundación (hidroperiodos)** EN CONSTRUCCION | [Ficha]({{ "/hidroperiodos/" | relative_url }}) | [Descarga](https://zenodo.org/records/XXXXX) |
-| **Zacallones, pozos y ojos** EN CONSTRUCCION | [Ficha]({{ "/zacallones/" | relative_url }}) | [Descarga](https://zenodo.org/records/XXXXX) |
+| **Toponimia de Doñana** EN CONSTRUCCION | [Ficha]({{ "/toponimos/" | relative_url }}) | Sí |
+| **Cartografía de la red de lagunas** EN CONSTRUCCION | [Ficha]({{ "/lagunas/" | relative_url }}) | Sí |
+| **Alcornoques del PN Doñana** EN CONSTRUCCION | [Ficha]({{ "/alcornoques/" | Sí |
+| **Duración de la inundación (hidroperiodos)** EN CONSTRUCCION | [Ficha]({{ "/hidroperiodos/" | relative_url }}) | Sí |
+| **Zacallones, pozos y ojos** EN CONSTRUCCION | [Ficha]({{ "/zacallones/" | Sí |
 
 ---
 
@@ -74,10 +74,10 @@ Esta página reúne las capas de información geográfica y recursos asociados a
 
 | Capa | Ficha | Descarga |
 |---|---|---|
-| **Vallados y cercados** EN CONSTRUCCION | [Ficha]({{ "/vallados/" | relative_url }}) | — |
-| **Red de caminos, carriles y cortafuegos** EN CONSTRUCCION | [Ficha]({{ "/caminos/" | relative_url }}) | — |
-| **Edificaciones y construcciones** EN CONSTRUCCION | [Ficha]({{ "/edificaciones/" | relative_url }}) | [Descarga](addlink) |
-| **Estaciones hidrometeorológicas** EN CONSTRUCCION | [Ficha]({{ "/hidromet/" | relative_url }}) | [Descarga](addlink) |
+| **Vallados y cercados** EN CONSTRUCCION | [Ficha]({{ "/vallados/" | relative_url }}) | Bajo petición |
+| **Red de caminos, carriles y cortafuegos** EN CONSTRUCCION | [Ficha]({{ "/caminos/" | relative_url }}) | Bajo petición |
+| **Edificaciones y construcciones** EN CONSTRUCCION | [Ficha]({{ "/edificaciones/" | Sí |
+| **Estaciones hidrometeorológicas** EN CONSTRUCCION | [Ficha]({{ "/hidromet/" | Sí |
 
 ---
 
