@@ -97,18 +97,17 @@ Descripción breve, en pasos, de lo que has hecho (lo necesario para comprender 
 
 ## 7. Estructura de datos y atributos
 
-Incluye un “diccionario” de campos.
+El archivo incluye un “diccionario” de campos.
 
 | Campo | Tipo | Descripción | Unidades / códigos |
 |---|---|---|---|
-| ID | entero | Identificador único | Nº consecutivo |
-| Alcornoque | texto | Identificador único | Código |
-| diametro | entero | Identificador único | Centímetros |
-| coordx | entero | Identificador único | EPSG:25829 |
-| coordy | entero | Identificador único | EPSG:25829 |
+| ID | entero | Identificador único de cada árbol | Nº consecutivo |
+| Alcornoque | texto | Código individual de las tablillas marcadas | Código |
+| diametro | entero | Diámetro de árbol a la altura del pecho (DAP) | Centímetros |
+| coordx | entero | Coordenada X | EPSG:25829 |
+| coordy | entero | Coordenada Y | EPSG:25829 |
 
-**Valores ausentes / nulos:** (p. ej., NA, -9999)  
-**Codificación:** (p. ej., UTF-8, si aplica)
+**Valores ausentes / nulos:** _NULL_ 
 
 ---
 
