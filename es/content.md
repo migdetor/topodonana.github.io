@@ -61,9 +61,9 @@ Esta página reúne las capas de información geográfica y recursos asociados a
 |---|---|---|
 | **Toponimia de Doñana** EN CONSTRUCCION | [Ficha]({{ "/toponimos/" | relative_url }}) | Sí |
 | **Cartografía de la red de lagunas** EN CONSTRUCCION | [Ficha]({{ "/lagunas/" | relative_url }}) | Sí |
-| **Alcornoques del PN Doñana** EN CONSTRUCCION | [Ficha]({{ "/alcornoques/" | Sí |
+| **Alcornoques del PN Doñana** EN CONSTRUCCION | [Ficha]({{ "/alcornoques/" | relative_url }}) | Sí |
 | **Duración de la inundación (hidroperiodos)** EN CONSTRUCCION | [Ficha]({{ "/hidroperiodos/" | relative_url }}) | Sí |
-| **Zacallones, pozos y ojos** EN CONSTRUCCION | [Ficha]({{ "/zacallones/" | Sí |
+| **Zacallones, pozos y ojos** EN CONSTRUCCION | [Ficha]({{ "/zacallones/" | relative_url }}) | Sí |
 
 ---
 
@@ -75,8 +75,8 @@ Esta página reúne las capas de información geográfica y recursos asociados a
 |---|---|---|
 | **Vallados y cercados** EN CONSTRUCCION | [Ficha]({{ "/vallados/" | relative_url }}) | Bajo petición |
 | **Red de caminos, carriles y cortafuegos** EN CONSTRUCCION | [Ficha]({{ "/caminos/" | relative_url }}) | Bajo petición |
-| **Edificaciones y construcciones** EN CONSTRUCCION | [Ficha]({{ "/edificaciones/" | Sí |
-| **Estaciones hidrometeorológicas** EN CONSTRUCCION | [Ficha]({{ "/hidromet/" | Sí |
+| **Edificaciones y construcciones** EN CONSTRUCCION | [Ficha]({{ "/edificaciones/" | relative_url }}) | Sí |
+| **Estaciones hidrometeorológicas** EN CONSTRUCCION | [Ficha]({{ "/hidromet/" | relative_url }}) | Sí |
 
 ---
 
