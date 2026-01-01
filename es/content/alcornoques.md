@@ -101,8 +101,11 @@ Incluye un “diccionario” de campos.
 
 | Campo | Tipo | Descripción | Unidades / códigos |
 |---|---|---|---|
-| id | entero/texto | Identificador único | — |
-| … | … | … | … |
+| ID | entero | Identificador único | Nº consecutivo |
+| Alcornoque | texto | Identificador único | Código |
+| diametro | entero | Identificador único | Centímetros |
+| coordx | entero | Identificador único | EPSG:25829 |
+| coordy | entero | Identificador único | EPSG:25829 |
 
 **Valores ausentes / nulos:** (p. ej., NA, -9999)  
 **Codificación:** (p. ej., UTF-8, si aplica)
