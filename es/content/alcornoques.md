@@ -28,17 +28,20 @@ citation_doi_label: "DOI: https://doi.org/10.5281/zenodo.18109683"
 citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 ---
 
-# Ficha de capa — <Nombre de la capa>
+# Alcornoques del P. N. Doñana - Ficha de capa
 
-> **Descarga:** [Zenodo/GitHub](https://...)  
-> **Versión:** vX.Y.Z · **Última actualización:** YYYY-MM-DD  
-> **Licencia:** CC BY 4.0 (u otra)
+> **Descarga:** [Zenodo/GitHub](https://doi.org/10.5281/zenodo.18109683)  
+> **Versión:** v1.0.0 · **Última actualización:** 10-01-2026  
+> **Licencia:** CC BY-NC 4.0
 
 ---
 
 ## 1. Resumen
 
-5–10 líneas: qué representa la capa, por qué es relevante y para qué usos está pensada.
+El marcaje de los alcornoques centenarios fue una de las primeras labores que J. A. Valverde encomendara en 1963 a los guardas mayores Antonio Chico y José Boixo en aquella incipiente Reserva Biológica de Doñana (RBD). Los alcornoques se marcaban con tablillas marcadas al fuego con un número único y, en total, se marcaron 454 alcornoques; 136 de ellos serían fotografiados en 1966 por [Lorenzo García](https://ealorenzogarcia.wordpress.com/la-figura-de-lorenzo-garcia/), del Centro de Aclimatación de Almería (perteneciente al CSIC). Durante el 2008-2012, se tomó la posición GPS de los alcornoques, encontrándose que 123 de ellos habían muerto y 16 no se pudieron encontrar ([Ramo & Calderon 2013](http://libros.csic.es/product_info.php?products_id=752)). Sobre esta base, la Dra. Cristina Ramo inició el seguimiento de ~250 alcornoques, incluyendo 133 alcornoques monitorizados de forma sistemática en la Reserva Biológica de Doñana y 119 monitorizados de forma puntual distribuidos a lo largo del Parque Nacional. En 2023, el mal estado del acuífero de Doñana fue responsable de que el [7% de los alcornoques de la Reserva Biológica murieran en menos de un año](https://efeverde.com/alcornoques-reserva-biologica-donana/); árboles que resistieron sequías durante siglos, se secaron ante la falta de aguas subterráneas.
+
+Para poner en valor la abundancia y distribución de estos alcornoques centenarios, hemos recopilado y combinado bases de datos del alcornocal de la RBD y ampliado mediante fotointerpretación de ortofotografías a la totalidad del Parque Nacional. De este modo, se han logrado identificar un total de **XX alcornoques** que se encontraban vivos hasta 2022.
+
 
 ---
 
