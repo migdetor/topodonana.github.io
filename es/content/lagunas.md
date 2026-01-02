@@ -31,7 +31,7 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 # Cartografía de la red de lagunas del Parque Nacional de Doñana - Ficha de capa
 
 > **Fuente oficial (metadatos + descarga):** [Registro REDIAM](https://portalrediam.cica.es/geonetwork/srv/api/records/db48f197-a17f-4f86-9e66-447da049f18c)  
-> **Descarga (copia en este repositorio):** *(https://doi.org/10.5281/zenodo.18109683)*  
+> **Descarga (copia en este repositorio):** *[https://doi.org/10.5281/zenodo.18109683](https://doi.org/10.5281/zenodo.18109683)*  
 > **Condiciones de uso:** consultar las restricciones/condiciones indicadas en la ficha oficial de REDIAM.
 
 ---
