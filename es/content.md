@@ -38,6 +38,7 @@ Esta página reúne las capas de información geográfica y recursos asociados a
 - **Descarga** (paquete estable): [Zenodo](https://doi.org/10.5281/zenodo.18109683)
 
 - ***Cómo citar***: M. de Felipe (2026). Mapa actualizado del Parque Nacional de Doñana. Zenodo. [DOI: https://doi.org/10.5281/zenodo.18109683](https://doi.org/10.5281/zenodo.18109683)
+  
 - **Versiones y cambios** (changelog): [GitHub Releases](https://github.com/USUARIO/REPO/releases)
 
 ---
@@ -60,7 +61,7 @@ Esta página reúne las capas de información geográfica y recursos asociados a
 | Capa | Ficha | Descarga |
 |---|---|---|
 | **Toponimia de Doñana** EN CONSTRUCCION | [Ficha]({{ "/es/content/toponimos/" | relative_url }}) | Sí |
-| **Cartografía de la red de lagunas** EN CONSTRUCCION | [Ficha]({{ "/es/content/lagunas/", [REDIAM](https://portalrediam.cica.es/geonetwork/srv/api/records/db48f197-a17f-4f86-9e66-447da049f18c) | relative_url }}) | Sí |
+| **Cartografía de la red de lagunas** EN CONSTRUCCION | [Ficha]({{ "/es/content/lagunas/" | relative_url }}), [REDIAM](https://portalrediam.cica.es/geonetwork/srv/api/records/db48f197-a17f-4f86-9e66-447da049f18c) | Sí |
 | **Alcornoques del PN Doñana** EN CONSTRUCCION | [Ficha]({{ "/es/content/alcornoques/" | relative_url }}) | Sí |
 | **Duración de la inundación (hidroperiodos)** EN CONSTRUCCION | [Ficha]({{ "/es/content/hidroperiodos/" | relative_url }}) | Sí |
 | **Zacallones, pozos y ojos** EN CONSTRUCCION | [Ficha]({{ "/es/content/zacallones/" | relative_url }}) | Sí |
