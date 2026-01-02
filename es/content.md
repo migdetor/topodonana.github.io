@@ -32,6 +32,15 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 Esta página reúne las capas de información geográfica y recursos asociados al mapa actualizado del Parque Nacional de Doñana. Para cada capa encontrarás una **Ficha** (documentación) y, cuando aplique, un enlace de **Descarga**.
 
 ---
+ 
+## Acceso rápido
+
+- **Descarga** (paquete estable): [Zenodo](https://doi.org/10.5281/zenodo.18109683)
+
+- ***Cómo citar***: M. de Felipe (2026). Mapa actualizado del Parque Nacional de Doñana. Zenodo. [DOI: https://doi.org/10.5281/zenodo.18109683](https://doi.org/10.5281/zenodo.18109683)
+- **Versiones y cambios** (changelog): [GitHub Releases](https://github.com/USUARIO/REPO/releases)
+
+---
 
 ## Alcance y uso recomendado
 
@@ -43,15 +52,6 @@ Esta página reúne las capas de información geográfica y recursos asociados a
 - **Cobertura temporal**: versión V1 (2026). Componentes temporales específicos se documentan por capa.
 
 >**Nota:** Debido a la naturaleza potencialmente sensible de la información contenida. Algunas capas no se encuentran disponibles para descarga directa. No obstante, el autor podrá facilitarlas previa solicitud, una vez se haya informado del uso previsto de los datos.
-
----
- 
-## Acceso rápido
-
-- **Descarga** (paquete estable): [Zenodo](https://doi.org/10.5281/zenodo.18109683)
-
-- ***Cómo citar***: M. de Felipe (2026). Mapa actualizado del Parque Nacional de Doñana. Zenodo. [DOI: https://doi.org/10.5281/zenodo.18109683](https://doi.org/10.5281/zenodo.18109683)
-- **Versiones y cambios** (changelog): [GitHub Releases](https://github.com/USUARIO/REPO/releases)
  
 ---
 
