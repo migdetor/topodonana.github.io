@@ -28,4 +28,4 @@ citation_doi_label: "DOI: [DOI]"
 citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 ---
 
-Recursos adicionales aqui.
+EN CONSTRUCCIÓN.
