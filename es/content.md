@@ -74,8 +74,8 @@ Esta página reúne las capas de información geográfica y recursos asociados a
 
 | Capa | Ficha | Descarga |
 |---|---|---|
-| **Vallados y cercados** EN CONSTRUCCION | [Ficha]({{ "/es/content/vallados/" | relative_url }}) | Bajo petición |
-| **Red de caminos, carriles y cortafuegos** EN CONSTRUCCION | [Ficha]({{ "/es/content/caminos/" | relative_url }}) | Bajo petición |
+| **Vallados y cercados** | Bajo petición | Bajo petición |
+| **Red de caminos, carriles y cortafuegos** | Bajo petición | Bajo petición |
 | **Edificaciones y construcciones** EN CONSTRUCCION | [Ficha]({{ "/es/content/construcciones/" | relative_url }}) | Sí |
 | **Estaciones hidrometeorológicas** EN CONSTRUCCION | [Ficha]({{ "/es/content/hidromet/" | relative_url }}) | Sí |
 
