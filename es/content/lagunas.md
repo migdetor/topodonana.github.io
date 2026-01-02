@@ -28,123 +28,117 @@ citation_doi_label: "DOI: https://doi.org/10.5281/zenodo.18109683"
 citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 ---
 
-# Ficha de capa — <Nombre de la capa>
+# Cartografía de la red de lagunas del Parque Nacional de Doñana - Ficha de capa
 
-> **Descarga:** [Zenodo/GitHub](https://...)  
-> **Versión:** vX.Y.Z · **Última actualización:** YYYY-MM-DD  
-> **Licencia:** CC BY 4.0 (u otra)
+> **Fuente oficial (metadatos + descarga):** [Registro REDIAM](https://portalrediam.cica.es/geonetwork/srv/api/records/db48f197-a17f-4f86-9e66-447da049f18c)  
+> **Descarga (copia en este repositorio):** *(https://doi.org/10.5281/zenodo.18109683)*  
+> **Condiciones de uso:** consultar las restricciones/condiciones indicadas en la ficha oficial de REDIAM.
 
 ---
 
 ## 1. Resumen
 
-5–10 líneas: qué representa la capa, por qué es relevante y para qué usos está pensada.
+Esta capa contiene la delimitación vectorial de las **lagunas temporales** del Parque Nacional de Doñana, distribuida por la Junta de Andalucía a través de **REDIAM**. El producto original incluye su propia ficha de metadatos y documentación asociada.
+
+**Autoría del dato:** esta capa **no ha sido producida por el autor** de esta web, sino por C. Gómez-Rodríguez, C. Díaz-Paniagua & J. Bustamante (2011)
+**Motivo de inclusión en este repositorio:** se incluye una copia (y, si aplica, un derivado de **tabla de atributos** reducido) para facilitar su descarga centralizada dentro del proyecto, remitiendo siempre a la ficha oficial de REDIAM como referencia primaria de metadatos, alcance y condiciones.
 
 ---
 
 ## 2. Contenido
 
-- **Tipo de entidad:** puntos / líneas / polígonos / ráster  
-- **Qué se cartografía:** (definición precisa de la entidad o fenómeno)  
-- **Unidad de observación:** (laguna, topónimo, tramo, píxel, etc.)
+- **Nombre de capa (REDIAM):** Cartografía de las lagunas temporales del Parque Nacional de Doñana  
+- **Tipo de entidad:** Polígonos  
+- **Qué se cartografía:** lagunas temporales del Parque Nacional de Doñana.  
 
 ---
 
 ## 3. Alcance espacial y temporal
 
-- **Cobertura espacial:** (PN, entorno, recortes, límites administrativos/ecológicos)  
-- **Cobertura temporal:** (años, estación, periodo, “a fecha de…”, si aplica)  
-- **Escala recomendada / resolución efectiva:** (p. ej., 1:25.000; 10 m)  
-
-> **Aviso:** no apto para deslindes ni decisiones jurídicas (si aplica).
+- **Cobertura espacial:** Parque Nacional de Doñana.  
+- **Cobertura temporal (referencia del producto):** Máxima inundación en primavera de 2004; consultar la documentación asociada en REDIAM (metodología y fechas de referencia).  
+- **Escala/uso recomendado:** consultar la ficha oficial de REDIAM.
 
 ---
 
 ## 4. Sistema de referencia (CRS)
 
-- **CRS / EPSG:** EPSG:XXXX (nombre)  
-- **Unidades:** metros / grados  
-- **Datum horizontal:** (si aplica)
+- **CRS / EPSG (según REDIAM):** EPSG 25829 / ETRS89 UTM zona 29N (EPSG:23030 en REDIAM)  
+- **Unidades:** metros.  
 
 ---
 
 ## 5. Fuentes de datos
 
-Lista las fuentes principales con cita y enlace/DOI.
+**Fuente primaria (oficial):**  
+- Gómez-Rodríguez, C., Díaz-Paniagua, C. & Bustamante, J. (2011). Cartografía de las lagunas temporales del Parque Nacional de Doñana. Agencia Andaluza del Agua. Consejería de Medio Ambiente.Junta de Andalucía.
+  Registro: https://portalrediam.cica.es/geonetwork/srv/api/records/db48f197-a17f-4f86-9e66-447da049f18c
 
-- Fuente 1: …  
-- Fuente 2: …  
+**Documentación asociada (disponible en REDIAM):**  
+- *Modelo de Datos Geográficos* (estructura de campos y tipos).  
+- Memoria/Informe(s) del producto (metodología, alcance, limitaciones).
+
+**Nota sobre redistribución:** esta web/repositorio ofrece una copia “de conveniencia” para su descarga dentro del proyecto; la referencia oficial de metadatos y restricciones debe tomarse del registro REDIAM.
 
 ---
 
 ## 6. Flujo de trabajo (métodos)
 
-Descripción breve, en pasos, de lo que has hecho (lo necesario para comprender y reproducir):
-
-- Paso 1 (preprocesado: limpieza, georreferenciación, recorte…)  
-- Paso 2 (digitación/clasificación: criterios, umbrales, reglas…)  
-- Paso 3 (validación/corrección/generalización…)  
-
-**Criterios clave (definiciones):**  
-- Inclusión/exclusión: …  
-- Umbrales/códigos: …  
-- Supuestos: …
+*No aplica*
 
 ---
 
-## 7. Estructura de datos y atributos
+## 7. Estructura de datos y atributos (según REDIAM)
 
-Incluye un “diccionario” de campos.
+### Campos del producto original (REDIAM)
+*(Rellenar según el Modelo de Datos Geográficos de REDIAM)*
 
-| Campo | Tipo | Descripción | Unidades / códigos |
-|---|---|---|---|
-| id | entero/texto | Identificador único | — |
-| … | … | … | … |
-
-**Valores ausentes / nulos:** (p. ej., NA, -9999)  
-**Codificación:** (p. ej., UTF-8, si aplica)
-
-Si es ráster, añade:
-- **Tamaño de píxel:** …  
-- **NoData:** …  
-- **Rango de valores:** …  
-- **Método de cálculo:** …
+| Campo | Tipo | Descripción |
+|---|---|---|
+| `fid` | (OID) | Identificador interno |
+| `coordx` | (Double) | Coordenada X (EPSG:23030) |
+| `coordy` | (Double) | Coordenada Y (EPSG:23030) |
+| `area` | (Double) | Área de máxima inundación de la laguna |
+| `id_lagtemp` | (Double) | Identificador/código de laguna |
+| `toponimo` | (String) | Nombre/topónimo de la laguna |
+| `Shape` | (Geometría) | Polígono |
 
 ---
 
 ## 8. Control de calidad y validación
 
-- **Controles realizados:** duplicados, topología, consistencia, reglas QA/QC  
-- **Validación:** (campo, comparación con fuentes, revisión experta, etc.)  
-- **Problemas conocidos:** huecos, sesgos, incertidumbre espacial/temporal  
-- **Precisión posicional (si se conoce):** …
+ Consultar la documentación asociada en REDIAM (metodología y evaluación de errores).
 
 ---
 
 ## 9. Limitaciones y uso apropiado
 
-- **Usos recomendados:** …  
-- **No recomendado para:** …  
-- **Restricciones específicas:** (si hay información sensible, generalizaciones, etc.)
+- **Usos recomendados:**  
+  - Visualización y análisis exploratorio a escala de parque.  
+  - Apoyo a prospecciones y planificación de muestreo, manteniendo la escala recomendada por el producto.
+
+- **No recomendado para:**  
+  - Delimitaciones legales/jurídicas o decisiones que requieran precisión de detalle sin verificación específica.  
+  - Interpretaciones fuera del alcance temporal/metodológico descrito en el producto original.
 
 ---
 
 ## 10. Citación
 
 **Cita recomendada:**  
-<Autor(es)> (<Año>). <Nombre de la capa> (vX.Y.Z). <Repositorio/Zenodo>. DOI: <doi>
+Gómez-Rodríguez, C., Díaz-Paniagua, C. & Bustamante, J. (2011). Cartografía de las lagunas temporales del Parque Nacional de Doñana. Agencia Andaluza del Agua. Consejería de Medio Ambiente.Junta de Andalucía. 
 
-Si procede, añade “Cómo citar las fuentes externas” (CNIG/IGN, etc.).
+Registro: https://portalrediam.cica.es/geonetwork/srv/api/records/db48f197-a17f-4f86-9e66-447da049f18c
 
 ---
 
-## 11. Historial de cambios (por capa)
+## 11. Historial de cambios (en este repositorio)
 
-- **vX.Y.Z (YYYY-MM-DD)** — Añadido/Cambiado/Corregido…  
-- **vX.Y.Z (YYYY-MM-DD)** — …
+- **v1.0.0 (10-01-2026)** — Inclusión de copia del producto REDIAM y versión con atributos mínimos (sin modificación geométrica).
 
 ---
 
 ## 12. Contacto
 
-Para dudas, incidencias o acceso a capas no públicas: <email>.
+Para dudas sobre el repositorio del proyecto: contáctame [aqui](mailto:m.defelipe.t@gmail.com)  
+Para cuestiones oficiales de metadatos/distribución del dataset: ver contacto en la ficha de REDIAM.
