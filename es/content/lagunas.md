@@ -74,7 +74,6 @@ Esta capa contiene la delimitación vectorial de las **lagunas temporales** del 
 **Fuente primaria (oficial):**  
 - Gómez-Rodríguez, C., Díaz-Paniagua, C. & Bustamante, J. (2011). Cartografía de las lagunas temporales del Parque Nacional de Doñana. Agencia Andaluza del Agua. Consejería de Medio Ambiente.Junta de Andalucía.
 
-Registro: [https://portalrediam.cica.es/geonetwork/srv/api/records/db48f197-a17f-4f86-9e66-447da049f18c](https://portalrediam.cica.es/geonetwork/srv/api/records/db48f197-a17f-4f86-9e66-447da049f18c)
 
 **Documentación asociada (disponible en REDIAM):**  
 - *Modelo de Datos Geográficos* (estructura de campos y tipos).  
@@ -130,7 +129,7 @@ Registro: [https://portalrediam.cica.es/geonetwork/srv/api/records/db48f197-a17f
 **Cita recomendada:**  
 Gómez-Rodríguez, C., Díaz-Paniagua, C. & Bustamante, J. (2011). Cartografía de las lagunas temporales del Parque Nacional de Doñana. Agencia Andaluza del Agua. Consejería de Medio Ambiente.Junta de Andalucía. 
 
-Registro: https://portalrediam.cica.es/geonetwork/srv/api/records/db48f197-a17f-4f86-9e66-447da049f18c
+Registro: [https://portalrediam.cica.es/geonetwork/srv/api/records/db48f197-a17f-4f86-9e66-447da049f18c](https://portalrediam.cica.es/geonetwork/srv/api/records/db48f197-a17f-4f86-9e66-447da049f18c)
 
 ---
 
