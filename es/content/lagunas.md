@@ -41,8 +41,9 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 
 Esta capa contiene la delimitación vectorial de las **lagunas temporales** del Parque Nacional de Doñana, distribuida por la Junta de Andalucía a través de **REDIAM**. El producto original incluye su propia ficha de metadatos y documentación asociada.
 
-**Autoría del dato:** esta capa **no ha sido producida por el autor** de esta web, sino por C. Gómez-Rodríguez, C. Díaz-Paniagua & J. Bustamante (2011)
-**Motivo de inclusión en este repositorio:** se incluye una copia (y, si aplica, un derivado de **tabla de atributos** reducido) para facilitar su descarga centralizada dentro del proyecto, remitiendo siempre a la ficha oficial de REDIAM como referencia primaria de metadatos, alcance y condiciones.
+**Autoría del dato:** esta capa no ha sido producida por el autor de esta web, sino por *C. Gómez-Rodríguez, C. Díaz-Paniagua & J. Bustamante (2011)*.
+
+**Motivo de inclusión en este repositorio:** se incluye una copia para facilitar su descarga centralizada dentro del proyecto, remitiendo siempre a la ficha oficial de REDIAM como referencia primaria de metadatos, alcance y condiciones.
 
 ---
 
@@ -72,7 +73,7 @@ Esta capa contiene la delimitación vectorial de las **lagunas temporales** del 
 ## 5. Fuentes de datos
 
 **Fuente primaria (oficial):**  
-- Gómez-Rodríguez, C., Díaz-Paniagua, C. & Bustamante, J. (2011). Cartografía de las lagunas temporales del Parque Nacional de Doñana. Agencia Andaluza del Agua. Consejería de Medio Ambiente.Junta de Andalucía.
+- Gómez-Rodríguez, C., Díaz-Paniagua, C. & Bustamante, J. (2011). Cartografía de las lagunas temporales del Parque Nacional de Doñana. Agencia Andaluza del Agua. Consejería de Medio Ambiente. Junta de Andalucía.
 
 
 **Documentación asociada (disponible en REDIAM):**  
@@ -92,7 +93,6 @@ Esta capa contiene la delimitación vectorial de las **lagunas temporales** del 
 ## 7. Estructura de datos y atributos (según REDIAM)
 
 ### Campos del producto original (REDIAM)
-*(Rellenar según el Modelo de Datos Geográficos de REDIAM)*
 
 | Campo | Tipo | Descripción |
 |---|---|---|
