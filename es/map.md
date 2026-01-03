@@ -27,15 +27,62 @@ citation_text: "M. de Felipe (2026). Mapa actualizado del Parque Nacional de Do�
 citation_doi_label: "DOI: [DOI]"
 citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 ---
-# El mapa - un anacronismo
+
+# El Mapa
 <p style="font-size: 0.85em;">
 "<em>Para aquellos que carecen de imaginación, un lugar en blanco en el mapa es un desperdicio inútil; para otros, la parte más valiosa.</em>" Aldo Leopold
 </p>
 
+*Mapa terminado*
 
-Los mapas tienen la capacidad de reflejar nuestra visión del mundo en un momento determinado. Este que nos ha tocado vivir es –como la naturaleza de Doñana– de cambio: las lagunas se secan, los alcornoques centenarios sucumben, la inundación de la marisma se vuelve errática y los que fueron habitantes de Doñana se cuentan con los dedos. Con la pérdida de estos, se desvanecen los últimos integrantes de una cultura y un modo de vida únicos que nació como adaptación a un medio hostil. 
+## Este mapa es, deliberadamente, un anacronismo.
+En un tiempo en el que lo digital ha reemplazado a lo analógico, sigue habiendo algo único en recorrer un mapa físico: la conversación alrededor del papel, la posibilidad de anotar, discutir y corregir. 
+
+---
+
+## Una instantánea del momento
+Los mapas reflejan nuestra visión del mundo en un momento determinado. El instante que nos toca vivir en Doñana es, como su propia ecología, un tiempo de cambio: lagunas que se secan, alcornoques centenarios que sucumben, una marisma cuya inundación se vuelve errática. Con este cambio ecológico se desvanecen también los últimos integrantes de una cultura nacida como adaptación a un medio hostil; una forma de habitar el territorio que durante generaciones (supo leerlo con precisión).
 
 Una de las formas en que se refleja esta rica cultura es en los topónimos y vernáculos. Miles de nombres llenan un territorio que de otro modo se muestra salvaje; cuentan historias del paisaje, de personas y eventos, de usos y costumbres. ¿Quién los recordará cuando ya no estén sus habitantes? ¿Quién recordará las lagunas más remotas cuando el jaguarzo las barra? ¿Quién recordará dónde criaban águilas y linces cuando ...?
+
+Esa cultura no solo se conserva en relatos: también está escrita en el propio espacio. Topónimos y vernáculos llenan un territorio que, de otro modo, se presenta como salvaje o “vacío”. Son nombres que cuentan historias de lugares, usos, personas y eventos; nombres que orientan, advierten y describen.
+
+¿Quién recordará los nombres cuando ya no estén quienes los pronunciaban? ¿Quién recordará las lagunas más remotas cuando el matorral las borre? ¿Quién recordará dónde criaban ciertas especies cuando el paisaje cambie y la memoria se disperse?
+
+---
+
+## De las lagunas a Doñana
+Todo comenzó con una idea simple: poner las lagunas sobre un mapa. Pero el propio territorio fue pidiendo más. Cuando representas una laguna, aparecen en sus alrededores los alcornoques que las custodian, su conexión con otras lagunas, y, al fondo, la lógica completa de Doñana: la inmensidad de la marisma, el frente dunar, la vegetación, la duración de la inundación.
+
+En esa lectura ecológica aparecen también las trazas humanas que han estructurado el lugar: caminos y cortafuegos, las fincas, casas de guardas, torres vigía, palacios, vértices geodésicos. El mapa creció no por ambición, sino por coherencia: Doñana no se entiende por piezas sueltas.
+
+<!-- Sugerencias de imágenes (descomenta y cambia rutas/nombres) ![Primera versión del mapa]({{ "/assets/img/primera_version.jpg" | relative_url }}) *Primer intento: las lagunas como punto de partida.* ![Segunda versión del mapa]({{ "/assets/img/segunda_version.jpg" | relative_url }}) *El mapa empieza a incorporar unidades y referencias para “leer” el territorio.* -->
+
+Este proyecto también es un homenaje a una forma de hacer cartografía que no se limita al escritorio. Algunas piezas del mapa nacieron de materiales trabajados y corregidos sobre el terreno: mapas impresos anotados y modificados a mano, y una digitalización paciente que obligó a mirar elemento a elemento (como ocurrió con los alcornoques).
+En ese proceso, el mapa deja de ser solo un resultado: se convierte en registro de una conversación entre conocimiento local, memoria y representación.
+<!-- ![Mapas anotados por guardas]({{ "/assets/img/mapas_guardas.jpg" | relative_url }}) *Mapas de trabajo: anotaciones y correcciones sobre papel.* ![Digitalización manual de alcornoques]({{ "/assets/img/digitalizacion_alcornoques.png" | relative_url }}) *Digitalización manual: trabajo paciente para no perder detalle.* -->
+
+## Un proyecto vivo
+Sería ingenuo publicar hoy un mapa que solo existiese impreso; por eso este proyecto se presenta en dos formas complementarias, la física y la digital. La primera conserva el valor de lo tangible como objeto de consulta y síntesis, mientras que la segunda funciona como un repositorio abierto donde la información puede consultarse, descargarse y actualizarse. La intención es simple: que el mapa no sea un producto cerrado, sino un punto de partida útil para la investigación, la gestión, la divulgación y el aprendizaje. En ese sentido, este mapa nace como un proyecto vivo: la naturaleza abierta de los datos permite que el contenido mejore con el tiempo mediante sugerencias, correcciones y actualizaciones de quienes trabajan y caminan Doñana —localizaciones de topónimos, cambios en infraestructuras, revisiones de nombres y límites, o cualquier mejora que aumente la utilidad del conjunto—. 
+
+Por esto, el mapa se publica en versiones: cada actualización queda registrada y es trazable: el objetivo es que el mapa físico sea una referencia y, a la vez, que su “vida digital” pueda seguir el ritmo del territorio. 
+
+---
+
+## Contaco
+
+Si quieres proponer una corrección o aportar información, puedes escribirme [aqui](mailto:m.defelipe.t@gmail.com) o abrir una sugerencia en el repositorio.
+
+
+Todo comenzó con las lagunas, pero escaló rápidamente. ¿Cómo ignorar la inmensidad de la marisma, los frentes dunares, la vegetación y la duración de la inundación? ¿Y la red de caminos y cortafuegos? Las casas de guardas, torres vigía de la costa, Palacios, vértices geodésicos, las distintas fincas...
+
+*imagen de la primera versión del mapa*
+
+
+
+*imagen de la segunda versión del mapa*
+
+
 
 Son muchas las personas nuevas que llegan a Doñana cada año. 
 
@@ -50,7 +97,6 @@ A día de hoy sería bastante ingenuo pensar que una publicación que sólo se r
 Las publicaciones impresas dejaron de tener sentido. 
 
 
-En un tiempo en el que lo digital reemplaza a lo analógico, reivindicamos la fuerza, belleza y actualidad de lo tangible. 
 
 La extensión geográfica del mapa cubre aquella protegida como Parque Nacional de Doñana, así como la zona de marisma natural restaurada ubicada en el Parque Natural conocida como _Marisma Gallega_. 
 
@@ -68,14 +114,20 @@ Con otros tales como:
 - ojos, pozos y zacallones
 
 
+
+
+
+Crear un mapa en papel en pleno 2026 es una reivindicación de la fuerza, belleza y actualidad de lo tangible. 
+
 <p style="font-size: 0.85em;">
 "<em>Hace tiempo que mapas y brújulas fueron reemplazados por el uso universal del GPS. La exploración –cualidad tan necesaria en ciencia– ha sido sustituida por el aislamiento en parcelas físicas e intelectuales cada vez más pequeñas. El precio a pagar ha sido privarnos de la observación; de la capacidad de descubrir lo inesperado. Sólo buscamos aquello que ya sabemos que existe.</em>"</p>
 
-## Producto
-¿Cuál es el resultado?
+Alcance del mapa
+La extensión geográfica cubre el Parque Nacional de Doñana y la marisma natural restaurada del Parque Natural conocida como Marisma Gallega.
+
 
 ## Acceso y uso
-¿Qué ponemos a disposición de la gente?
+Los detalles técnicos y la documentación de cada capa se presentan en la sección de Información cartográfica, donde cada elemento tiene su ficha y sus enlaces de descarga.
 
 ## Hazte con el mapa
 Pregúntame cómo hacerte con uno **[por aqui](mailto:m.defelipe.t@gmail.com)**.
