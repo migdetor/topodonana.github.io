@@ -86,7 +86,7 @@ Esta página reúne las capas de información geográfica y recursos asociados a
 | Recurso | Ficha | Fuente |
 |---|---|---|
 | **Modelo Digital del Terreno** (MDT25 de 2ª cobertura; ETRS89 UTM H29N) | [Ficha](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search?#/metadata/spaignMDT25-2) | [CNIG(IGN)](https://centrodedescargas.cnig.es/CentroDescargas/mdt25-segunda-cobertura) |
-| **Modelo digital de pendientes** (MDP02 de 2ª cobertura; ETRS89 H29N) | [Ficha](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search?#/metadata/spaignMDP05) | [CNIG(IGN)](https://centrodedescargas.cnig.es/CentroDescargas/modelo-digital-pendientes-mdp02-primera-cobertura) |
+| **Modelo Digital de pendientes** (MDP02 de 2ª cobertura; ETRS89 H29N) | [Ficha](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search?#/metadata/spaignMDP05) | [CNIG(IGN)](https://centrodedescargas.cnig.es/CentroDescargas/modelo-digital-pendientes-mdp02-primera-cobertura) |
 | **Modelo Digital de Superficies Vegetación** (MDSnV2,5 de 2ª cobertura; ETRS89 H29N) | [Ficha](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search?#/metadata/spaignMDS_Normalizado_Vegetacion_cob2) | [CNIG(IGN)](https://centrodedescargas.cnig.es/CentroDescargas/modelo-digital-superficies-vegetacion-segunda-cobertura#) |
 | **Niveles de protección** (Espacios Protegidos de Andalucía) | [Ficha](https://portalrediam.cica.es/geonetwork/static/spa/catalog.search#/metadata/f562ff46-075e-43fb-8cf7-17247d94a3b6) | [REDIAM](https://portalrediam.cica.es/descargas/index.php/s/descargas?dir=/07_PATRIMONIO_NATURAL/01_ESPACIOS_PROTEGIDOS/01_RENPA/01_EENNPP/EENNPP_2025_11) |
 
