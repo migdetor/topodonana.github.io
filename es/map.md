@@ -28,10 +28,14 @@ citation_doi_label: "DOI: [DOI]"
 citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 ---
 # El mapa - un anacronismo
+<p style="font-size: 0.85em;">
+"<em>Para aquellos que carecen de imaginación, un lugar en blanco en el mapa es un desperdicio inútil; para otros, la parte más valiosa.</em>" Aldo Leopold
+</p>
 
-Los mapas tienen la capacidad de reflejar nuestra visión del mundo en un momento determinado. Este que nos ha tocado vivir es –como la naturaleza de Doñana– de cambio: las lagunas se secan, los alcornoques centenarios sucumben, la inundación de la marisma se vuelve errática y los que fueron habitantes de Doñana ya se cuentan con los dedos. Con la pérdida de estos, se desvanecen los últimos integrantes de una cultura y un modo de vida únicos que nació como adaptación a un medio hostil. 
 
-Una de las formas en que se refleja esta rica cultura es en los topónimos y vernáculos. Miles de nombres llenan un territorio que de otro modo se muestra salvaje; cuentan historias del paisaje, de personas y eventos, de usos y costumbres. ¿Quién los recordará cuando ya no estén habitantes? ¿Quién recordará las lagunas más remotas cuando el jaguarzo las barra?
+Los mapas tienen la capacidad de reflejar nuestra visión del mundo en un momento determinado. Este que nos ha tocado vivir es –como la naturaleza de Doñana– de cambio: las lagunas se secan, los alcornoques centenarios sucumben, la inundación de la marisma se vuelve errática y los que fueron habitantes de Doñana se cuentan con los dedos. Con la pérdida de estos, se desvanecen los últimos integrantes de una cultura y un modo de vida únicos que nació como adaptación a un medio hostil. 
+
+Una de las formas en que se refleja esta rica cultura es en los topónimos y vernáculos. Miles de nombres llenan un territorio que de otro modo se muestra salvaje; cuentan historias del paisaje, de personas y eventos, de usos y costumbres. ¿Quién los recordará cuando ya no estén sus habitantes? ¿Quién recordará las lagunas más remotas cuando el jaguarzo las barra? ¿Quién recordará dónde criaban águilas y linces cuando ...?
 
 Son muchas las personas nuevas que llegan a Doñana cada año. 
 
@@ -65,7 +69,7 @@ Con otros tales como:
 
 
 <p style="font-size: 0.85em;">
-"<em>Hace tiempo que mapas y brújulas fueron reemplazados por el uso del GPS. De forma paralela –o a consecuencia de ello–, la exploración –cualidad tan necesaria en ciencia– ha sido sustituida por el aislamiento en parcelas físicas e intelectuales cada vez más pequeñas. El precio a pagar ha sido privarnos de la observación; de la capacidad de descubrir lo inesperado, de modo sólo buscamos aquello que ya sabemos que existe (y dónde lo hace). Lo cual nos ha empobrecido enormemente.</em>"</p>
+"<em>Hace tiempo que mapas y brújulas fueron reemplazados por el uso universal del GPS. La exploración –cualidad tan necesaria en ciencia– ha sido sustituida por el aislamiento en parcelas físicas e intelectuales cada vez más pequeñas. El precio a pagar ha sido privarnos de la observación; de la capacidad de descubrir lo inesperado. Sólo buscamos aquello que ya sabemos que existe.</em>"</p>
 
 ## Producto
 ¿Cuál es el resultado?
