@@ -35,19 +35,15 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 
 *Mapa terminado*
 
+---
+
 ## Este mapa es, deliberadamente, un anacronismo.
 En un tiempo en el que lo digital ha reemplazado a lo analógico, sigue habiendo algo único en recorrer un mapa físico: la conversación alrededor del papel, la posibilidad de anotar, discutir y corregir. 
 
----
-
 ## Una instantánea del momento
-Los mapas reflejan nuestra visión del mundo en un momento determinado. El instante que nos toca vivir en Doñana es, como su propia ecología, un tiempo de cambio: lagunas que se secan, alcornoques centenarios que sucumben, una marisma cuya inundación se vuelve errática. Con este cambio ecológico se desvanecen también los últimos integrantes de una cultura nacida como adaptación a un medio hostil; una forma de habitar el territorio que durante generaciones (supo leerlo con precisión).
+Los mapas reflejan nuestra visión del mundo en un momento determinado. El instante que nos toca vivir en Doñana es, como su propia ecología, uno de cambio: lagunas que se secan, alcornoques centenarios que sucumben, una marisma cuya inundación se vuelve errática. Con este cambio ecológico se desvanecen también los últimos integrantes de una cultura nacida como adaptación a un medio hostil; una forma de habitar el territorio.
 
-Una de las formas en que se refleja esta rica cultura es en los topónimos y vernáculos. Miles de nombres llenan un territorio que de otro modo se muestra salvaje; cuentan historias del paisaje, de personas y eventos, de usos y costumbres. ¿Quién los recordará cuando ya no estén sus habitantes? ¿Quién recordará las lagunas más remotas cuando el jaguarzo las barra? ¿Quién recordará dónde criaban águilas y linces cuando ...?
-
-Esa cultura no solo se conserva en relatos: también está escrita en el propio espacio. Topónimos y vernáculos llenan un territorio que, de otro modo, se presenta como salvaje o “vacío”. Son nombres que cuentan historias de lugares, usos, personas y eventos; nombres que orientan, advierten y describen.
-
-¿Quién recordará los nombres cuando ya no estén quienes los pronunciaban? ¿Quién recordará las lagunas más remotas cuando el matorral las borre? ¿Quién recordará dónde criaban ciertas especies cuando el paisaje cambie y la memoria se disperse?
+Esta cultura se encuentra escrita en el propio espacio; miles de nombres llenan un territorio que, de otro modo, se muestra salvaje. Cuentan historias del paisaje, usos, personas y eventos; nombres que describen, orientan y advierten. ¿Quién los recordará cuando ya no estén quienes los pronunciaban? ¿Quién recordará las lagunas más remotas cuando el matorral las borre?
 
 ---
 
