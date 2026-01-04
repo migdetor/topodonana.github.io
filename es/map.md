@@ -52,6 +52,26 @@ Todo comenzó con una idea simple: poner las lagunas sobre un mapa. Pero el prop
 
 En esa lectura ecológica aparecen también las trazas humanas que han estructurado el lugar: caminos y cortafuegos, las fincas, casas de guardas, torres vigía, palacios, vértices geodésicos. El mapa creció no por ambición, sino por coherencia: Doñana no se entiende por piezas sueltas.
 
+En este proyecto hemos reunido capas base de referencia como:
+
+- Modelos digitales de elevación del terreno.
+- Modelos digitales de pendientes.
+- Modelos digitales de vegetación.
+- Los niveles de protección del Espacio Natural de Doñana.
+
+Capas 
+- Toponimia de Doñana.
+- Alcornoques del Parque Nacional.
+- Cartografía de la red lagunas temporales.
+- Duración de la inundación en las lagunas y marisma.
+- cartografía de los zacallones, pozos y ojos.
+
+- Vallados y recintos.
+- Red de carriles, caminos y cortafuegos.
+- Construcciones y edificaciones.
+- Estaciones hidrometeorológicas.
+- Vértices geodésicos.
+
 <!-- Sugerencias de imágenes (descomenta y cambia rutas/nombres) ![Primera versión del mapa]({{ "/assets/img/primera_version.jpg" | relative_url }}) *Primer intento: las lagunas como punto de partida.* ![Segunda versión del mapa]({{ "/assets/img/segunda_version.jpg" | relative_url }}) *El mapa empieza a incorporar unidades y referencias para “leer” el territorio.* -->
 
 Este proyecto también es un homenaje a una forma de hacer cartografía que no se limita al escritorio. Algunas piezas del mapa nacieron de materiales trabajados y corregidos sobre el terreno: mapas impresos anotados y modificados a mano, y una digitalización paciente que obligó a mirar elemento a elemento (como ocurrió con los alcornoques).
