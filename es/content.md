@@ -28,6 +28,7 @@ citation_doi_label: "DOI: [DOI]"
 citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 ---
 
+**EN CONSTRUCCIÓN**
 # Información cartográfica
 
 Esta página reúne las capas de información geográfica y recursos asociados al mapa actualizado del Parque Nacional de Doñana. Para cada capa encontrarás una **Ficha** (documentación) y, cuando aplique, un enlace de **Descarga**.
