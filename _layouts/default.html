@@ -37,40 +37,6 @@
           </div>
         {% endif %}
 
-        {% assign ext = page.links | default: site.links %}
-        {% if ext %}
-          <div class="links-sep"></div>
-          <div class="links-title">{{ page.links_title | default: site.links_title | default: "Links" }}</div>
-          <div class="links">
-            {% for item in ext %}
-              {% assign u = item.url %}
-              {% if u contains "://" or u contains "mailto:" %}
-                <p><a href="{{ u }}" target="_blank" rel="noopener">{{ item.label }}</a></p>
-              {% else %}
-                <p><a href="{{ u | relative_url }}">{{ item.label }}</a></p>
-              {% endif %}
-            {% endfor %}
-          </div>
-        {% endif %}
-
-        {% assign ctext = page.citation_text | default: site.citation_text %}
-        {% if ctext %}
-          <div class="citation">
-            <p>
-              <strong>{{ page.citation_label | default: site.citation_label | default: "Recommended citation:" }}</strong>
-              {{ ctext }}
-              {% assign cdoi = page.citation_doi_url | default: site.citation_doi_url %}
-              {% if cdoi %}
-                <a href="{{ cdoi }}" target="_blank" rel="noopener">
-                  {{ page.citation_doi_label | default: site.citation_doi_label | default: cdoi }}
-                </a>
-              {% else %}
-                {{ page.citation_doi_label | default: site.citation_doi_label }}
-              {% endif %}
-            </p>
-          </div>
-        {% endif %}
-
         {% if site.github.is_project_page %}
           <p class="view">
             <a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a>
@@ -95,12 +61,44 @@
       </section>
 
       <footer>
+        {% assign ext = page.links | default: site.links %}
+        {% if ext %}
+          <div class="footer-links">
+            {% for item in ext %}
+              {% assign u = item.url %}
+              {% if u contains "://" or u contains "mailto:" %}
+                <a href="{{ u }}" target="_blank" rel="noopener">{{ item.label }}</a>
+              {% else %}
+                <a href="{{ u | relative_url }}">{{ item.label }}</a>
+              {% endif %}
+              {% unless forloop.last %} · {% endunless %}
+            {% endfor %}
+          </div>
+        {% endif %}
+
+        {% assign ctext = page.citation_text | default: site.citation_text %}
+        {% if ctext %}
+          <div class="footer-citation">
+            <span class="citation-label">{{ page.citation_label | default: site.citation_label | default: "Recommended citation:" }}</span>
+            <span class="citation-text">{{ ctext }}</span>
+            {% assign cdoi = page.citation_doi_url | default: site.citation_doi_url %}
+            {% if cdoi %}
+              <a href="{{ cdoi }}" target="_blank" rel="noopener">
+                {{ page.citation_doi_label | default: site.citation_doi_label | default: cdoi }}
+              </a>
+            {% else %}
+              <span class="citation-doi">{{ page.citation_doi_label | default: site.citation_doi_label }}</span>
+            {% endif %}
+          </div>
+        {% endif %}
+
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+
         <!--
         {% if site.github.is_project_page %}
           <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-         -->
+        -->
       </footer>
     </div>
 
