@@ -79,6 +79,8 @@ Este proyecto también es un homenaje a una forma de hacer cartografía que no s
 En ese proceso, el mapa deja de ser solo un resultado: se convierte en registro de una conversación entre conocimiento local, memoria y representación.
 <!-- ![Mapas anotados por guardas]({{ "/assets/img/mapas_guardas.jpg" | relative_url }}) *Mapas de trabajo: anotaciones y correcciones sobre papel.* ![Digitalización manual de alcornoques]({{ "/assets/img/digitalizacion_alcornoques.png" | relative_url }}) *Digitalización manual: trabajo paciente para no perder detalle.* -->
 
+---
+
 ## Un proyecto vivo
 Hoy en día sería ingenuo pretender **publicar un mapa** que solo existiese impreso. Por eso, este proyecto se presenta en **dos formas** complementarias, la **física y la digital**. La primera conserva el valor de lo tangible como objeto de consulta y síntesis, mientras que la segunda funciona como un repositorio abierto donde la información puede consultarse, descargarse y actualizarse. 
 
@@ -90,9 +92,7 @@ Es por esto que el mapa se publica en versiones; Cada actualización queda regis
 
 ## Contacto
 
-Si quieres proponer correcciones, sugerencias o aportar información, puedes escribirme [aqui](mailto:m.defelipe.t@gmail.com) o abrir una sugerencia en el repositorio.
-
----
+Si quieres proponer correcciones, sugerencias o aportar información, puedes escribirme **[aqui](mailto:m.defelipe.t@gmail.com)** o abrir una sugerencia en el repositorio.
 
 ## Hazte con el mapa
 También, si quieres hacerte con uno, puedes preguntarme **[por aqui](mailto:m.defelipe.t@gmail.com)**.
@@ -115,3 +115,4 @@ La extensión geográfica del mapa cubre aquella protegida como Parque Nacional 
 
 Alcance del mapa
 La extensión geográfica cubre el Parque Nacional de Doñana y la marisma natural restaurada del Parque Natural conocida como Marisma Gallega.
+-->
