@@ -35,8 +35,8 @@ Este repositorio centraliza la información cartográfica y ecológica asociada 
 Mediante la creación de esta página se pretende poner a disposición pública la información cartográfica empleada para la creación del mismo, actualizar de forma periódica las distintas capas de información que lo componen, y proporcionar el contexto socio-ecológico que permita entender las tendencias que viene experimentando Doñana en las últimas décadas, así como sus causas y consecuencias.
 
 ## Índice
-  - [Justificación]({{ "/es/preface/" | relative_url }})
   - [Doñana]({{ "/es/doniana/" | relative_url }})
+  - [Justificación]({{ "/es/preface/" | relative_url }})
   - [El mapa]({{ "/es/map/" | relative_url }})
   - [Información cartográfica]({{ "/es/content/" | relative_url }})
   - [Descarga de datos](https://doi.org/10.5281/zenodo.18109683)
