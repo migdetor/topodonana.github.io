@@ -33,7 +33,9 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 "<em>Para aquellos que carecen de imaginación, un lugar en blanco en el mapa es un desperdicio inútil; para otros, la parte más valiosa.</em>" Aldo Leopold
 </p>
 
-*Mapa terminado*
+<img src="{{ "/assets/img/mapjpgminres.jpeg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
+
+
 
 ---
 
