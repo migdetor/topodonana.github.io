@@ -16,14 +16,6 @@ header h1 a:hover {
   color: #163f77; /* opcional: color al pasar el ratón */
 }
 
----
----
-
-@import "{{ site.theme }}";
-.site-description { font-style: italic; }
-.links-title { margin-bottom: 10px; }
-section p { text-align: justify; text-justify: inter-word; }
-
 /* =========================
    Wider layout (reduce blank margins)
    ========================= */
