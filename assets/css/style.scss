@@ -5,6 +5,12 @@
 .links-title { margin-bottom: 10px; }
 section p { text-align: justify; text-justify: inter-word; }
 
+/* Aumentar tamaño del texto principal */
+section {
+  font-size: 1.08em;   /* prueba 1.05–1.15 */
+  line-height: 1.6;    /* mejora legibilidad */
+}
+
 /* Title (site title in the left column) */
 header h1 a {
   color: #444444; /* cambia este color */
@@ -22,7 +28,7 @@ header h1 a:hover {
 
 /* Make the main container wider */
 .wrapper {
-  max-width: 1200px;   /* prueba 1100–1400px según gusto */
+  max-width: 1100px;   /* prueba 1100–1400px según gusto */
   width: 92%;          /* ocupa más ancho en pantallas medianas */
 }
 
