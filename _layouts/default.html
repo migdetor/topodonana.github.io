@@ -53,7 +53,7 @@
       <footer>
         {% assign ext = page.links | default: site.links %}
         {% if ext %}
-          <div class="footer-links">
+          <div class="footer-links" style="margin-bottom: 0.8rem;">
             {% for item in ext %}
               {% assign u = item.url %}
               {% if u contains "://" or u contains "mailto:" %}
@@ -68,7 +68,7 @@
 
         {% assign ctext = page.citation_text | default: site.citation_text %}
         {% if ctext %}
-          <div class="footer-citation">
+          <div class="footer-citation" style="margin-bottom: 0.9rem; line-height: 1.35;">
             <strong class="citation-label">{{ page.citation_label | default: site.citation_label | default: "Recommended citation:" }}</strong>
             <span class="citation-text">{{ ctext }}</span>
             {% assign cdoi = page.citation_doi_url | default: site.citation_doi_url %}
@@ -81,12 +81,13 @@
             {% endif %}
           </div>
         {% endif %}
-        
-<!--
+
+        <!--
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
--->
+        -->
+
         {% if site.github.is_project_page %}
-          <p class="view">
+          <p class="view" style="margin-top: 0.9rem;">
             <a href="{{ site.github.repository_url }}">
               View the Project on GitHub <small>{{ site.github.repository_nwo }}</small>
             </a>
