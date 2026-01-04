@@ -5,6 +5,8 @@ permalink: /es/preface/
 menu:
   - label: "Inicio"
     url: "/es/"
+  - label: "Doñana"
+    url: "/es/doniana/"
   - label: "Justificación"
     url: "/es/preface/"
   - label: "El mapa"
@@ -17,14 +19,12 @@ menu:
     url: "/es/recursos/"
 
 links:
-  - label: "Google Scholar"
-    url: "https://scholar.google.com/citations?user=JQzRGw4AAAAJ&hl=es"
   - label: "Contact me/ Contáctame"
-    url: "mailto:m.defelipe.t@gmail.com"
+    url: "/contact/"
 
-citation_label: "Cita recomendada:"
-citation_text: "M. de Felipe (2026). Mapa actualizado del Parque Nacional de Doñana. Zenodo."
-citation_doi_label: "DOI: https://doi.org/10.5281/zenodo.18109683"
+citation_label: "Reccomended citation - Cita recomendada:"
+citation_text: "M. de Felipe (2026). Mapa actualizado del Parque Nacional de Doñana (v1.0). Zenodo."
+citation_doi_label: "DOI: [DOI]"
 citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 ---
 # Justificación
