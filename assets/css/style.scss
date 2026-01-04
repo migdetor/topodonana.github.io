@@ -15,3 +15,31 @@ header h1 a {
 header h1 a:hover {
   color: #163f77; /* opcional: color al pasar el ratón */
 }
+
+---
+---
+
+@import "{{ site.theme }}";
+.site-description { font-style: italic; }
+.links-title { margin-bottom: 10px; }
+section p { text-align: justify; text-justify: inter-word; }
+
+/* =========================
+   Wider layout (reduce blank margins)
+   ========================= */
+
+/* Make the main container wider */
+.wrapper {
+  max-width: 1200px;   /* prueba 1100–1400px según gusto */
+  width: 92%;          /* ocupa más ancho en pantallas medianas */
+}
+
+/* Give a bit more space to the content column */
+header { width: 260px; }     /* sidebar width */
+section { width: calc(100% - 300px); } /* 260 + margen aproximado */
+
+/* Keep it readable on small screens */
+@media (max-width: 960px) {
+  .wrapper { width: 92%; max-width: 900px; }
+  header, section { width: auto; }
+}
