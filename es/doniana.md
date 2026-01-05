@@ -50,7 +50,7 @@ En paralelo, el sistema de arenas y dunas alberga distintas comunidades ligadas 
 - En las zonas altas –más distantes del nivel freático– aparece el **monte blanco**, dominado por vegetación xerofítica como el jaguarzo (*Cistus halimifolius*), las sabinas (*Juniperus phoenicea subsp. turbinata*) y aromáticas como el romero (Salvia rosmarinus), almoradux (Thymus matischina) o el cantueso (Lavandula stoechas).
 - En zonas más deprimidas, la cercanía del nivel freático a la superficie sostiene una diversa comunidad de vegetación freatofítica – el **monte negro**–, representado por los alcornoques (*Quercus suber*), brezales (*Erica scoparia, E. ciliaris, E. umbellata, Calluna vulgaris*), zarzas (*Rubus ulmifolius*) y labiérnago (*Phyllirea angustifolia**).
 - En los **corrales** –valles interdunares– encontramos que el pinar da paso a depresiones intradunares húmedas allá dónde la influencia del nivel freático es constante.
-- Pero es en las zonas de descarga del acuífero donde aparece una red de más de 3.000 *lagunas*; en su mayoría temporales. 
+- Pero es en las zonas de descarga del acuífero donde aparece una red de más de 3.000 **lagunas**; en su mayoría temporales. 
 
 En conjunto, esta diversidad de ecosistemas sostiene una biodiversidad excepcional formada por más de 1800 especies animales y vegetales. Esto es debido precisamente a que las pequeñas diferencias en la topografía del terreno –a menudo inapreciables a simple vista– producen cambios ecológicamente relevantes en la disponibilidad de agua, generando a su vez una gran diversidad de hábitats.
 
