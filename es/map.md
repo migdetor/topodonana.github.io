@@ -31,8 +31,6 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 
 # El Mapa
 
----
-
 ## Anacronismos
 En un tiempo en el que lo digital ha reemplazado a lo analógico, **sigue habiendo algo único en recorrer un mapa físico: la conversación alrededor del papel, la posibilidad de anotar, discutir y corregir. ** Este mapa es, deliberadamente, un anacronismo. 
 
@@ -90,10 +88,10 @@ Es por esto que el mapa se publica en versiones; Cada actualización queda regis
 Si quieres proponer correcciones, sugerencias o aportar información, puedes escribirme **[aqui](mailto:m.defelipe.t@gmail.com)** o abrir una sugerencia en el repositorio.
 
 ## Hazte con el mapa
-También, si quieres hacerte con uno, puedes preguntarme **[por aqui](mailto:m.defelipe.t@gmail.com)**.
+Si quieres hacerte con un mapa, pregúntame **[por aqui](mailto:m.defelipe.t@gmail.com)**.
 
 ## Acceso y uso
-Los detalles técnicos y la documentación de cada capa se presentan en la sección de Información cartográfica, donde cada elemento tiene su ficha y sus enlaces de descarga.
+Los detalles técnicos y la documentación de cada capa se presentan en la sección de [Información cartográfica](/es/content/content/), donde cada elemento tiene su ficha y sus enlaces de descarga.
 
 <!--
 Son muchas las personas nuevas que llegan a Doñana cada año. 
