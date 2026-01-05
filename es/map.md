@@ -34,9 +34,8 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 ---
 
 ## Este mapa es, deliberadamente, un anacronismo.
-En un tiempo en el que lo digital ha reemplazado a lo analógico, sigue habiendo algo único en recorrer un mapa físico: la conversación alrededor del papel, la posibilidad de anotar, discutir y corregir. 
+En un tiempo en el que lo digital ha reemplazado a lo analógico, **sigue habiendo algo único en recorrer un mapa físico: la conversación alrededor del papel, la posibilidad de anotar, discutir y corregir. **
 
-## Una instantánea del momento
 Los mapas reflejan nuestra visión del mundo en un momento determinado. El instante que nos toca vivir en Doñana es, como su propia ecología, de cambio: lagunas que se secan, alcornoques centenarios sucumben, una marisma cuya inundación se vuelve errática, y con el cambio generacional presenciamos como se desvanecen los últimos integrantes de una cultura única nacida como adaptación a un medio hostil; una forma de habitar el territorio.
 
 Esta cultura se encuentra escrita en el paisaje; miles de nombres llenan un territorio que, de otro modo, se muestra salvaje. Cuentan historias del espacio, de usos, personas y eventos; nombres que describen, orientan y advierten. ¿Quién los recordará cuando ya no estén quienes los pronunciaban? ¿Quién recordará las lagunas más remotas cuando el matorral las borre?
