@@ -50,9 +50,9 @@ En esta forma de entender el territorio aparecen también las trazas humanas que
 ---
 
 ## Un proyecto vivo
-Hoy en día sería ingenuo pretender **publicar un mapa** que solo existiese impreso. Por eso, este proyecto se presenta en **dos formas** complementarias, la **física y la digital**. La primera conserva el valor de lo tangible como objeto de consulta y síntesis, mientras que la segunda funciona como un repositorio abierto donde la información puede consultarse, descargarse y actualizarse. 
+Hoy en día sería ingenuo pretender **publicar un mapa** que solo existiese impreso. Por eso, este proyecto se presenta en **dos formas** complementarias, la **física y la digital**. La primera conserva el valor de lo tangible como objeto de consulta y síntesis, mientras que la segunda funciona como un **[repositorio abierto](https://doi.org/10.5281/zenodo.18109683)** donde la información puede consultarse, descargarse y actualizarse. 
 
-La intención es que el mapa no sea un producto cerrado, sino un punto de partida útil para la investigación, la gestión, la divulgación y el aprendizaje. En ese sentido, este mapa nace como un **proyecto vivo**: la naturaleza abierta de los datos permite que el contenido mejore con el tiempo mediante **sugerencias, correcciones y actualizaciones** de quienes trabajan y caminan Doñana —localizaciones de topónimos, cambios en infraestructuras, revisiones de nombres y límites, o cualquier mejora que aumente la utilidad del conjunto—. 
+La intención es que el mapa no sea un producto cerrado, sino un punto de partida útil para investigación, gestión, divulgación y aprendizaje. En ese sentido, este mapa nace como un **proyecto vivo**: la naturaleza abierta de los datos permite que el contenido mejore con el tiempo mediante **sugerencias, correcciones y actualizaciones** de quienes trabajan y caminan Doñana —localizaciones de topónimos, cambios en infraestructuras, revisiones de nombres y límites, o cualquier mejora que aumente la utilidad del conjunto—. 
 
 Es por esto que el mapa se publica en versiones; Cada actualización queda registrada y es trazable, de modo que mientras que el mapa físico queda como referencia fija en el tiempo, su “vida digital” puede continuar. 
 
