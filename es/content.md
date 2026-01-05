@@ -76,8 +76,8 @@ Esta página reúne las capas de información geográfica y recursos asociados a
 |---|---|---|
 | **Edificaciones y construcciones** EN CONSTRUCCION | [Ficha]({{ "/es/content/construcciones/" | relative_url }}) | Sí |
 | **Estaciones hidrometeorológicas** EN CONSTRUCCION | [Ficha]({{ "/es/content/hidromet/" | relative_url }}) | Sí |
-| **Vallados y cercados** | Bajo petición | Bajo petición |
-| **Red de caminos, carriles y cortafuegos** | Bajo petición | Bajo petición |
+| **Vallados y cercados** | – | Bajo petición |
+| **Red de caminos, carriles y cortafuegos** | – | Bajo petición |
 
 ---
 
@@ -100,7 +100,7 @@ La información publicada en esta web tiene un fin meramente ilustrativo y orien
 
 Los **datos cartográficos y ecológicos** disponibles para descarga se publican bajo licencia Creative Commons Attribution–NonCommercial 4.0 International (**CC BY-NC 4.0**). Se permite su uso, distribución y creación de obras derivadas únicamente para fines no comerciales, siempre que se cite la fuente.
 
-El diseño, composición, maquetación y versión final del mapa (**plano/PDF/imagen**) están protegidos por derechos de autor (**© Miguel de Felipe Toro, 2026 todos los derechos reservados**). Queda prohibida la reproducción total o parcial, distribución o comunicación pública de la composición final del mapa sin el consentimiento expreso por escrito del titular de los derechos. Consulta la [licencia](addlink)
+El diseño, composición, maquetación y versión final del mapa (**plano/PDF/imagen**) están protegidos por derechos de autor (**© Miguel de Felipe Toro, 2026 todos los derechos reservados**). Queda prohibida la reproducción total o parcial, distribución o comunicación pública de la composición final del mapa sin el consentimiento expreso por escrito del titular de los derechos. Consulta la [licencia](addlink).
 
 ---
 
