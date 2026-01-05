@@ -28,10 +28,12 @@ citation_doi_label: "DOI: [DOI]"
 citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 ---
 
-# Humedales, una joya en peligro
+# Una joya en peligro
 Tan solo un puñado de deltas, debido a su localización entre las zonas templadas y tropicales del mundo, logran congregar en ellos una diversidad de tal magnitud a la que, hace más de 60 años, logró movilizar a la comunidad internacional para proteger lo que hoy conocemos como Doñana.
 
 En el último siglo, alrededor del 70% de los humedales del planeta han desaparecido, y se calcula que un 78% adicional haya hecho lo mismo en 2100. Doñana, a pesar de tratarse del humedal más importante de Europa, tiene el dudoso honor de representar a la perfección los principales retos y amenazas a los que se enfrentan los humedales de todo el mundo: la intensificación agrícola y el cambio climático.
+
+---
 
 # Doñana
 Históricamente, Doñana era el nombre que recibía el territorio situado entre el Coto del Rey (al Este de la aldea de El Rocío) y el de las Marismillas (frente a Sanlúcar de Barrameda). Actualmente*Doñana* se usa en sentido amplio para referirse a la *Reserva de la Biosfera* de Doñana: un extenso territorio de ~265.000 hectáreas que abarca las provincias de Cádiz, Huelva y Sevilla. Para la realización de este mapa hemos decidido usar Doñana para referirnos a las 54.000 ha de terrenos bajo la figura de protección del Parque Nacional que yacen entre el Río Guadalquivir y el Océano Atlántico. 
