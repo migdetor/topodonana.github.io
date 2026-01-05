@@ -46,10 +46,10 @@ Doñana se entiende asimismo como producto de la interacción entre las aguas su
 Sobre esta base física se organiza un mosaico de paisajes altamente dinámico: 
 - La **marisma** estacional —alimentada por la precipitación y una red de arroyos y caños— funciona como una gran llanura de inundación (~30.000 ha) cuya microtopografía crea una diversidad de hábitats (lucios, caños, vetas, toruños, etc.) fundamentales para la gran diversidad y abundancia de plantas y animales que aqui se encuentran. Destacan aqui los cientos de miles de aves acuáticas que cada año usan Doñana como lugar de reproducción, cuartel de invernada o como trampolín desde el que continuar sus migraciones trans-continentales. Desde la década de los 50, la marisma viene experimentando una mayor dependencia de la lluvia (la cual es muy variable) a consecuencia de los procesos de polderización y puesta en cultivo de los alrededores de la marisma, que han desviado y sobreexplotado los cauces vertientes a la marisma. 
 
-En paralelo, el sistema de arenas y dunas alberga distintas comunidades ligadas a la profundidad del nivel freático. Destacan:
-- El **monte blanco** (formado por....) en las zonas más secas
-- El **monte negro** (formado por....) en depresiones con mayor acceso al agua subterránea.
-- Las depresiones húmedas interdunares.
+En paralelo, el sistema de arenas y dunas alberga distintas comunidades ligadas a la profundidad del nivel freático:
+- En las zonas altas –más distantes del nivel freático– aparece el **monte blanco**, dominado por vegetación xerofítica como el jaguarzo (*Cistus halimifolius*), las sabinas (*Juniperus phoenicea subsp. turbinata*) y aromáticas como el romero (Salvia rosmarinus), almoradux (Thymus matischina) o el cantueso (Lavandula stoechas).
+- En las zonas más deprimidas, la cercanía del nivel freático a la superficie sostiene una comunidad diversa de vegetación freatofítica, representado por los alcornoques (**Quercus suber**), brezales (**Erica scoparia, E. ciliaris, E. umbellata, Calluna vulgaris**), zarzas (*Rubus ulmifolius*) y labiérnago (**Phyllirea angustifolia**). El **monte negro** (formado por....) en depresiones con mayor acceso al agua subterránea.
+- En los **corrales** –valles interdunares– encontramos que el pinar da paso a depresiones intradunares húmedas allá dónde la influencia del nivel freático es constante.
 - Y, especialmente relevante, en zonas de descarga del acuífero se despliega una red de más de 3.000 lagunas, en su mayoría temporales. 
 
 En conjunto, esta diversidad de ecosistemas sostiene una biodiversidad excepcional formada por más de 1800 especies animales y vegetales. Esto es debido precisamente a que las pequeñas diferencias en la topografía del terreno –a menudo inapreciables a simple vista– producen cambios ecológicamente relevantes en la disponibilidad de agua, generando a su vez una gran diversidad de hábitats.
