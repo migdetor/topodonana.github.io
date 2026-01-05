@@ -33,8 +33,8 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 
 ---
 
-## Este mapa es, deliberadamente, un anacronismo.
-En un tiempo en el que lo digital ha reemplazado a lo analógico, **sigue habiendo algo único en recorrer un mapa físico: la conversación alrededor del papel, la posibilidad de anotar, discutir y corregir. **
+## Anacronismos
+En un tiempo en el que lo digital ha reemplazado a lo analógico, **sigue habiendo algo único en recorrer un mapa físico: la conversación alrededor del papel, la posibilidad de anotar, discutir y corregir. ** Este mapa es, deliberadamente, un anacronismo. 
 
 Los mapas reflejan nuestra visión del mundo en un momento determinado. El instante que nos toca vivir en Doñana es, como su propia ecología, de cambio: lagunas que se secan, alcornoques centenarios sucumben, una marisma cuya inundación se vuelve errática, y con el cambio generacional presenciamos como se desvanecen los últimos integrantes de una cultura única nacida como adaptación a un medio hostil; una forma de habitar el territorio.
 
@@ -81,7 +81,7 @@ Hoy en día sería ingenuo pretender **publicar un mapa** que solo existiese imp
 
 La intención es que el mapa no sea un producto cerrado, sino un punto de partida útil para la investigación, la gestión, la divulgación y el aprendizaje. En ese sentido, este mapa nace como un **proyecto vivo**: la naturaleza abierta de los datos permite que el contenido mejore con el tiempo mediante **sugerencias, correcciones y actualizaciones** de quienes trabajan y caminan Doñana —localizaciones de topónimos, cambios en infraestructuras, revisiones de nombres y límites, o cualquier mejora que aumente la utilidad del conjunto—. 
 
-Es por esto que el mapa se publica en versiones; Cada actualización queda registrada y es trazable, de modo que mientras que el mapa físico sirva de referencia fija en el tiempo, su “vida digital” pueda continuar. 
+Es por esto que el mapa se publica en versiones; Cada actualización queda registrada y es trazable, de modo que mientras que el mapa físico queda como referencia fija en el tiempo, su “vida digital” puede continuar. 
 
 ---
 
@@ -91,8 +91,6 @@ Si quieres proponer correcciones, sugerencias o aportar información, puedes esc
 
 ## Hazte con el mapa
 También, si quieres hacerte con uno, puedes preguntarme **[por aqui](mailto:m.defelipe.t@gmail.com)**.
-
----
 
 ## Acceso y uso
 Los detalles técnicos y la documentación de cada capa se presentan en la sección de Información cartográfica, donde cada elemento tiene su ficha y sus enlaces de descarga.
