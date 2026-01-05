@@ -27,7 +27,6 @@ citation_text: "M. de Felipe (2026). Mapa actualizado del Parque Nacional de Do�
 citation_doi_label: "DOI: [DOI]"
 citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 ---
-**EN CONSTRUCCIÓN**
 
 # El Mapa
 
@@ -80,3 +79,4 @@ La extensión geográfica del mapa cubre aquella protegida como Parque Nacional 
 <p style="font-size: 0.85em;">
 "<em>Hace tiempo que mapas y brújulas fueron reemplazados por el uso universal del GPS. La exploración –cualidad tan necesaria en ciencia– ha sido sustituida por el aislamiento en parcelas físicas e intelectuales cada vez más pequeñas. El precio a pagar ha sido privarnos de la observación; de la capacidad de descubrir lo inesperado. Sólo buscamos aquello que ya sabemos que existe.</em>"</p>
 
+-->
