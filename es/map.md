@@ -68,6 +68,8 @@ Si quieres hacerte con un mapa, pregúntame **[por aqui](mailto:m.defelipe.t@gma
 ## Acceso y uso
 Los detalles técnicos y la documentación de cada capa se presentan en la sección de [Información cartográfica]({{ "/es/content/" | relative_url }}), donde cada elemento tiene su ficha y sus enlaces de descarga.
 
+---
+
 <!--
 Son muchas las personas nuevas que llegan a Doñana cada año. 
 
