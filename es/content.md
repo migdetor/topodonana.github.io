@@ -58,7 +58,7 @@ Esta página reúne las capas de información geográfica y recursos asociados a
 
 ## Capas principales
 
-| Capa | Ficha | Descarga |
+| Capa | Ficha | Disponible para Descarga |
 |---|---|---|
 | **Toponimia de Doñana** EN CONSTRUCCION | [Ficha]({{ "/es/content/toponimos/" | relative_url }}) | Sí |
 | **Cartografía de la red de lagunas** | [Ficha]({{ "/es/content/lagunas/" | relative_url }}), [REDIAM](https://portalrediam.cica.es/geonetwork/srv/api/records/db48f197-a17f-4f86-9e66-447da049f18c) | Sí |
@@ -72,7 +72,7 @@ Esta página reúne las capas de información geográfica y recursos asociados a
 
 > Nota: estas capas pueden estar incompletas y/o ser meramente interpretativas. Consulta la ficha antes de su uso.
 
-| Capa | Ficha | Descarga |
+| Capa | Ficha | Disponible para Descarga |
 |---|---|---|
 | **Edificaciones y construcciones** EN CONSTRUCCION | [Ficha]({{ "/es/content/construcciones/" | relative_url }}) | Sí |
 | **Estaciones hidrometeorológicas** EN CONSTRUCCION | [Ficha]({{ "/es/content/hidromet/" | relative_url }}) | Sí |
