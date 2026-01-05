@@ -91,7 +91,7 @@ Si quieres proponer correcciones, sugerencias o aportar información, puedes esc
 Si quieres hacerte con un mapa, pregúntame **[por aqui](mailto:m.defelipe.t@gmail.com)**.
 
 ## Acceso y uso
-Los detalles técnicos y la documentación de cada capa se presentan en la sección de [Información cartográfica](/es/content/content/), donde cada elemento tiene su ficha y sus enlaces de descarga.
+Los detalles técnicos y la documentación de cada capa se presentan en la sección de [Información cartográfica](/es/content/), donde cada elemento tiene su ficha y sus enlaces de descarga.
 
 <!--
 Son muchas las personas nuevas que llegan a Doñana cada año. 
