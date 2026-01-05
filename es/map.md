@@ -32,45 +32,21 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 # El Mapa
 
 ## Anacronismos
-En un tiempo en el que lo digital ha reemplazado a lo analógico, **sigue habiendo algo único en recorrer un mapa físico: la conversación alrededor del papel, la posibilidad de anotar, discutir y corregir. ** Este mapa es, deliberadamente, un anacronismo. 
+En un tiempo en el que lo digital ha reemplazado a lo analógico, este mapa es, deliberadamente, un anacronismo.
 
-Los mapas reflejan nuestra visión del mundo en un momento determinado. El instante que nos toca vivir en Doñana es, como su propia ecología, de cambio: lagunas que se secan, alcornoques centenarios sucumben, una marisma cuya inundación se vuelve errática, y con el cambio generacional presenciamos como se desvanecen los últimos integrantes de una cultura única nacida como adaptación a un medio hostil; una forma de habitar el territorio.
+Los mapas reflejan nuestra visión del mundo en un momento determinado. El instante que le toca vivir a Doñana es, como su propia ecología, cambiante: lagunas que se secan, alcornoques centenarios sucumben, una marisma cuya inundación se vuelve errática, y con el cambio generacional presenciamos como se desvanece una forma única de habitar el territorio que nació como adaptación a un medio hostil hostil.
 
-Esta cultura se encuentra escrita en el paisaje; miles de nombres llenan un territorio que, de otro modo, se muestra salvaje. Cuentan historias del espacio, de usos, personas y eventos; nombres que describen, orientan y advierten. ¿Quién los recordará cuando ya no estén quienes los pronunciaban? ¿Quién recordará las lagunas más remotas cuando el matorral las borre?
-
+Esta cultura se encuentra escrita en el paisaje; miles de nombres llenan un espacio que, de otro modo, se muestra salvaje. Cuentan historias del territorio, de personas, usos y eventos; nombres que describen, orientan y advierten. Pero ¿Quién los recordará cuando ya no estén quienes los pronunciaban? ¿Quién recordará las lagunas más remotas cuando el matorral las borre?
+ 
 ---
 
 ## De las lagunas a Doñana
-Todo comenzó con una idea simple: poner las lagunas sobre un mapa. Pero el propio territorio fue pidiendo más. Cuando representas una laguna, esta puede tener o no <abbr title="Pequeña excavación artificial que se realiza en la cubeta de una laguna temporal para que las aguas subterráneas afloren de forma permanente y sirvan de abrevadero a la fauna silvestre y doméstica.">zacallón</abbr>, alcornoques centenarios en sus alrededores y conexión con otras lagunas. El mapa creció así no por ambición, sino por coherencia: Doñana no se entiende de forma aislada.
+Este proyecto comenzó con una idea simple: poner las lagunas sobre un mapa. Pero Doñana pedía más. Cuando representas una laguna, estas varían en su <abbr title="Duración de la inundación.">hidroperiodo</abbr>, puede tener o no <abbr title="Pequeña excavación artificial que se realiza en la cubeta de una laguna temporal para que las aguas subterráneas afloren de forma permanente y sirvan de abrevadero a la fauna silvestre y doméstica.">zacallón</abbr>, alcornoques centenarios en sus alrededores o conexión con otras lagunas. El mapa creció no por ambición, sino por coherencia: Doñana no se entiende de forma aislada.
 
-Y en esa lectura ecológica aparecen también las trazas humanas que han estructurado el lugar: caminos y cortafuegos, las fincas, casas de guardas (muchas ya derribadas), torres vigía, palacios, pozos, vértices geodésicos, o estaciones hidrometeorológicas. 
+En esta forma de entender el territorio aparecen también las trazas humanas que la estructuran: caminos y cortafuegos, las fincas y vallados, casas de guardas (muchas ya derribadas), torres vigía, palacios, pozos, vértices geodésicos, o estaciones hidrometeorológicas. Toda esta información, junto con otra de referencia como los límites del Parque Nacional las elevaciones, pendientes y la vegetación del terreno ha sido reunida, 
 
+.......
 
-En este proyecto hemos reunido capas base de referencia como:
-
-- Modelos digitales de elevación del terreno.
-- Modelos digitales de pendientes.
-- Modelos digitales de vegetación.
-- Los niveles de protección del Espacio Natural de Doñana.
-
-Capas 
-- Toponimia de Doñana.
-- Alcornoques del Parque Nacional.
-- Cartografía de la red lagunas temporales.
-- Duración de la inundación en las lagunas y marisma.
-- cartografía de los zacallones, pozos y ojos.
-
-- Vallados y recintos.
-- Red de carriles, caminos y cortafuegos.
-- Construcciones y edificaciones.
-- Estaciones hidrometeorológicas.
-- Vértices geodésicos.
-
-<!-- Sugerencias de imágenes (descomenta y cambia rutas/nombres) ![Primera versión del mapa]({{ "/assets/img/primera_version.jpg" | relative_url }}) *Primer intento: las lagunas como punto de partida.* ![Segunda versión del mapa]({{ "/assets/img/segunda_version.jpg" | relative_url }}) *El mapa empieza a incorporar unidades y referencias para “leer” el territorio.* -->
-
-Este proyecto también es un homenaje a una forma de hacer cartografía que no se limita al escritorio. Algunas piezas del mapa nacieron de materiales trabajados y corregidos sobre el terreno: mapas impresos anotados y modificados a mano, y una digitalización paciente que obligó a mirar elemento a elemento (como ocurrió con los alcornoques).
-En ese proceso, el mapa deja de ser solo un resultado: se convierte en registro de una conversación entre conocimiento local, memoria y representación.
-<!-- ![Mapas anotados por guardas]({{ "/assets/img/mapas_guardas.jpg" | relative_url }}) *Mapas de trabajo: anotaciones y correcciones sobre papel.* ![Digitalización manual de alcornoques]({{ "/assets/img/digitalizacion_alcornoques.png" | relative_url }}) *Digitalización manual: trabajo paciente para no perder detalle.* -->
 
 ---
 
@@ -104,6 +80,3 @@ La extensión geográfica del mapa cubre aquella protegida como Parque Nacional 
 <p style="font-size: 0.85em;">
 "<em>Hace tiempo que mapas y brújulas fueron reemplazados por el uso universal del GPS. La exploración –cualidad tan necesaria en ciencia– ha sido sustituida por el aislamiento en parcelas físicas e intelectuales cada vez más pequeñas. El precio a pagar ha sido privarnos de la observación; de la capacidad de descubrir lo inesperado. Sólo buscamos aquello que ya sabemos que existe.</em>"</p>
 
-Alcance del mapa
-La extensión geográfica cubre el Parque Nacional de Doñana y la marisma natural restaurada del Parque Natural conocida como Marisma Gallega.
--->
