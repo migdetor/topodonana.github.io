@@ -33,6 +33,9 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 > **Fuente oficial (metadatos + descarga):** [Registro REDIAM](https://portalrediam.cica.es/geonetwork/srv/api/records/db48f197-a17f-4f86-9e66-447da049f18c)  
 > **Descarga (en este repositorio):** *[https://doi.org/10.5281/zenodo.18109683](https://doi.org/10.5281/zenodo.18109683).*
 > **Ficha y descarga desde la REDIAM**: *[Pulsa aqui](https://portalrediam.cica.es/geonetwork/srv/api/records/db48f197-a17f-4f86-9e66-447da049f18c).*
+>
+> **Versión:** v1.0.0 · **Última actualización:** 10-01-2026  
+>**Licencia:** CC BY-NC 4.0
 > > **Condiciones de uso:** consultar las restricciones/condiciones indicadas en la ficha oficial de REDIAM.
 
 ---
