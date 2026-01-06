@@ -41,13 +41,15 @@ Esta cultura se encuentra escrita en el paisaje; miles de nombres llenan un espa
 ## De las lagunas a Doñana
 Este proyecto comenzó con una idea simple: poner las lagunas sobre un mapa. Pero Doñana pide más. Cuando representas una laguna, estas varían en su <abbr title="Duración de la inundación.">hidroperiodo</abbr>, pueden tener o no <abbr title="Pequeña excavación artificial que se realiza en la cubeta de una laguna temporal para que las aguas subterráneas afloren de forma permanente y sirvan de abrevadero a la fauna silvestre y doméstica.">zacallón</abbr>, alcornoques centenarios o conexión con otras lagunas. El mapa creció no por ambición, sino por coherencia: Doñana no se entiende de forma aislada.
 
-En esta forma de entender el territorio aparecen también las trazas humanas que la estructuran: caminos y cortafuegos, las fincas y vallados, casas de guardas (muchas ya derribadas), torres vigía, palacios, pozos, vértices geodésicos, o estaciones hidrometeorológicas. Toda esta información, junto con otra de referencia como los límites del Parque Nacional las elevaciones, pendientes y la vegetación del terreno ha sido reunida para la elaboración del mapa. 
+En esta forma de entender el territorio aparecen también las trazas humanas que la estructuran: caminos y cortafuegos, las fincas y vallados, casas de guardas (muchas ya derribadas), torres vigía, palacios, pozos, vértices geodésicos, o estaciones hidrometeorológicas. Toda esta información, junto con otra de referencia como los límites del Parque Nacional las elevaciones, pendientes y la vegetación del terreno han sido reunidas para la elaboración del mapa. 
 
-Conviene, eso sí, distinguir entre lo que he tomado como **base de referencia** y lo que constituye el **trabajo propio** del proyecto. Las capas base —elevaciones, pendientes y otra cartografía general— proceden de fuentes institucionales y se han incorporado **tal como fueron publicadas**, limitándome a **adaptarlas a Doñana**: recortarlas al ámbito del parque, armonizarlas para que encajen entre sí y hacerlas operativas dentro del mapa.
+Conviene, eso sí, distinguir entre lo que se ha tomado como **base de referencia** y lo que constituye el **trabajo propio** del proyecto. Las capas base —elevaciones, pendientes y otra cartografía general— proceden de fuentes institucionales y se han incorporado **tal como fueron publicadas**, limitándome a **adaptarlas a Doñana**: recortarlas al ámbito del parque, armonizarlas para que encajen entre sí, hacerlas operativas dentro del mapa, etc.
 
-Pero el mapa no es, en lo esencial, una compilación. La mayor parte de lo que lo hace específico —la información que de verdad “cuenta” Doñana— ha tenido que ser **recopilada, reconstruida o creada**. Algunas capas existían solo a medias, dispersas en informes, mapas antiguos o bases difíciles de usar; otras no existían como tal y han nacido aquí, a base de **fotointerpretación personal**, de comprobar una y otra vez lo que se ve sobre el terreno, y de **muchas conversaciones con gente de la zona**: guardas, vecinos, investigadores, personas que todavía nombran el territorio.
+Pero el mapa no es, en lo esencial, una compilación. La mayor parte de lo que lo hace específico ha tenido que ser **recopilada, reconstruida o creada**. Algunas capas existían solo a medias; obsoletas, dispersas en informes, mapas antiguos o en bases difíciles de usar; otras no existían como tal y se han generado *ex profeso*, a base de **fotointerpretación**, comprobaciones, conocimiento acumulado, y de **muchas conversaciones con gente de la zona**: guardas, vecinos, investigadores, personas que todavía nombran y caminan el territorio.
 
-Después vino el trabajo menos visible: **editar**, **corregir**, **estandarizar**. Poner orden en nombres, códigos, geometrías y atributos para que todo pueda leerse en un mismo lenguaje y convivir en una sola lámina. De modo que, aunque el mapa se apoye en una base cartográfica común, el cuerpo del proyecto —su tejido fino— es, en gran medida, **original e inédito**, y está hecho para que Doñana pueda mirarse con más detalle del que hoy permiten los mapas “normales”.
+Después vino el trabajo menos visible: **editar**, **corregir**, **estandarizar**. Poner orden en nombres, códigos, geometrías y atributos para que todo pueda leerse en un mismo lenguaje.
+
+Y aquí hay otra distinción importante: una cosa son las **capas** (los datos, descargables y reutilizables), y otra es el **mapa como obra**. La **composición cartográfica** —la selección de qué entra y qué no, la jerarquía visual, la simbología, los rótulos, el equilibrio entre vacío y detalle, la forma en que el conjunto se lee sobre el papel— es también parte del proyecto, y es **original e inédita**. Es, en último término, la mirada del autor puesta en una hoja: una síntesis gráfica que constituye la identidad del mapa.
 
 ---
 
@@ -67,8 +69,14 @@ Si quieres proponer correcciones, sugerencias o aportar información, puedes esc
 ## Hazte con el mapa
 Si quieres hacerte con un mapa, pregúntame **[por aqui](mailto:m.defelipe.t@gmail.com)**.
 
-## Acceso y uso
+---
+
+# Acceso, licencias y uso
 Los detalles técnicos y la documentación de cada capa se presentan en la sección de [Información cartográfica]({{ "/es/content/" | relative_url }}), donde cada elemento tiene su ficha y sus enlaces de descarga.
+
+Los **datos cartográficos y ecológicos** disponibles para descarga se publican bajo licencia Creative Commons Attribution–NonCommercial 4.0 International (**CC BY-NC 4.0**). Se permite su uso, distribución y creación de obras derivadas únicamente para fines no comerciales, siempre que se cite la fuente.
+
+El diseño, composición, maquetación y versión final del mapa (**plano/PDF/imagen**) están protegidos por derechos de autor. © Miguel de Felipe Toro, 2026. **Todos los derechos reservados**. Queda prohibida la reproducción total o parcial, distribución o comunicación pública del mapa final sin consentimiento expreso por escrito del titular de los derechos.
 
 ---
 
