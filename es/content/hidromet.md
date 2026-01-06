@@ -45,19 +45,19 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 
 ## 1. Resumen
 
-Esta capa contiene la **localización de las estaciones hidrometeorológicas** integradas en **HIDROMET**, la base de datos de la ICTS-Reserva Biológica de Doñana (ICTS-RBD) que almacena series hidrometeorológicas registradas por estaciones automáticas distribuidas en Doñana.
+Esta capa contiene la **localización de las estaciones hidrometeorológicas** integradas en **HIDROMET**, la base de datos de la **[ICTS-Reserva Biológica de Doñana (ICTS-RBD)](https://icts-donana.csic.es)** que almacena series hidrometeorológicas registradas por estaciones automáticas distribuidas en Doñana.
 
-**Qué es HIDROMET (a nivel de datos):** según la documentación del sistema, las estaciones registran datos con alta frecuencia (p. ej., 5 minutos, *datos brutos*) y existen productos agregados (horarios, diarios, mensuales) para facilitar la consulta. La referencia primaria para variables, periodicidad, agregación, control y actualización es la propia plataforma y su documentación técnica.
+Las estaciones Hidromet registran datos ambientales de alta frecuencia (e.g. cada 5 minutos) y de forma agregada (horarios, diarios, mensuales). Para más información acerca de las variables ambientales medidas por cada estación, periodicidad, agregación, control y actualización, consulten [la propia plataforma y su documentación técnica](https://datos-automaticos.icts.ebd.csic.es/es/).
 
-**Autoría del dato (esta capa):** esta capa **no pretende ser un producto oficial de HIDROMET**. Es un **derivado cartográfico** preparado por el autor del mapa para facilitar su visualización e integración en el conjunto.
+**Autoría del dato:** esta capa **no pretende ser un producto oficial de HIDROMET**. Es un **derivado cartográfico** preparado por el autor del mapa para facilitar su visualización e integración en el conjunto.
 
-**Motivo de inclusión en este repositorio:** disponer de una capa GIS única (shapefile de puntos) para **representación** y **enlace** a la consulta oficial. Para el acceso a datos y metadatos operativos, consultar: https://datos-automaticos.icts.ebd.csic.es/es/
+**Motivo de inclusión en este repositorio:** disponer de una capa GIS única (shapefile de puntos) para **representación** y **[enlace](https://datos-automaticos.icts.ebd.csic.es/es/)** a la consulta oficial. Para el acceso a datos y metadatos operativos, consultar: [https://datos-automaticos.icts.ebd.csic.es/es/]((https://datos-automaticos.icts.ebd.csic.es/es/))
 
 ---
 
 ## 2. Contenido
 
-- **Nombre de archivo:** `hidromet_estaciones.shp`   
+- **Nombre de archivo:** `hidromet_25829.shp`   
 - **Tipo de entidad:** Shapefile de puntos  
 - **Qué se cartografía:** ubicación de estaciones HIDROMET en Doñana (puntos de estación)
 
@@ -65,8 +65,8 @@ Esta capa contiene la **localización de las estaciones hidrometeorológicas** i
 
 ## 3. Alcance espacial y temporal
 
-- **Cobertura espacial:** Parque Nacional de Doñana / ámbito de estaciones gestionadas en HIDROMET (ICTS-RBD)  
-- **Aviso:** esta capa representa **puntos de estación**; no sustituye a la consulta oficial ni implica exhaustividad fuera del conjunto de estaciones integradas en HIDROMET
+- **Cobertura espacial:** Parque Nacional de Doñana / ámbito de estaciones gestionadas en HIDROMET (ICTS-RBD)
+>>**Aviso:** esta capa representa **puntos de estación**; no sustituye a la consulta oficial ni implica exhaustividad fuera del conjunto de estaciones integradas en HIDROMET
 
 ---
 
@@ -82,25 +82,13 @@ Esta capa contiene la **localización de las estaciones hidrometeorológicas** i
 **Fuente primaria (oficial):**  
 - HIDROMET (ICTS-RBD): https://datos-automaticos.icts.ebd.csic.es/es/
 
-**Documentación técnica:**  
-- Manual/Descripción HIDROMET (adjunto en este repositorio).
-
 **Nota sobre redistribución:** esta web/repositorio ofrece una capa *de conveniencia* para integrar estaciones en el mapa; la referencia oficial de datos, variables y condiciones de uso debe tomarse de HIDROMET.
 
 ---
 
 ## 6. Flujo de trabajo (métodos)
 
-*Este apartado describe únicamente lo realizado en este repositorio; la metodología de generación y curación de series debe consultarse en HIDROMET y su documentación técnica.*
-
-- **Paso 1.** Identificación del conjunto de estaciones en la aplicación oficial HIDROMET.  
-- **Paso 2.** Compilación de ubicaciones en una capa de puntos (shapefile).  
-- **Paso 3.** Estandarización de atributos mínimos (ID, nombre, código y enlace a la consulta oficial).  
-- **Paso 4.** Exportación a shapefile y publicación en el repositorio/Zenodo.
-
-**Criterios clave (definiciones):**  
-- **Inclusión/exclusión:** se incluyen únicamente estaciones integradas en HIDROMET (según plataforma y documentación).  
-- **Supuestos:** el objetivo es cartográfico (localización + acceso); la validez y alcance de las series son los del sistema HIDROMET.
+*No aplica.*
 
 ---
 
@@ -115,8 +103,6 @@ Cancela Millán, Hondón del Burro, Lucio del Rey, Resolimán, Vetalengua, Junca
 |---|---|---|
 | `id` | integer / string | Identificador interno único |
 | `nombre` | string | Nombre de la estación (p. ej., *Lucio del Rey*) |
-| `codigo` | string | Código/abreviatura (si aplica) |
-| `url` | string | Enlace a la consulta oficial (HIDROMET) |
 | `coordx` | double | Coordenada X (CRS del shapefile) |
 | `coordy` | double | Coordenada Y (CRS del shapefile) |
 
@@ -125,19 +111,7 @@ Cancela Millán, Hondón del Burro, Lucio del Rey, Resolimán, Vetalengua, Junca
 ---
 
 ## 8. Control de calidad y validación
-
-- **Controles realizados (en esta capa):**  
-  - Revisión de duplicados (un punto por estación).  
-  - Verificación de CRS y coherencia espacial (puntos dentro del ámbito de Doñana).  
-  - Comprobación de correspondencia *nombre–estación* con la plataforma/documentación HIDROMET.  
-
-- **Validación (sistema oficial):** consultar documentación HIDROMET (adquisición, actualización, agregación y control).  
-
-- **Problemas conocidos:**  
-  - La capa no describe instrumentación ni variables por estación; para ello consultar HIDROMET.  
-  - Si una estación se reubica, la posición deberá actualizarse conforme a la referencia oficial.  
-
-- **Precisión posicional:** depende del origen de coordenadas usado para construir esta capa; para usos sensibles se recomienda contrastar con la ubicación mostrada en la plataforma oficial.
+Consultar la documentación asociada en [HIDROMET (ICTS-RBD)](https://datos-automaticos.icts.ebd.csic.es/es/)
 
 ---
 
@@ -145,11 +119,12 @@ Cancela Millán, Hondón del Burro, Lucio del Rey, Resolimán, Vetalengua, Junca
 
 - **Usos recomendados:**  
   - Cartografía de síntesis (localización de estaciones) y orientación.  
-  - Acceso rápido a la consulta de datos (mediante enlaces a HIDROMET).  
+  - Acceso rápido a la consulta de datos (mediante enlaces a HIDROMET).
+  - Apoyo a prospecciones y planificación de muestreo, manteniendo la escala recomendada por el producto. 
 
 - **No recomendado para:**  
-  - Inferir por sí sola series, variables, calibración o comparabilidad entre estaciones sin acudir a HIDROMET.  
-  - Interpretaciones sin atender a frecuencia de muestreo, agregación y procedimientos descritos en la documentación.
+  - Delimitaciones legales/jurídicas o decisiones que requieran precisión de detalle sin verificación específica.
+  - Interpretaciones fuera del alcance temporal/metodológico descrito en el producto original.
 
 ---
 
@@ -159,8 +134,7 @@ Cancela Millán, Hondón del Burro, Lucio del Rey, Resolimán, Vetalengua, Junca
 M. de Felipe (2026). *Mapa actualizado del Parque Nacional de Doñana* (v1.0). Zenodo. DOI: https://doi.org/10.5281/zenodo.18109683
 
 **Cita recomendada (fuente oficial de datos):**  
-HIDROMET (ICTS-RBD): https://datos-automaticos.icts.ebd.csic.es/es/  
-*(Si la plataforma proporciona una referencia bibliográfica formal o DOI específico, sustitúyelo aquí.)*
+HIDROMET (ICTS-RBD): https://datos-automaticos.icts.ebd.csic.es/es/ 
 
 ---
 
