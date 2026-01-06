@@ -28,7 +28,6 @@ citation_doi_label: "DOI: [DOI]"
 citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 ---
 
-**EN CONSTRUCCIÓN**
 # El Mapa
 En un tiempo en el que lo digital ha reemplazado a lo analógico, **este mapa es**, deliberadamente, **un anacronismo**.
 
@@ -45,7 +44,7 @@ En esta forma de entender el territorio aparecen también las trazas humanas que
 
 Conviene, eso sí, distinguir entre lo que se ha tomado como **base de referencia** y lo que constituye el **trabajo propio** del proyecto. Las capas base —elevaciones, pendientes y otra cartografía general— proceden de fuentes institucionales y se han incorporado **tal como fueron publicadas**, limitándome a **adaptarlas a Doñana**: recortarlas al ámbito del parque, armonizarlas para que encajen entre sí, hacerlas operativas dentro del mapa, etc.
 
-Pero el mapa no es, en lo esencial, una compilación. La mayor parte de lo que lo hace específico ha tenido que ser **recopilada, reconstruida o creada**. Algunas capas existían solo a medias; obsoletas, dispersas en informes, mapas antiguos o en bases difíciles de usar; otras no existían como tal y se han generado *ex profeso*, a base de **fotointerpretación**, comprobaciones, conocimiento acumulado, y de **muchas conversaciones con gente de la zona**: guardas, vecinos, investigadores, personas que todavía nombran y caminan el territorio.
+Pero el mapa no es una compilación. La mayor parte de lo que lo hace específico ha tenido que ser **recopilada, reconstruida o creada**. Algunas capas existían solo a medias; obsoletas, dispersas en informes, mapas antiguos o en bases difíciles de usar; otras no existían como tal y se han generado *ex profeso*, a base de **fotointerpretación**, comprobaciones, conocimiento acumulado, y de **muchas conversaciones con gente de la zona**: guardas, vecinos, investigadores, personas que todavía nombran y caminan el territorio.
 
 Después vino el trabajo menos visible: **editar**, **corregir**, **estandarizar**. Poner orden en nombres, códigos, geometrías y atributos para que todo pueda leerse en un mismo lenguaje.
 
@@ -72,7 +71,7 @@ Si quieres hacerte con un mapa, pregúntame **[por aqui](mailto:m.defelipe.t@gma
 ---
 
 # Acceso, licencias y uso
-Los detalles técnicos y la documentación de cada capa se presentan en la sección de [Información cartográfica]({{ "/es/content/" | relative_url }}), donde cada elemento tiene su ficha y sus enlaces de descarga.
+Los detalles técnicos y la documentación de cada capa se presentan en la sección de **[Información cartográfica]({{ "/es/content/" | relative_url }})**, donde cada elemento tiene su ficha y sus enlaces de descarga.
 
 Los **datos cartográficos y ecológicos** disponibles para descarga se publican bajo licencia Creative Commons Attribution–NonCommercial 4.0 International (**CC BY-NC 4.0**). Se permite su uso, distribución y creación de obras derivadas únicamente para fines no comerciales, siempre que se cite la fuente.
 
