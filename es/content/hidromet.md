@@ -35,6 +35,7 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 
 >**Fuente (consulta de datos):** [HIDROMET (ICTS-RBD)](https://datos-automaticos.icts.ebd.csic.es/es/)  
 >**Documentación técnica (PDF):** ver [documentación HIDROMET](https://datos-automaticos.icts.ebd.csic.es/es/info/).
+
 >**Descarga:** [https://doi.org/10.5281/zenodo.18109683](https://doi.org/10.5281/zenodo.18109683).
 
 >**Versión:** v1.0.0 · **Última actualización:** 10-01-2026  
