@@ -54,7 +54,7 @@ Para poner en valor la abundancia y distribución de estos alcornoques centenari
 
 ## 2. Contenido
 
-- **Nombre de archivo:** alcornoques_25829.shp
+- **Nombre de archivo:** `alcornoques_25829.shp`
 - **Tipo de entidad:** Shapefile de puntos
 - **Qué se cartografía:** Pies de alcornoque (_Quercus suber_) dentro del Parque Nacional de Doñana.
 
