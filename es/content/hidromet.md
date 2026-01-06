@@ -29,9 +29,7 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 
 ---
 
-**EN CONSTRUCCIÓN**
-
-# Estaciones hidrometeorológicas (HIDROMET, ICTS-RBD) — Ficha de capa
+# Estaciones hidrometeorológicas (ICTS-RBD) — Ficha de capa
 
 >**Fuente (consulta de datos):** [HIDROMET (ICTS-RBD)](https://datos-automaticos.icts.ebd.csic.es/es/)  
 >**Documentación técnica (PDF):** ver [documentación HIDROMET](https://datos-automaticos.icts.ebd.csic.es/es/info/).
