@@ -74,7 +74,7 @@ Esta página reúne las capas de información geográfica y recursos asociados a
 
 | Capa | Ficha | Disponible para Descarga |
 |---|---|---|
-| **Edificaciones y construcciones** EN CONSTRUCCION | [Ficha]({{ "/es/content/construcciones/" | relative_url }}) | Sí |
+| **Edificaciones y construcciones** | [Ficha]({{ "/es/content/construcciones/" | relative_url }}) | Sí |
 | **Estaciones hidrometeorológicas** | [Ficha]({{ "/es/content/hidromet/" | relative_url }}) | Sí |
 | **Vallados y cercados** | – | Bajo petición |
 | **Red de caminos, carriles y cortafuegos** | – | Bajo petición |
