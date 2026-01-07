@@ -95,17 +95,18 @@ Esta capa contiene la delimitación vectorial de las **lagunas temporales** del 
 
 ## 7. Estructura de datos y atributos (según REDIAM)
 
-### Campos del producto original (REDIAM)
+### Campos del producto empleado en el proyecto
+
+**Nombre:** 'pondcartography_25829.shp'
 
 | Campo | Tipo | Descripción |
 |---|---|---|
 | `fid` | (OID) | Identificador interno |
-| `coordx` | (Double) | Coordenada X (EPSG:23030) |
-| `coordy` | (Double) | Coordenada Y (EPSG:23030) |
-| `area` | (Double) | Área de máxima inundación de la laguna |
-| `id_lagtemp` | (Double) | Identificador/código de laguna |
-| `toponimo` | (String) | Nombre/topónimo de la laguna |
-| `Shape` | (Geometría) | Polígono |
+| `COORDX` | (Double) | Coordenada X (EPSG:25829) |
+| `COORDY` | (Double) | Coordenada Y (EPSG:25829) |
+| `AREA` | (Double) | Área de máxima inundación de la laguna |
+| `ID_LAGTEMP` | (Double) | Identificador/código de laguna |
+| `TOPONIMO` | (String) | Nombre/topónimo de la laguna |
 
 ---
 
