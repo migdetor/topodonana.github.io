@@ -114,7 +114,7 @@ El dataset se distribuye en **dos capas**:
 | Campo | Tipo | Descripción |
 |---|---|---|
 | `id` | integer / string | Identificador interno único |
-| `nombre` | string | Nombre del elemento (torre/faro) |
+| `name` | string | Nombre del elemento (torre/faro) |
 | `coordx` | double | Coordenada X (CRS del shapefile) |
 | `coordy` | double | Coordenada Y (CRS del shapefile) |
 
@@ -125,7 +125,7 @@ El dataset se distribuye en **dos capas**:
 | Campo | Tipo | Descripción |
 |---|---|---|
 | `id` | integer / string | Identificador interno único |
-| `nombre` | string | Nombre de la edificación *(en esta versión: `NULL`)* |
+| `name` | string | Nombre de la edificación *(en esta versión: `NULL`)* |
 | `coordx` | double | Coordenada X (CRS del shapefile) |
 | `coordy` | double | Coordenada Y (CRS del shapefile) |
 
