@@ -36,6 +36,7 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 >
 > **Versión:** v1.0.0 · **Última actualización:** 10-01-2026  
 >**Licencia:** CC BY-NC 4.0
+
 > > **Condiciones de uso:** consultar las restricciones/condiciones indicadas en la ficha oficial de REDIAM.
 
 ---
