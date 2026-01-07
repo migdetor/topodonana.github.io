@@ -59,7 +59,3 @@ En conjunto, esta diversidad de ecosistemas sostiene una biodiversidad excepcion
 Pero esta misma dependencia del agua convierte a Doñana en un sistema altamente sensible a cambios hidrológicos. La evidencia reciente muestra que la reducción de hidroperiodos y la desecación de lagunas —vinculadas a las modificaciones de la red hídrica, sobreexplotación del acuífero y agravada por periodos de escasez de lluvia— se ha traducido en una pérdida medible de biodiversidad a escala del Parque Nacional. Y estos cambios no se quedan aqui; las condiciones que encuentran en Doñana las aves acuáticas invernantes repercute sobre sus poblaciones reproductoras en toda Europa. 
 
 ---
-
-# Referencias
-
-- **EN CONSTRUCCIÓN**
