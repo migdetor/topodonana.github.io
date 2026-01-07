@@ -29,8 +29,8 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 ---
 
 # El Mapa
-En un tiempo en el que lo digital ha reemplazado a lo analógico, **este mapa es**, deliberadamente, **un anacronismo**.
-
+<!--En un tiempo en el que lo digital ha reemplazado a lo analógico, **este mapa es**, deliberadamente, **un anacronismo**.
+-->
 Los mapas reflejan nuestra visión del mundo en un momento determinado. El instante que le toca vivir a Doñana es, como su propia ecología, cambiante: lagunas que se secan, alcornoques centenarios sucumben, una marisma cuya inundación se vuelve errática, y con el cambio generacional presenciamos como se desvanece una forma única de habitar el territorio que nació como adaptación a un medio hostil hostil.
 
 Esta cultura se encuentra escrita en el paisaje; miles de nombres llenan un espacio que, de otro modo, se muestra salvaje. Cuentan historias del territorio, de personas, usos y eventos; nombres que describen, orientan y advierten. Pero ¿Quién los recordará cuando ya no estén quienes los pronunciaban? ¿Quién recordará las lagunas más remotas cuando el matorral las borre?
@@ -38,17 +38,17 @@ Esta cultura se encuentra escrita en el paisaje; miles de nombres llenan un espa
 ---
 
 ## De las lagunas a Doñana
-Este proyecto comenzó con una idea simple: poner las lagunas sobre un mapa. Pero Doñana pide más. Cuando representas una laguna, estas varían en su <abbr title="Duración de la inundación.">hidroperiodo</abbr>, pueden tener o no <abbr title="Pequeña excavación artificial que se realiza en la cubeta de una laguna temporal para que las aguas subterráneas afloren de forma permanente y sirvan de abrevadero a la fauna silvestre y doméstica.">zacallón</abbr>, alcornoques centenarios o conexión con otras lagunas. El mapa creció no por ambición, sino por coherencia: Doñana no se entiende de forma aislada.
+Este proyecto comenzó con una idea simple: poner las lagunas sobre un mapa. Pero Doñana pide más. Cuando representas una laguna, estas varían en su <abbr title="Duración de la inundación.">hidroperiodo</abbr>, pueden tener o no <abbr title="Pequeña excavación artificial que se realiza en la cubeta de una laguna temporal para que las aguas subterráneas afloren de forma permanente y sirvan de abrevadero a la fauna silvestre y doméstica.">zacallón</abbr>, alcornoques centenarios o conexión con otras lagunas. El mapa creció por coherencia, ya que Doñana no se entiende de forma aislada.
 
-En esta forma de entender el territorio aparecen también las trazas humanas que la estructuran: caminos y cortafuegos, las fincas y vallados, casas de guardas (muchas ya derribadas), torres vigía, palacios, pozos, vértices geodésicos, o estaciones hidrometeorológicas. Toda esta información, junto con otra de referencia como los límites del Parque Nacional las elevaciones, pendientes y la vegetación del terreno han sido reunidas para la elaboración del mapa. 
+En esta forma de entender el territorio aparecen también las trazas humanas que la estructuran: caminos y cortafuegos, fincas y vallados, casas de guardas (muchas ya derribadas), torres vigía, palacios, pozos, vértices geodésicos, o estaciones hidrometeorológicas. Toda esta información, junto con otra de referencia como los límites del Parque Nacional las elevaciones, pendientes y la vegetación del terreno han sido reunidas para la elaboración del mapa. 
 
 Conviene, eso sí, distinguir entre lo que se ha tomado como **base de referencia** y lo que constituye el **trabajo propio** del proyecto. Las capas base —elevaciones, pendientes y otra cartografía general— proceden de fuentes institucionales y se han incorporado **tal como fueron publicadas**, limitándome a **adaptarlas a Doñana**: recortarlas al ámbito del parque, armonizarlas para que encajen entre sí, hacerlas operativas dentro del mapa, etc.
 
-Pero el mapa no es una compilación. La mayor parte de lo que lo hace específico ha tenido que ser **recopilada, reconstruida o creada**. Algunas capas existían solo a medias; obsoletas, dispersas en informes, mapas antiguos o en bases difíciles de usar; otras no existían como tal y se han generado *ex profeso*, a base de **fotointerpretación**, comprobaciones, conocimiento acumulado, y de **muchas conversaciones con gente de la zona**: guardas, vecinos, investigadores, personas que todavía nombran y caminan el territorio.
+Pero el mapa no es una compilación. La mayor parte de lo que lo hace específico ha tenido que ser **recopilado, reconstruido o creado**. Algunas capas existían sólo a medias; obsoletas, dispersas en informes, mapas antiguos o en bases difíciles de usar; otras no existían como tal y se han generado *ex profeso*, a base de **fotointerpretación**, comprobaciones, conocimiento acumulado, y de **muchas conversaciones con gente de la zona**: guardas, vecinos, investigadores y personas que todavía nombran y caminan el territorio.
 
 Después vino el trabajo menos visible: **editar**, **corregir**, **estandarizar**. Poner orden en nombres, códigos, geometrías y atributos para que todo pueda leerse en un mismo lenguaje.
 
-Y aquí hay otra distinción importante: una cosa son las **capas** (los datos, descargables y reutilizables), y otra es el **mapa como obra**. La **composición cartográfica** —la selección de qué entra y qué no, la jerarquía visual, la simbología, los rótulos, el equilibrio entre vacío y detalle, la forma en que el conjunto se lee sobre el papel— es también parte del proyecto, y es **original e inédita**. Es, en último término, la mirada del autor puesta en una hoja: una síntesis gráfica que constituye la identidad del mapa.
+Y aquí hay otra distinción: una cosa son las **capas** (los datos, descargables y reutilizables), y otra es el **mapa como obra**. La **composición cartográfica** —la selección de qué entra y qué no, la jerarquía visual, la simbología, los rótulos, el equilibrio entre vacío y detalle, la forma en que el conjunto se lee sobre el papel— es también parte del proyecto, y es **original e inédita**. Es, en último término, la mirada del autor puesta en una hoja: una síntesis gráfica que constituye la identidad del mapa.
 
 ---
 
