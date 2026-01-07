@@ -41,7 +41,7 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 
 Esta capa recoge la localización de **zacallones**, **pozos**, **abrevaderos** y **ojos** del Parque Nacional de Doñana, en formato de puntos, con fines cartográficos, orientativos y de apoyo del territorio.
 
-En el área lingüística de Doñana, el término **zacallón** es una variante popular de *azacaya* (con aféresis y el sufijo aumentativo *-ón*). *Azacaya* es una voz de origen árabe asociada a *conductos o ramales de agua* y, en Doñana, se emplea con valor toponímico y apelativo para referirse a **aguas provenientes de un ojo, donde el ganado abreva**. *(DRAE, s.v.; Castrillo Díaz 1994).*  
+En el área de Doñana, el término **zacallón** es una variante popular de *azacaya* (con aféresis y el sufijo aumentativo *-ón*). *Azacaya* es una voz de origen árabe asociada a *conductos o ramales de agua* y, en Doñana, se emplea con valor toponímico y apelativo para referirse a **aguas provenientes de un ojo, donde el ganado abreva**. *(DRAE, s.v.; Castrillo Díaz 1994).*  
 
 Los **ojos** son **afloramientos de agua dulce** vinculados al acuífero confinado bajo el terreno arcilloso de la marisma. Tienen un alto valor ecológico al constituir una de las **escasas fuentes de agua dulce durante el verano**, especialmente en años secos.
 
