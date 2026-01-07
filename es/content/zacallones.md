@@ -30,7 +30,8 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 
 # Zacallones, pozos y ojos — Ficha de capa
 
-**Descarga:** [https://doi.org/10.5281/zenodo.18109683](https://doi.org/10.5281/zenodo.18109683)
+**Descarga:** *[https://doi.org/10.5281/zenodo.18109683](https://doi.org/10.5281/zenodo.18109683)*.
+
 **Versión:** v1.0.0 · **Última actualización:** 10-01-2026  
 **Licencia:** CC BY-NC 4.0  
 
@@ -38,13 +39,13 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 
 ## 1. Resumen
 
-Esta capa recoge la localización de **zacallones**, **pozos**, **abrevaderos** y **ojos** del Parque Nacional de Doñana, en formato de puntos, con fines **cartográficos, orientativos y de apoyo a la interpretación ecológica** del territorio.
+Esta capa recoge la localización de **zacallones**, **pozos**, **abrevaderos** y **ojos** del Parque Nacional de Doñana, en formato de puntos, con fines cartográficos, orientativos y de apoyo del territorio.
 
-En el área lingüística de Doñana, el término **zacallón** es una variante popular de *azacaya* (con aféresis y el sufijo aumentativo *-ón*). *Azacaya* es una voz de origen árabe asociada a *conductos o ramales de agua* y, en Doñana, se emplea con valor toponímico y apelativo para referirse a un **conducto de aguas provenientes de un ojo, donde el ganado abreva**. La acepción antigua de *azacaya* como *noria grande* no se corresponde con el uso local documentado en la zona. *(DRAE, s.v.; Castrillo Díaz 1994).*  
+En el área lingüística de Doñana, el término **zacallón** es una variante popular de *azacaya* (con aféresis y el sufijo aumentativo *-ón*). *Azacaya* es una voz de origen árabe asociada a *conductos o ramales de agua* y, en Doñana, se emplea con valor toponímico y apelativo para referirse a **aguas provenientes de un ojo, donde el ganado abreva**. *(DRAE, s.v.; Castrillo Díaz 1994).*  
 
 Los **ojos** son **afloramientos de agua dulce** vinculados al acuífero confinado bajo el terreno arcilloso de la marisma. Tienen un alto valor ecológico al constituir una de las **escasas fuentes de agua dulce durante el verano**, especialmente en años secos.
 
-**Autoría del dato:** esta capa parte de una base previa del equipo de **Seguimiento de la ICTS Doñana**, que ha sido **revisada, ampliada y actualizada por el autor** para reflejar el estado actual del Parque. En el proceso se han eliminado elementos ya desaparecidos, corregido localizaciones y añadido nuevos puntos que no estaban reflejados.
+**Autoría del dato:** esta capa parte de una base previa del **equipo de Seguimiento** de la **ICTS Doñana**, que ha sido **revisada, ampliada y actualizada por el autor** para reflejar el estado actual del Parque. En el proceso se han eliminado elementos ya desaparecidos, corregido localizaciones y añadido nuevos puntos que no estaban reflejados.
 
 **Motivo de inclusión en este repositorio:** disponer de una capa GIS única y actualizada que integre, de manera coherente con el mapa, estos elementos hidráulicos y toponímicos, permitiendo su visualización conjunta y su trazabilidad en futuras versiones.
 
@@ -62,8 +63,8 @@ Los **ojos** son **afloramientos de agua dulce** vinculados al acuífero confina
 
 ## 3. Alcance espacial y temporal
 
-- **Cobertura espacial:** Parque Nacional de Doñana  
-- **Cobertura temporal (referencia):** actualización basada en revisión y fotointerpretación realizada hasta **2022–2026** *(ajusta si quieres fijar un año concreto)*  
+- **Cobertura espacial:** Parque Nacional de Doñana y *marisma gallega* del Parque Natural.
+- **Cobertura temporal (referencia):** actualización basada en revisión y fotointerpretación realizada hasta **2025**.
 - **Aviso:** algunos elementos pueden haber cambiado con el tiempo (colmatación, abandono, destrucción, restauraciones), especialmente en infraestructuras menores.
 
 ---
@@ -82,10 +83,6 @@ Los **ojos** son **afloramientos de agua dulce** vinculados al acuífero confina
 
 **Tratamiento posterior:**  
 - La base fue **modificada, revisada, ampliada y actualizada por el autor** (Sección 6), mediante fotointerpretación y consultas.
-
-**Referencias lingüísticas / documentales (término “zacallón”):**  
-- DRAE, s.v. *azacaya* (acepciones relacionadas con conductos/depósitos de agua).  
-- Castrillo Díaz (1994) *(ajusta la referencia completa si la vas a incluir en bibliografía final).*  
 
 ---
 
@@ -111,16 +108,14 @@ Los **ojos** son **afloramientos de agua dulce** vinculados al acuífero confina
 
 ## 7. Estructura de datos y atributos
 
-*(Ajusta los nombres exactos si tu shapefile usa otros campos; esto es un esquema mínimo recomendado.)*
-
 | Campo | Tipo | Descripción |
 |---|---|---|
 | `id` | integer / string | Identificador interno único |
 | `tipo` | string | Tipo de elemento (`zacallon`, `pozo`, `abrevadero`, `ojo`) |
+| `status` | string | Tipo de elemento (`degraded`, `good`, `NULL`) |
 | `nombre` | string | Nombre/topónimo (si existe) |
-| `coordx` | double | Coordenada X (CRS del shapefile) |
-| `coordy` | double | Coordenada Y (CRS del shapefile) |
-| `fuente` | string | Origen del registro (p. ej., `ICTS`, `autor`, `consulta`) *(opcional pero recomendable)* |
+| `coordx` | double | Coordenada X (en CRS del shapefile) |
+| `coordy` | double | Coordenada Y (en CRS del shapefile) |
 
 **Valores ausentes / nulos:** `NULL`
 
