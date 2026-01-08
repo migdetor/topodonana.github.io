@@ -50,7 +50,7 @@ Sobre esta base física se organiza un mosaico de paisajes muy dinámico:
 
 En paralelo, el sistema de *arenas y dunas* alberga distintas comunidades *ligadas a la profundidad del nivel freático*:
 - En las zonas altas –más distantes del nivel freático– aparece el **monte blanco**, dominado por vegetación xerófila como son el jaguarzo (*Cistus halimifolius*), las sabinas (*Juniperus phoenicea subsp. turbinata*) y aromáticas como el romero (Salvia rosmarinus), almoradux (Thymus matischina) o el cantueso (Lavandula stoechas).
-- En zonas más deprimidas, lo somero del nivel freático sostiene una diversa comunidad de vegetación freatofítica – el **monte negro**–, representado por los alcornoques (*Quercus suber*), brezales (*Erica scoparia, E. ciliaris, E. umbellata, Calluna vulgaris*), zarzas (*Rubus ulmifolius*) y labiérnago (*Phyllirea angustifolia**).
+- En zonas más deprimidas, lo somero del nivel freático sostiene una diversa comunidad de vegetación freatofítica – el **monte negro**–, representado por los alcornoques (*Quercus suber*), brezales (*Erica scoparia, E. ciliaris, E. umbellata, Calluna vulgaris*), zarzas (*Rubus ulmifolius*) y labiérnago (*Phyllirea angustifolia*).
 - En los **corrales** –valles interdunares– encontramos que el pinar (*Pinus pinea*) da paso a depresiones intradunares húmedas allí dónde la influencia del nivel freático es constante.
 - Pero es en las zonas aun más deprimidas donde se producen descargas directas del acuífero, creando una red de más de 3.000 **lagunas**; en su mayoría temporales. 
 
