@@ -85,7 +85,7 @@ Esta página reúne las capas de información geográfica y recursos asociados a
 
 > Estas fuentes son externas. Si publicas derivados (pendientes, sombreado, mosaicos), indica claramente el origen y el proceso.
 
-| Recurso | Ficha | Fuente |
+| Recurso | Ficha | Descarga |
 |---|---|---|
 | **Modelo Digital del Terreno** (MDT25 de 2ª cobertura; ETRS89 UTM H29N) | [Ficha](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search?#/metadata/spaignMDT25-2) | [CNIG(IGN)](https://centrodedescargas.cnig.es/CentroDescargas/mdt25-segunda-cobertura) |
 | **Modelo Digital de pendientes** (MDP02 de 2ª cobertura; ETRS89 H29N) | [Ficha](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search?#/metadata/spaignMDP05) | [CNIG(IGN)](https://centrodedescargas.cnig.es/CentroDescargas/modelo-digital-pendientes-mdp02-primera-cobertura) |
