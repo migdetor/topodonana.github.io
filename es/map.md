@@ -45,7 +45,7 @@ En esta forma de entender el territorio aparecen también las trazas humanas que
 Conviene, eso sí, distinguir entre lo que se ha tomado como **base de referencia** y lo que constituye el **trabajo propio** del proyecto. Las capas base —elevaciones, pendientes y otra cartografía general— proceden de fuentes institucionales y se han incorporado **tal como fueron publicadas**, limitándome a **adaptarlas a Doñana**: recortarlas al ámbito del parque, armonizarlas para que encajen entre sí, hacerlas operativas dentro del mapa, etc.
 
 <figure style="margin: 0 0 1rem 0;">
-  <img src="{{ "/assets/img/alcorn_red.jpeg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
+  <img src="{{ "/assets/img/alcorn_red.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
 Digitalización manual de alcornoques mediante fotointerpretación de ortofotografías. Fotografía: Miguel de Felipe
   </figcaption>
@@ -56,7 +56,7 @@ Pero el mapa no es una compilación. La mayor parte de lo que lo hace específic
 Después vino el trabajo menos visible: **editar**, **corregir**, **estandarizar**. Poner orden en nombres, códigos, geometrías y atributos para que todo pueda leerse en un mismo lenguaje.
 
 <figure style="margin: 0 0 1rem 0;">
-  <img src="{{ "/assets/img/mapprocess_red.jpeg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
+  <img src="{{ "/assets/img/mapprocess_red.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
 Revisión de topónimos. Fotografía: Miguel de Felipe
   </figcaption>
