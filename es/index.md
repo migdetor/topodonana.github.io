@@ -57,7 +57,7 @@ El diseño, composición, maquetación y versión final del mapa (**plano/PDF/im
 Para informar de errores, sugerencias o consultas de uso, escríbeme **[aquí](mailto:m.defelipe.t@gmail.com)**.
 
 <figure style="margin: 0 0 1rem 0;">
-  <img src="{{ "/assets/img/espatulas2_red.jpeg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
+  <img src="{{ "/assets/img/espatulas_red.jpeg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
 Un grupo de espátulas regresa a la pajarera del Bolín tras pasar la mañana alimentándose en la marisma. Fotografía: Miguel de Felipe.
   </figcaption>
