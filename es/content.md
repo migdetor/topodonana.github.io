@@ -63,7 +63,7 @@ Esta página reúne las capas de información geográfica y recursos asociados a
 | **Toponimia de Doñana** | [Ficha]({{ "/es/content/toponimos/" | relative_url }}) | Sí |
 | **Cartografía de la red de lagunas** | [Ficha]({{ "/es/content/lagunas/" | relative_url }}), [REDIAM](https://portalrediam.cica.es/geonetwork/srv/api/records/db48f197-a17f-4f86-9e66-447da049f18c) | Sí |
 | **Alcornoques del PN Doñana** | [Ficha]({{ "/es/content/alcornoques/" | relative_url }}) | Sí |
-| **Duración de la inundación (hidroperiodos)** EN CONSTRUCCION | [Ficha]({{ "/es/content/hidroperiodos/" | relative_url }}) | Sí |
+| **Duración de la inundación** EN CONSTRUCCION | [Ficha]({{ "/es/content/hidroperiodos/" | relative_url }}) | Sí |
 | **Zacallones, pozos y ojos** | [Ficha]({{ "/es/content/zacallones/" | relative_url }}) | Sí |
 
 ---
