@@ -34,9 +34,9 @@ Tan solo un puñado de deltas, debido a su localización entre las zonas templad
 En el último siglo, alrededor del 70% de los humedales del planeta han desaparecido, y se calcula que un 78% adicional haya hecho lo mismo en 2100. Doñana, a pesar de tratarse del humedal más importante de Europa, tiene el dudoso honor de representar a la perfección los principales retos y amenazas a los que se enfrentan los humedales de todo el mundo: la intensificación agrícola y el cambio climático.
 
 <figure style="margin: 0 0 1rem 0;">
-  <img src="{{ "/assets/img/guad_red.jpeg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
+  <img src="{{ "/assets/img/atardec_red.jpeg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
-Vista de la marisma de castañuela desde el Caño del Guadiamar. Fotografía: Miguel de Felipe
+Atardece en Zorrabarba. Fotografía: Miguel de Felipe
   </figcaption>
 </figure>
 
