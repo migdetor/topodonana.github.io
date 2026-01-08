@@ -35,6 +35,13 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 **Versión:** v1.0.0 · **Última actualización:** 10-01-2026  
 **Licencia:** CC BY-NC 4.0  
 
+<figure style="margin: 0 0 1rem 0;">
+  <img src="{{ "/assets/img/mapmarsh_red.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
+  <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
+Fragmento del mapa actualizado del Parque Nacional de Doñana. 
+  </figcaption>
+</figure>
+
 ---
 
 ## 1. Resumen
