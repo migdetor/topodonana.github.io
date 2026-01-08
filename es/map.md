@@ -44,9 +44,23 @@ En esta forma de entender el territorio aparecen también las trazas humanas que
 
 Conviene, eso sí, distinguir entre lo que se ha tomado como **base de referencia** y lo que constituye el **trabajo propio** del proyecto. Las capas base —elevaciones, pendientes y otra cartografía general— proceden de fuentes institucionales y se han incorporado **tal como fueron publicadas**, limitándome a **adaptarlas a Doñana**: recortarlas al ámbito del parque, armonizarlas para que encajen entre sí, hacerlas operativas dentro del mapa, etc.
 
+<figure style="margin: 0 0 1rem 0;">
+  <img src="{{ "/assets/img/alcorn_red.jpeg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
+  <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
+Digitalización manual de alcornoques mediante fotointerpretación de ortofotografías. Fotografía: Miguel de Felipe
+  </figcaption>
+</figure>
+
 Pero el mapa no es una compilación. La mayor parte de lo que lo hace específico ha tenido que ser **recopilado, reconstruido o creado**. Algunas capas existían sólo a medias; obsoletas, dispersas en informes, mapas antiguos o en bases difíciles de usar; otras no existían como tal y se han generado *ex profeso*, a base de **fotointerpretación**, comprobaciones, conocimiento acumulado, y de **muchas conversaciones con gente de la zona**: guardas, vecinos, investigadores y personas que todavía nombran y caminan el territorio.
 
 Después vino el trabajo menos visible: **editar**, **corregir**, **estandarizar**. Poner orden en nombres, códigos, geometrías y atributos para que todo pueda leerse en un mismo lenguaje.
+
+<figure style="margin: 0 0 1rem 0;">
+  <img src="{{ "/assets/img/mapprocess_red.jpeg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
+  <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
+Revisión de topónimos. Fotografía: Miguel de Felipe
+  </figcaption>
+</figure>
 
 Y aquí hay otra distinción: una cosa son las **capas** (los datos, descargables y reutilizables), y otra es el **mapa como obra**. La **composición cartográfica** —la selección de qué entra y qué no, la jerarquía visual, la simbología, los rótulos, el equilibrio entre vacío y detalle, la forma en que el conjunto se lee sobre el papel— es también parte del proyecto, y es **original e inédita**. Es, en último término, la mirada del autor puesta en una hoja: una síntesis gráfica que constituye la identidad del mapa.
 
