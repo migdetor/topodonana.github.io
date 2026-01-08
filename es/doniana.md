@@ -83,5 +83,5 @@ Pero esta misma dependencia del agua convierte a Doñana en un sistema altamente
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
 Una rana común (Pelophylax perezi) descansa sobre un tapiz de Potamogeton trichoides. Fotografía: Miguel de Felipe
   </figcaption>
-
+    
 ---
