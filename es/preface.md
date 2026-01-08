@@ -29,16 +29,16 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 ---
 # Justificación
 
+<p style="font-size: 0.85em;">
+"<em>Para aquellos que carecen de imaginación, un lugar en blanco en el mapa es un desperdicio inútil; para otros, la parte más valiosa.</em>" Aldo Leopold
+</p>
+
 <figure style="margin: 0 0 1rem 0;">
   <img src="{{ "/assets/img/aerealagunas.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
 Imagen aérea de la red de lagunas en primavera de 2011. En el lado derecho, al fondo, se aprecian las lagunas peridunares de los Hermanillos, Sapo, las Pajas, Santa Olalla y Dulce. Fotografía: Héctor Garrido - CSIC.
   </figcaption>
 </figure>
-
-<p style="font-size: 0.85em;">
-"<em>Para aquellos que carecen de imaginación, un lugar en blanco en el mapa es un desperdicio inútil; para otros, la parte más valiosa.</em>" Aldo Leopold
-</p>
 
 ## Origen
 
