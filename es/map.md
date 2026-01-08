@@ -40,6 +40,13 @@ Esta cultura se encuentra escrita en el paisaje; miles de nombres llenan un espa
 ## De las lagunas a Doñana
 Este proyecto comenzó con una idea simple: poner las lagunas sobre un mapa. Pero Doñana pide más. Cuando representas una laguna, estas varían en su <abbr title="Duración de la inundación.">hidroperiodo</abbr>, pueden tener o no <abbr title="Pequeña excavación artificial que se realiza en la cubeta de una laguna temporal para que las aguas subterráneas afloren de forma permanente y sirvan de abrevadero a la fauna silvestre y doméstica.">zacallón</abbr>, alcornoques centenarios o conexión con otras lagunas. El mapa creció por coherencia, ya que Doñana no se entiende de forma aislada.
 
+<figure style="margin: 0 0 1rem 0;">
+  <img src="{{ "/assets/img/mapmarsh_red.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
+  <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
+Vista parcial del Mapa actualizado del Parque Nacional de Doñana. 
+  </figcaption>
+</figure>
+
 En esta forma de entender el territorio aparecen también las trazas humanas que la estructuran: caminos y cortafuegos, fincas y vallados, casas de guardas (muchas ya derribadas), torres vigía, palacios, pozos, vértices geodésicos, o estaciones hidrometeorológicas. Toda esta información, junto con otra de referencia como los límites del Parque Nacional las elevaciones, pendientes y la vegetación del terreno han sido reunidas para la elaboración del mapa. 
 
 Conviene, eso sí, distinguir entre lo que se ha tomado como **base de referencia** y lo que constituye el **trabajo propio** del proyecto. Las capas base —elevaciones, pendientes y otra cartografía general— proceden de fuentes institucionales y se han incorporado **tal como fueron publicadas**, limitándome a **adaptarlas a Doñana**: recortarlas al ámbito del parque, armonizarlas para que encajen entre sí, hacerlas operativas dentro del mapa, etc.
