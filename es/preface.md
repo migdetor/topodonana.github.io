@@ -99,7 +99,7 @@ En **1998**, **[C. Montes et al.](https://www.ign.es/web/catalogo-cartoteca/reso
 Mapa Ecologico de Doñana a escala 1:40000 elaborado por C. Montes et al.
   </figcaption>
 </figure>
-En **2005**, **D. Ruiz-Labourdette et al.** publicaron en su [Mapa del complejo palustre de los arenales de Doñana]([addlink](https://portalrediam.cica.es/geonetwork/static/api/records/0d07732a-71a9-4642-8e79-a99c7cfe5668)) la primera cartografía detallada de formaciones palustres de los mantos eólicos y la flecha litoral de El Abalario-Doñana. Mediante imágenes satélite se cartografían ~680 lagunas distribuidas entre el Parque Nacional y Natural.
+En **2005**, **D. Ruiz-Labourdette et al.** publicaron en su [Mapa del complejo palustre de los arenales de Doñana](https://portalrediam.cica.es/geonetwork/static/api/records/0d07732a-71a9-4642-8e79-a99c7cfe5668) la primera cartografía detallada de formaciones palustres de los mantos eólicos y la flecha litoral de El Abalario-Doñana. Mediante imágenes satélite se cartografían ~680 lagunas distribuidas entre el Parque Nacional y Natural.
 
 <figure style="margin: 0 0 1rem 0;">
   <img src="{{ "/assets/img/coleto.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
