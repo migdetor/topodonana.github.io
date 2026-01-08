@@ -28,9 +28,14 @@ citation_doi_label: "DOI: [DOI]"
 citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 ---
 # Justificación
-<!--
-<img src="{{ "/assets/img/laguna.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
--->
+
+<figure style="margin: 0 0 1rem 0;">
+  <img src="{{ "/assets/img/aerealagunas.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
+  <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
+Imagen aérea de la red de lagunas en primavera de 2011. En el lado derecho, al fondo, se aprecian las lagunas peridunares de los Hermanillos, Sapo, las Pajas, Santa Olalla y Dulce. Fotografía: Héctor Garrido - CSIC.
+  </figcaption>
+</figure>
+
 <p style="font-size: 0.85em;">
 "<em>Para aquellos que carecen de imaginación, un lugar en blanco en el mapa es un desperdicio inútil; para otros, la parte más valiosa.</em>" Aldo Leopold
 </p>
@@ -43,9 +48,9 @@ La idea de este mapa no nace como algo premeditado; simplemente _surgió_, como 
 Mi [tesis doctoral](/) se ha centrado en estudiar la red de lagunas del Parque Nacional de Doñana: una red de más de 3300 cuerpos de agua ([Gómez-Rodríguez et al. 2011](https://www.researchgate.net/publication/236586598_Cartografia_de_lagunas_temporales_del_Parque_Nacional_de_Donana), [Díaz-Paniagua et al. 2015](https://www.researchgate.net/publication/305303117_El_Sistema_de_Lagunas_Temporales_de_Donana_una_red_de_habitats_acuaticos_singulares)) con una densidad, diversidad y conectividad tales que son el hogar de más de 600 especies de animales y plantas –muchas de ellas raras o amenazadas ([Díaz-Paniagua et al. 2015](https://www.researchgate.net/publication/305303117_El_Sistema_de_Lagunas_Temporales_de_Donana_una_red_de_habitats_acuaticos_singulares); [Green et al. 2016](https://doi.org/10.1007/978-94-007-6173-5_139-1)). Estas lagunas se encuentran sobre el manto eólico –las arenas– y son, en su mayoría, Lagunas Temporales Mediterráneas ([hábitat prioritario en la UE](https://eunis.eea.europa.eu/habitats/10069); [Zacharias & Zamparas 2010](https://doi.org/10.1007/s10531-010-9933-7)), dependiendo su inundación del buen estado del acuífero sobre el que yacen ([Custodio et al. 2009](https://www.juntadeandalucia.es/medioambiente/web/Bloques_Tematicos/agencia_andaluza_agua/participacion/publicaciones/libro_donana_baja.pdf)). Sin embargo, durante los últimos años hemos presenciado y cuantificado la degradación de estos ecosistemas acuáticos a una velocidad sin precedentes.
 
 <figure style="margin: 0 0 1rem 0;">
-  <img src="{{ "/assets/img/aerealagunas.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
+  <img src="{{ "/assets/img/gala_red.jpeg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
-Imagen aérea de la red de lagunas en primavera de 2011. En el lado derecho, al fondo, se aprecian las lagunas peridunares de los Hermanillos, Sapo, las Pajas, Santa Olalla y Dulce. Fotografía: Héctor Garrido - CSIC
+Galápago europeo (Emys orbicularis) en la Laguna de la Sanguijuela, Reserva Biológica de Doñana. Fotografía: Miguel de Felipe.
   </figcaption>
 </figure>
 
