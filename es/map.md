@@ -31,7 +31,7 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 # El Mapa
 <!--En un tiempo en el que lo digital ha reemplazado a lo analógico, **este mapa es**, deliberadamente, **un anacronismo**.
 -->
-Los mapas reflejan nuestra visión del mundo en un momento determinado. El instante que le toca vivir a Doñana es, como su propia ecología, cambiante: lagunas que se secan, alcornoques centenarios sucumben, una marisma cuya inundación se vuelve errática, y con el cambio generacional presenciamos como se desvanece una forma única de habitar el territorio que nació como adaptación a un medio hostil hostil.
+Los mapas reflejan nuestra visión del mundo en un momento determinado. El instante que le toca vivir a Doñana es, como su propia ecología, cambiante: lagunas que se secan, alcornoques centenarios sucumben, una marisma cuya inundación se vuelve errática, y con el cambio generacional presenciamos como se desvanece una forma única de habitar el territorio que nació como adaptación a un medio hostil.
 
 Esta cultura se encuentra escrita en el paisaje; miles de nombres llenan un espacio que, de otro modo, se muestra salvaje. Cuentan historias del territorio, de personas, usos y eventos; nombres que describen, orientan y advierten. Pero ¿Quién los recordará cuando ya no estén quienes los pronunciaban? ¿Quién recordará las lagunas más remotas cuando el matorral las borre?
  
