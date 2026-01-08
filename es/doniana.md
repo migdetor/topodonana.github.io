@@ -73,7 +73,6 @@ En paralelo, el sistema de *arenas y dunas* alberga distintas comunidades *ligad
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
 El '206' es el más viejo de todos los alcornoques que bordean el Pinar de San Agustín, en la Reserva Biológica de Doñana. Fotografía: Miguel de Felipe
   </figcaption>
-</figure>
 
 En conjunto, esta diversidad de ecosistemas sostiene una biodiversidad excepcional formada por más de 1800 especies animales y vegetales. Esto es debido precisamente a que las pequeñas diferencias en el terreno –a menudo inapreciables a simple vista– producen cambios ecológicamente relevantes en la disponibilidad de agua, generando a su vez una gran diversidad de hábitats.
 
