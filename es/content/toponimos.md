@@ -28,17 +28,9 @@ citation_doi_label: "DOI: https://doi.org/10.5281/zenodo.18109683"
 citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 ---
 
-# Ficha de capa — <Nombre de la capa>
-
-> **Descarga:** [Zenodo/GitHub](https://...)  
-> **Versión:** vX.Y.Z · **Última actualización:** YYYY-MM-DD  
-> **Licencia:** CC BY 4.0 (u otra)
-
----
-
 # Toponimia — Ficha de capa
 
-**Descarga:** [https://doi.org/10.5281/zenodo.18109683](https://doi.org/10.5281/zenodo.18109683).
+**Descarga:** [Zenodo](https://doi.org/10.5281/zenodo.18109683).
 
 **Versión:** v1.0.0 · **Última actualización:** 10-01-2026  
 **Licencia:** CC BY-NC 4.0  
