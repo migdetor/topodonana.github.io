@@ -30,7 +30,7 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 
 # Ficha de capa — <Nombre de la capa>
 
-> **Descarga:** [Zenodo/GitHub](https://...)  
+> **Descarga:** *[Zenodo](https://doi.org/10.5281/zenodo.18109683)*. 
 > **Versión:** vX.Y.Z · **Última actualización:** YYYY-MM-DD  
 > **Licencia:** CC BY 4.0 (u otra)
 
