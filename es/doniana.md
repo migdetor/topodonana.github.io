@@ -66,7 +66,14 @@ En paralelo, el sistema de *arenas y dunas* alberga distintas comunidades *ligad
 - En las zonas altas –más distantes del nivel freático– aparece el **monte blanco**, dominado por vegetación xerófila como son el jaguarzo (*Cistus halimifolius*), las sabinas (*Juniperus phoenicea subsp. turbinata*) y aromáticas como el romero (Salvia rosmarinus), almoradux (Thymus matischina) o el cantueso (Lavandula stoechas).
 - En zonas más deprimidas, lo somero del nivel freático sostiene una diversa comunidad de vegetación freatofítica – el **monte negro**–, representado por los alcornoques (*Quercus suber*), brezales (*Erica scoparia, E. ciliaris, E. umbellata, Calluna vulgaris*), zarzas (*Rubus ulmifolius*) y labiérnago (*Phyllirea angustifolia*).
 - En los **corrales** –valles interdunares– encontramos que el pinar (*Pinus pinea*) da paso a depresiones intradunares húmedas allí dónde la influencia del nivel freático es constante.
-- Pero es en las zonas aun más deprimidas donde se producen descargas directas del acuífero, creando una red de más de 3.000 **lagunas**; en su mayoría temporales. 
+- Pero es en las zonas aun más deprimidas donde se producen descargas directas del acuífero, creando una red de más de 3.000 **lagunas**; en su mayoría temporales.
+
+  <figure style="margin: 0 0 1rem 0;">
+  <img src="{{ "/assets/img/206_red.jpeg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
+  <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
+El '206' es el más viejo de todos los alcornoques que bordean el Pinar de San Agustín, en la Reserva Biológica de Doñana. Fotografía: Miguel de Felipe
+  </figcaption>
+</figure>
 
 En conjunto, esta diversidad de ecosistemas sostiene una biodiversidad excepcional formada por más de 1800 especies animales y vegetales. Esto es debido precisamente a que las pequeñas diferencias en el terreno –a menudo inapreciables a simple vista– producen cambios ecológicamente relevantes en la disponibilidad de agua, generando a su vez una gran diversidad de hábitats.
 
