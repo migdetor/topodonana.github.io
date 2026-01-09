@@ -62,6 +62,13 @@ La Doñana actual se entiende como producto de la interacción entre las aguas s
 Sobre esta base física se organiza un mosaico de paisajes muy dinámico: 
 - La **marisma** —alimentada por la precipitación y una red de arroyos y caños— funciona como una gran llanura de inundación (~30.000 ha) cuya microtopografía genera una diversidad de hábitats (lucios, caños, vetas, toruños, etc.) fundamentales para la gran diversidad y abundancia de plantas y animales que aqui encontramos. Destacan los *cientos de miles de aves acuáticas* que cada año usan Doñana como lugar de reproducción, cuartel de invernada o como trampolín desde el que continuar sus migraciones trans-continentales. <!--Sin embargo, desde la década de los 50, la marisma viene experimentando una cada vez mayor dependencia de la lluvia (la cual es muy variable) a consecuencia de los procesos de polderización y puesta en cultivo de los alrededores de la marisma, que han desviado y sobreexplotado los cauces de arroyos y ríos vertientes a la marisma. -->
 
+<figure style="margin: 0 0 1rem 0;">
+  <img src="{{ "/assets/img/atardec_red.jpeg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
+  <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
+Atardece en Zorrabarba. Fotografía: Miguel de Felipe.
+  </figcaption>
+</figure>
+
 En paralelo, el sistema de *arenas y dunas* alberga distintas comunidades *ligadas a la profundidad del nivel freático*:
 - En las zonas altas –más distantes del nivel freático– aparece el **monte blanco**, dominado por vegetación xerófila como son el jaguarzo (*Cistus halimifolius*), las sabinas (*Juniperus phoenicea subsp. turbinata*) y aromáticas como el romero (Salvia rosmarinus), almoradux (Thymus matischina) o el cantueso (Lavandula stoechas).
 - En zonas más deprimidas, lo somero del nivel freático sostiene una diversa comunidad de vegetación freatofítica – el **monte negro**–, representado por los alcornoques (*Quercus suber*), brezales (*Erica scoparia, E. ciliaris, E. umbellata, Calluna vulgaris*), zarzas (*Rubus ulmifolius*) y labiérnago (*Phyllirea angustifolia*).
