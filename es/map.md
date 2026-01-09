@@ -98,6 +98,13 @@ Los **datos cartográficos y ecológicos** disponibles para descarga se publican
 
 El diseño, composición, maquetación y versión final del mapa (**plano/PDF/imagen**) están protegidos por derechos de autor. © Miguel de Felipe Toro, 2026. **Todos los derechos reservados**. Queda prohibida la reproducción total o parcial, distribución o comunicación pública del mapa final sin consentimiento expreso por escrito del titular de los derechos.
 
+<figure style="margin: 0 0 1rem 0;">
+  <img src="{{ "/assets/img/callitriche_red.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
+  <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
+Roseta de Callitriche stagnalis cubriendo la orilla de la laguna del Berraco. Fotografía: Miguel de Felipe.
+  </figcaption>
+</figure>
+
 ---
 
 <!--
