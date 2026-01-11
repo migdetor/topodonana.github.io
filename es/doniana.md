@@ -45,7 +45,7 @@ Atardece en Zorrabarba. Fotografía: Miguel de Felipe.
 # Doñana
 Históricamente, *Doñana* era el nombre que recibía el territorio situado entre el Coto del Rey (al Este de la aldea de El Rocío) y el de las Marismillas (frente a Sanlúcar de Barrameda). Actualmente, Doñana se usa en sentido amplio para referirse a la *Reserva de la Biosfera* de Doñana: un extenso territorio de ~265.000 hectáreas que abarca las provincias de Cádiz, Huelva y Sevilla. Para la realización de **este mapa** hemos decidido usar Doñana para referirnos a las 54.000 ha de terrenos bajo la figura de protección del **Parque Nacional** que se encuentran entre el Río Guadalquivir y el Océano Atlántico. 
 
-En Doñana las lagunas, arroyos y caños salpican dunas, bosque y monte mediterráneo en su camino a la marisma. Es, por tanto, un paisaje vinculado al agua. El clima aqui es mediterráneo, con inviernos suaves (10.89 °C de media ± 1.71 SD) y veranos cálidos (23.53 °C ± 2.06 Standard Deviation), y con una marcada estacionalidad en las lluvias. La precipitación anual media se sitúa en torno a 568.2 (± 199 SD; para el periodo 1985-2018), de la cual ~80% de la misma suele caer en otoño e invierno. Las lluvias presentan también una gran variabilidad entre años, oscilando entre los 169 mm del año hidrológico 2004-2005, a los 1027 mm del año 1995-1996.
+Aqui, las lagunas, arroyos y caños salpican dunas, bosque y monte mediterráneo en su camino a la marisma. Es, por tanto, un paisaje vinculado al agua. El clima aqui es mediterráneo, con inviernos suaves (10.89 °C de media ± 1.71 SD) y veranos cálidos (23.53 °C ± 2.06 Standard Deviation), y con una marcada estacionalidad en las lluvias. La precipitación anual media se sitúa en torno a 568.2 (± 199 SD; para el periodo 1985-2018), de la cual ~80% de la misma suele caer en otoño e invierno. Las lluvias presentan también una gran variabilidad entre años, oscilando entre los 169 mm del año hidrológico 2004-2005, a los 1027 mm del año 1995-1996.
 
 <figure style="margin: 0 0 1rem 0;">
   <img src="{{ "/assets/img/monte_red.jpeg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
@@ -86,10 +86,10 @@ En conjunto, esta diversidad de ecosistemas sostiene una biodiversidad excepcion
 
 Pero esta misma dependencia del agua convierte a Doñana en un sistema altamente sensible a cambios hidrológicos. La evidencia reciente muestra que la reducción de hidroperiodos y la desecación de lagunas —vinculadas a las modificaciones de la red hídrica, sobreexplotación del acuífero y agravada por periodos de escasez de lluvia— se ha traducido en una pérdida medible de biodiversidad a escala del Parque Nacional. Y estos cambios no se quedan aqui; las condiciones que encuentran en Doñana las aves acuáticas invernantes repercute sobre sus poblaciones reproductoras en toda Europa. 
 
+
   <figure style="margin: 0 0 1rem 0;">
   <img src="{{ "/assets/img/dulce_red.jpeg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
 Atardece en la Laguna Dulce. Fotografía: Miguel de Felipe.
   </figcaption>
     
----
