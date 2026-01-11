@@ -4,11 +4,6 @@ title: Mapa ineractivo
 permalink: /es/interactive/
 ---
 
----
-layout: default
-title: Mapa interactivo
----
-
 <link
   rel="stylesheet"
   href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
