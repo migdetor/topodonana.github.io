@@ -11,13 +11,12 @@ menu:
     url: "/es/preface/"
   - label: "El mapa"
     url: "/es/map/"
+  - label: "Mapa interactivo"
+    url: "/interactive/"
   - label: "Información cartográfica"
     url: "/es/content/"
   - label: "Descarga de datos"
     url: "https://doi.org/10.5281/zenodo.18109683"
-  - label: "Recursos adicionales"
-    url: "/es/recursos/"
-
 links:
   - label: "Contact me/ Contáctame"
     url: "/contact/"
