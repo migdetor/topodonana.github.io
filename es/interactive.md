@@ -4,6 +4,11 @@ title: Mapa ineractivo
 permalink: /es/interactive/
 ---
 
+---
+layout: default
+title: Mapa interactivo
+---
+
 <link
   rel="stylesheet"
   href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
@@ -24,10 +29,12 @@ permalink: /es/interactive/
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 <script>
-  // Centro aproximado de Doñana (ajusta si quieres)
+  // Centro aproximado de Doñana
   const map = L.map("map", {
     center: [37.0, -6.5],
-    zoom: 11
+    zoom: 10,
+    minZoom: 10,
+    maxZoom: 11
   });
 
   // Base satélite (tipo Google)
@@ -48,12 +55,13 @@ permalink: /es/interactive/
     }
   );
 
-  // Tu mapa como overlay (AJUSTA extensión si no es .jpg)
+  // Tu mapa como overlay (tiles PNG)
+  // Ajusta "topodonana" si tu carpeta tiene otro nombre
   const topoDonana = L.tileLayer(
     "{{ '/assets/tiles/topodonana/{z}/{x}/{y}.png' | relative_url }}",
     {
       minZoom: 10,
-      maxZoom: 14,
+      maxZoom: 11,
       opacity: 0.9
     }
   ).addTo(map);
