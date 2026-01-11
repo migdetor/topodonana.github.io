@@ -27,7 +27,7 @@
   <div id="map"></div>
 
   <script>
-    // 1) Mapa: zoom inicial 11, limitado a 11–12
+    // 1) Mapa: zoom inicial 11, limitado a 11–13
     var map = L.map('map', {
       attributionControl: false,
       zoom: 11,
@@ -58,7 +58,7 @@
     // 4) Tu mapa (overlay) arriba de todo
     var topoDonana = L.tileLayer('tiles/{z}/{x}/{y}.png', {
       minZoom: 11,
-      maxZoom: 12,
+      maxZoom: 13,
       tms: false,
       opacity: 0.9,
       attribution: 'Created by QGIS algorithm: Generar teselas XYZ (Directorio)'
