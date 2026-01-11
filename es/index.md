@@ -12,7 +12,7 @@ menu:
   - label: "El mapa"
     url: "/es/map/"
   - label: "Mapa interactivo"
-    url: "/es/interactive/"
+    url: "/es/map/"
   - label: "Información cartográfica"
     url: "/es/content/"
   - label: "Descarga de datos"
@@ -28,7 +28,6 @@ citation_doi_label: "DOI: [DOI]"
 citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 ---
 
-
 <img src="{{ "/assets/img/logo.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 
 Este repositorio centraliza la información cartográfica y ecológica asociada al Mapa actualizado del Parque Nacional de Doñana.
@@ -39,7 +38,7 @@ Mediante la creación de esta página se pretende poner a disposición pública 
   - [Doñana]({{ "/es/doniana/" | relative_url }})
   - [Justificación]({{ "/es/preface/" | relative_url }})
   - [El mapa]({{ "/es/map/" | relative_url }})
-  - [Mapa interactivo]({{ "/es/interactive/" | relative_url }})
+  - [Mapa interactivo]({{ "/es/map/" | relative_url }})
   - [Información cartográfica]({{ "/es/content/" | relative_url }})
   - [Descarga de datos](https://doi.org/10.5281/zenodo.18109683)
   - [Recursos adicionales]({{ "/es/recursos/" | relative_url }})
