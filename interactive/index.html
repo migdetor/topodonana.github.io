@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -6,35 +5,76 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
-   integrity="sha384-o/2yZuJZWGJ4s/adjxVW71R+EO/LyCwdQfP5UWSgX/w87iiTXuvDZaejd3TsN7mf"
-   crossorigin=""/>
-  <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
-   integrity="sha384-okbbMvvx/qfQkmiQKfd5VifbKZ/W8p1qIsWvE1ROPUfHWsDcC8/BnHohF7vPg2T6"
-   crossorigin=""></script>
-  <style type="text/css">
-    body {
-       margin: 0;
-       padding: 0;
-    }
-    html, body, #map{
-       width: 100%;
-       height: 100%;
-    }
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""
+  />
+  <script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""
+  ></script>
+
+  <style>
+    body { margin: 0; padding: 0; }
+    html, body, #map { width: 100%; height: 100%; }
   </style>
 </head>
+
 <body>
   <div id="map"></div>
+
   <script>
-      var map = L.map('map', { attributionControl: false } ).setView([36.97270521648507, -6.4120173427269265], 12.5);
-      L.control.attribution( { prefix: false } ).addTo( map );
-      
-      var tilesource_layer = L.tileLayer('file:////Users/miguel/Desktop/web%20Mapa/leaflet/tiles/{z}/{x}/{y}.png', {
-        minZoom: 11,
-        maxZoom: 14,
-        tms: false,
-        attribution: 'Created by QGIS algorithm: Generar teselas XYZ (Directorio)'
-      }).addTo(map);
+    // 1) Mapa: zoom inicial 11, limitado a 11–12
+    var map = L.map('map', {
+      attributionControl: false,
+      zoom: 11,
+      minZoom: 11,
+      maxZoom: 12
+    }).setView([36.97270521648507, -6.41201734], 11);
+
+    L.control.attribution({ prefix: false }).addTo(map);
+
+    // 2) Basemap 1: OSM (abajo, como alternativa)
+    var osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    });
+
+    // 3) Basemap 2: Satélite (Esri) (por defecto)
+    var esriSat = L.tileLayer(
+      'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
+      {
+        maxZoom: 19,
+        attribution: 'Tiles &copy; Esri'
+      }
+    );
+
+    // Activa por defecto el satélite (si prefieres OSM por defecto, cambia esto a osm.addTo(map);)
+    esriSat.addTo(map);
+
+    // 4) Tu mapa (overlay) arriba de todo
+    var topoDonana = L.tileLayer('tiles/{z}/{x}/{y}.png', {
+      minZoom: 11,
+      maxZoom: 12,
+      tms: false,
+      opacity: 0.9,
+      attribution: 'Created by QGIS algorithm: Generar teselas XYZ (Directorio)'
+    }).addTo(map);
+
+    // 5) Control de capas
+    var baseLayers = {
+      "OpenStreetMap": osm,
+      "Satélite": esriSat
+    };
+
+    var overlays = {
+      "Mapa actualizado ": topoDonana
+    };
+
+    L.control.layers(baseLayers, overlays, { collapsed: false }).addTo(map);
   </script>
 </body>
 </html>
