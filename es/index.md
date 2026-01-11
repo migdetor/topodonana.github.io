@@ -38,6 +38,7 @@ Mediante la creación de esta página se pretende poner a disposición pública 
   - [Doñana]({{ "/es/doniana/" | relative_url }})
   - [Justificación]({{ "/es/preface/" | relative_url }})
   - [El mapa]({{ "/es/map/" | relative_url }})
+  - [Mapa interactivo]({{ "/es/interactive/" | relative_url }})
   - [Información cartográfica]({{ "/es/content/" | relative_url }})
   - [Descarga de datos](https://doi.org/10.5281/zenodo.18109683)
   - [Recursos adicionales]({{ "/es/recursos/" | relative_url }})
