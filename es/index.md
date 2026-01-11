@@ -12,7 +12,7 @@ menu:
   - label: "El mapa"
     url: "/es/map/"
   - label: "Mapa interactivo"
-    url: "/interactive/"
+    url: "/interactive/" 
   - label: "Información cartográfica"
     url: "/es/content/"
   - label: "Descarga de datos"
