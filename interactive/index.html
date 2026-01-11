@@ -32,7 +32,7 @@
       attributionControl: false,
       zoom: 11,
       minZoom: 11,
-      maxZoom: 12
+      maxZoom: 13
     }).setView([36.97270521648507, -6.41201734], 11);
 
     L.control.attribution({ prefix: false }).addTo(map);
@@ -71,7 +71,7 @@
     };
 
     var overlays = {
-      "Mi mapa": topoDonana
+      "Mapa actualizado de Doñana": topoDonana
     };
 
     L.control.layers(baseLayers, overlays, { collapsed: false }).addTo(map);
