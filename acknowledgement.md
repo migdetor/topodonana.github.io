@@ -4,10 +4,6 @@ title: "acknowledgements"
 permalink: /acknowledgement/
 ---
 # Acknowledgements - Agradecimientos
-Este trabajo no habría sido posible sin las muchas aportaciones y enseñanzas de biólogos, guardas y marismeños varios. Sólo por nombrar a algunos: gracias a Poli, Luis García, David Aragonés, Plácido Rodríguez-Paradas y Vilches. Gracias también a todos los que me apoyasteis en el desarrollo del mapa a pesar de escapar de los corsés que impone la carrera científica habitual. Y, por supuesto, gracias a aquellos pioneros sin cuyo trabajo nada de esto habría sido posible.
+Este trabajo no habría sido posible sin las muchas aportaciones y enseñanzas de guardas, Doñaneros y marismeños varios. Sólo por nombrar a algunos: gracias a Poli, Luis García, David Aragonés, Plácido Rodríguez-Paradas y Vilches. Gracias también a todos los que apoyasteis y mostrásteis entusiasmo en el desarrollo del mapa. Por mencionar a algunos: a Marina Trillo por compartir mi fascinación por los mapas y compartir distintas fuentes de inspiración, a Julia G. de Aledo por sugerir la creación de una web en la que centralizar la información y la inclusión del mapa interactivo. 
 
-<!--
-Agradecer a la Estación Biológica de Doñana y a la Reserva Biológica de Doñana (ICTS-Doñana)...
-
-Abel Valero, Marina Trillo contribuyó con sugerencias estilísticas, Julia G. de Aledo es la responsable de la idea de que la versión web del mapa cuente con versión interactiva. 
--->
+Quiero agradecer también a la Estación Biológica de Doñana (EBD-CSIC) y a la Reserva Biológica de Doñana (ICTS-Doñana) como parte del marco científico e histórico en el que se ha desarrollado mi trabajo en Doñana y por el valor de las series, infraestructuras y conocimiento acumulado que han contribuido a construir y conservar la Doñana que hoy conocemos.
