@@ -31,7 +31,7 @@
     var map = L.map('map', {
       attributionControl: false,
       zoom: 11,
-      minZoom: 3,
+      minZoom: 11,
       maxZoom: 13
     }).setView([36.97270521648507, -6.41201734], 11);
 
@@ -57,7 +57,7 @@
 
     // 4) Tu mapa (overlay) arriba de todo
     var topoDonana = L.tileLayer('tiles/{z}/{x}/{y}.png', {
-      minZoom: 3,
+      minZoom: 11,
       maxZoom: 13,
       tms: false,
       opacity: 0.9,
