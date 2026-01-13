@@ -80,13 +80,11 @@ En paralelo, el sistema de **arenas y dunas** alberga distintas comunidades *lig
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
 El '206' es el más viejo de todos los alcornoques que bordean el Pinar de San Agustín, en la Reserva Biológica de Doñana. Fotografía: Miguel de Felipe.
   </figcaption>
+</figure>
 
+En conjunto, esta diversidad de ecosistemas sostiene una biodiversidad excepcional formada por más de **1800 especies** animales y vegetales. Esto es debido precisamente a que las pequeñas diferencias en el terreno –a menudo inapreciables a simple vista– producen cambios ecológicamente relevantes en la disponibilidad de agua, generando a su vez una gran diversidad de hábitats.
 
-
-En conjunto, esta diversidad de ecosistemas sostiene una biodiversidad excepcional formada por más de 1800 especies animales y vegetales. Esto es debido precisamente a que las pequeñas diferencias en el terreno –a menudo inapreciables a simple vista– producen cambios ecológicamente relevantes en la disponibilidad de agua, generando a su vez una gran diversidad de hábitats.
-
-Pero esta misma dependencia del agua convierte a Doñana en un sistema altamente sensible a cambios hidrológicos. La evidencia reciente muestra que la reducción de hidroperiodos y la desecación de lagunas —vinculadas a las modificaciones de la red hídrica, sobreexplotación del acuífero y agravada por periodos de escasez de lluvia— se ha traducido en una pérdida medible de biodiversidad a escala del Parque Nacional. Y estos cambios no se quedan aqui; las condiciones que encuentran en Doñana las aves acuáticas invernantes repercute sobre sus poblaciones reproductoras en toda Europa. 
-
+Pero esta misma *dependencia del agua* convierte a Doñana en un sistema altamente sensible a cambios hidrológicos. La evidencia reciente muestra que la reducción de hidroperiodos y la desecación de lagunas —vinculadas a las modificaciones de la red hídrica, **sobreexplotación del acuífero** y agravada por periodos de escasez de lluvia— se ha traducido en una **pérdida** medible de **biodiversidad** a escala del Parque Nacional. Y estos cambios no se quedan aqui; las condiciones que encuentran en Doñana las aves acuáticas invernantes repercute sobre sus poblaciones reproductoras en toda Europa. 
 
 
   <figure style="margin: 0 0 1rem 0;">
@@ -94,4 +92,5 @@ Pero esta misma dependencia del agua convierte a Doñana en un sistema altamente
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
 Atardece en la Laguna Dulce. Fotografía: Miguel de Felipe.
   </figcaption>
+</figure>
     
