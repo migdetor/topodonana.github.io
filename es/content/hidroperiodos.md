@@ -37,6 +37,13 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 > **Versión:** v1.0.0 · **Última actualización:** 10-01-2026  
 > **Licencia:** CC BY-NC 4.0
 
+<figure style="margin: 0 0 1rem 0;">
+  <img src="{{ "/assets/img/laguna_red.jpeg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
+  <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
+Laguna de las Pajas. Al fondo, la sierra de Grazalema. Fotografía: Miguel de Felipe. 
+  </figcaption>
+</figure>
+
 ---
 
 ## 1. Resumen
@@ -60,12 +67,12 @@ Los ráster originales (hidroperiodo en cada píxel de 30x30m) fueron *poligoniz
 Este apartado incluye dos capas vectoriales (polígonos), derivadas de ráster de hidroperiodo:
 
 ### 2.1. Hidroperiodo — Lagunas (año de referencia 2003)
-- **Nombre de archivo:** hidroperiodo_lagunas_2003_25829.shp
+- **Nombre de archivo:** `hidroperiodo_lagunas_2003_25829.shp`
 - **Tipo de entidad:** Shapefile de polígonos
 - **Qué se cartografía:** clases de duración de inundación anual asociadas a lagunas (arenas) para el año 2003.
 
 ### 2.2. Hidroperiodo — Marisma (año de referencia 2017)
-- **Nombre de archivo:** hidroperiodo_marisma_2017_25829.shp (ajusta al nombre real)
+- **Nombre de archivo:** `hidroperiodo_marisma_2017_25829.shp` (ajusta al nombre real)
 - **Tipo de entidad:** Shapefile de polígonos
 - **Qué se cartografía:** clases de duración de inundación anual en la marisma para el año 2017.
 
@@ -112,8 +119,6 @@ Estandarización y exportación a shapefile en EPSG:25829.
 -->
 ## 7. Estructura de datos y atributos
 ### Campos del producto empleado en el proyecto
-
-**Nombre:** 'pondhydroperiod_y2003_25829.shp' and 'marshhydroperiod_y2017_25829.shp' 
 
 | Campo | Tipo | Descripción |
 |---|---|---|
@@ -178,5 +183,3 @@ v1.0.0 (10-01-2026) — Publicación de capas poligonizadas por clases de hidrop
 
 ## 12. Contacto
 Para dudas, correcciones o sugerencias, contáctame [aqui.](mailto:m.defelipe.t@gmail.com)
-
-
