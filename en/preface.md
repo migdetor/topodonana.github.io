@@ -3,7 +3,7 @@ layout: default
 title: "Antecedents"
 permalink: /en/preface/
 menu:
-  - label: "Inicio"
+  - label: "Home"
     url: "/es/"
   - label: "Doñana"
     url: "/en/doniana/"
