@@ -7,7 +7,7 @@ menu:
     url: "/es/"
   - label: "Doñana"
     url: "/en/doniana/"
-  - label: "Justification"
+  - label: "Antecedents"
     url: "/en/preface/"
   - label: "The map"
     url: "/en/map/"
@@ -35,7 +35,7 @@ Through this page, we aim to make publicly available the cartographic informatio
 
 ## Index
   - [Doñana]({{ "/en/doniana/" | relative_url }})
-  - [Rationale]({{ "/en/preface/" | relative_url }})
+  - [Antecedents]({{ "/en/preface/" | relative_url }})
   - [The map]({{ "/en/map/" | relative_url }})
   - [Interactive map]({{ "/interactive/" | relative_url }})
   - [Cartographic information]({{ "/en/content/" | relative_url }})
