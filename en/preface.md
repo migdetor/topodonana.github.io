@@ -98,7 +98,7 @@ Detail of the 1:50,000 scale map of Doñana National Park produced by J. Castrov
 In **1998**, **[C. Montes et al.](https://www.ign.es/web/catalogo-cartoteca/resources/html/023568.html)** produced the [first hierarchical classification of the National Park’s ecosystems](https://www.researchgate.net/profile/Francisco-Barrera-6/publication/260182698_Reconocimiento_Biofisico_de_Espacios_Naturales_Protegidos_Donana_una_aproximacion_ecosistenica/links/0c96052fe687226991000000/Reconocimiento-Biofisico-de-Espacios-Naturales-Protegidos-Donana-una-aproximacion-ecosistenica.pdf) through photointerpretation of aerial photographs, satellite imagery, and field verification.
 
 <figure style="margin: 0 0 1rem 0;">
-  <img src="{{ "/assets/img/monte_red.jpeg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
+  <img src="{{ "/assets/img/montes.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
 Ecological map of Doñana at 1:40,000 scale produced by C. Montes et al.
   </figcaption>
