@@ -65,7 +65,7 @@ To report errors, share suggestions, or inquire about permitted uses, write to m
 <figure style="margin: 0 0 1rem 0;">
   <img src="{{ "/assets/img/guad_red.jpeg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
-Moorish tortoise (Testudo graeca). Photograph: Miguel de Felipe.
+Bulrush (Bolboschoenus maritimus) marsh from Caño Guadiamar. Photograph: Miguel de Felipe.
   </figcaption>
 </figure>
 
