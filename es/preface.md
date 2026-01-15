@@ -96,11 +96,12 @@ Detalle del mapa del Parque Nacional de Doñana a escala 1:50000 elaborado por J
 En **1998**, **[C. Montes et al.](https://www.ign.es/web/catalogo-cartoteca/resources/html/023568.html)** realizaron la [primera clasificación jerárquica de los ecosistemas del Parque Nacional](https://www.researchgate.net/profile/Francisco-Barrera-6/publication/260182698_Reconocimiento_Biofisico_de_Espacios_Naturales_Protegidos_Donana_una_aproximacion_ecosistenica/links/0c96052fe687226991000000/Reconocimiento-Biofisico-de-Espacios-Naturales-Protegidos-Donana-una-aproximacion-ecosistenica.pdf) mediante la fotointerpretación de fotografías aéreas, imágenes satélite y verificación a pie campo. 
 
 <figure style="margin: 0 0 1rem 0;">
-  <img src="{{ "/assets/img/monte_red.jpeg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
+  <img src="{{ "/assets/img/montes.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
 Mapa Ecologico de Doñana a escala 1:40000 elaborado por C. Montes et al.
   </figcaption>
 </figure>
+
 En **2005**, **D. Ruiz-Labourdette et al.** publicaron en su [Mapa del complejo palustre de los arenales de Doñana](https://portalrediam.cica.es/geonetwork/static/api/records/0d07732a-71a9-4642-8e79-a99c7cfe5668) la primera cartografía detallada de formaciones palustres de los mantos eólicos y la flecha litoral de El Abalario-Doñana. Mediante imágenes satélite se cartografían ~680 lagunas distribuidas entre el Parque Nacional y Natural.
 
 <figure style="margin: 0 0 1rem 0;">
