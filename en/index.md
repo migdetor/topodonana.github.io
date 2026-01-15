@@ -1,31 +1,31 @@
 ---
 layout: default
-title: "Inicio"
+title: "Home"
 permalink: /en/
 menu:
-  - label: "Home"
-    url: "/en/"
-  - label: "Preface"
+  - label: "Inicio"
+    url: "/es/"
+  - label: "Doñana"
+    url: "/en/doniana/"
+  - label: "Justification"
     url: "/en/preface/"
   - label: "The map"
     url: "/en/map/"
-  - label: "Contents"
+  - label: "Interactive map"
+    url: "/interactive/"
+  - label: "Cartographic information"
     url: "/en/content/"
   - label: "Data download"
-    url: "https://zenodo.org/records/13960897"
-  - label: "Additional resources"
-    url: "/en/recursos/"
+    url: "https://doi.org/10.5281/zenodo.18109683"
 
 links:
-  - label: "Google Scholar"
-    url: "https://scholar.google.com/citations?user=JQzRGw4AAAAJ&hl=es"
   - label: "Contact me"
-    url: "mailto:m.defelipe.t@gmail.com"
+    url: "/contact/"
 
-citation_label: "Recommended citation:"
+citation_label: "Reccomended citation"
 citation_text: "M. de Felipe (2026). Mapa actualizado del Parque Nacional de Doñana (v1.0). Zenodo."
 citation_doi_label: "DOI: [DOI]"
-citation_doi_url: "https://doi.org/[DOI]"
+citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 ---
 <img src="{{ "/assets/img/logo.png" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
 
@@ -33,25 +33,40 @@ This repository centralizes the cartographic and ecologic information linked to 
   
 Through this page, we aim to make publicly available the cartographic information used to produce the map, periodically update the different layers that conform it, as well as to provide the socio-ecological context needed to understand the trends Doñana has been experiencing over recent decades, along with their causes and consequences.  
 
-### Direct download - Descarga directa
-Pulsa **[aqui](https://zenodo.org/records/13960897)** para ser redirigido a un repositorio desde donde descargar la información cartográfica.
+## Index
+  - [Doñana]({{ "/en/doniana/" | relative_url }})
+  - [Rationale]({{ "/en/preface/" | relative_url }})
+  - [The map]({{ "/en/map/" | relative_url }})
+  - [Interactive map]({{ "/interactive/" | relative_url }})
+  - [Cartographic information]({{ "/en/content/" | relative_url }})
+  - [Download data](https://doi.org/10.5281/zenodo.18109683)
+  - [Additional resources]({{ "/en/recursos/" | relative_url }})
 
-#### Cita recomendada:
+## Direct download
+Click **[here](https://doi.org/10.5281/zenodo.18109683)** to be redirected to a repository from which you can download the cartographic information.
+
+#### Recommended citation:
 <i>M. de Felipe (2026). Mapa actualizado del Parque Nacional de Doñana (v1.0). Zenodo. DOI: [DOI]<i>
 
 
-# Agradecimientos
+## Acknowledgements
+This work would not have been possible without the many contributions and lessons shared by rangers, Doñana locals, and marsh people. Particularly, thanks to *Poli, Luis García, David Aragonés, Plácido Rodríguez-Paradas* and *Vilches*. Thanks also to everyone who supported the development of the map and showed genuine enthusiasm for it. To mention just a few: *Marina Trillo* for sharing a fascination with maps and exchanging sources of inspiration; and *Julia G. de Aledo* for suggesting the creation of a website to centralize the information and for encouraging the inclusion of the interactive map. 
 
-Este trabajo no habría sido posible sin las muchas aportaciones y enseñanzas de biólogos, guardas y marismeños varios. Sólo por nombrar a algunos: gracias a Poli, Luis García, David Aragonés, Alejandro Sánchez, Plácido Rodríguez-Paradas y Vilches. Gracias también a todos los que me apoyasteis en el desarrollo del mapa a pesar de escapar de los corsés que impone la carrera científica habitual. Y, por supuesto, gracias a aquellos pioneros sin cuyo trabajo nada de esto habría sido posible.
+I would also like to acknowledge the **Doñana Biological Station** (EBD-CSIC) and the **Doñana Biological Reserve** (ICTS-Doñana) as part of the scientific and historical framework in which my work in Doñana has developed, and for the value of the long-term series, infrastructure, and accumulated knowledge that have helped to build and conserve the Doñana we know today.
 
-<img src="{{ "/assets/img/marisma.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto; margin: 0 0 1rem 0;">
+## Terms of use
+The **cartographic and ecological data** available for download are published under the Creative Commons Attribution–NonCommercial 4.0 International license (**CC BY-NC 4.0**). Use, distribution, and the creation of derivative works are permitted for non-commercial purposes only, provided that the source is cited.
 
-# Licencia de uso
-Los **datos cartográficos y ecológicos** disponibles para descarga se publican bajo licencia Creative Commons Attribution–NonCommercial 4.0 International (**CC BY-NC 4.0**). Se permite su uso, distribución y creación de obras derivadas únicamente para fines no comerciales, siempre que se cite la fuente.
+The design, composition, layout, and final version of the map (**print/PDF/image**) are protected by copyright. © Miguel de Felipe Toro, 2026. **All rights reserved**. Any total or partial reproduction, distribution, or public communication of the final map is prohibited without the explicit written consent of the rights holder.
 
-El diseño, composición, maquetación y versión final del mapa (**plano/PDF/imagen**) están protegidos por derechos de autor. © Miguel de Felipe Toro, 2026. **Todos los derechos reservados**. Queda prohibida la reproducción total o parcial, distribución o comunicación pública del mapa final sin consentimiento expreso por escrito del titular de los derechos.
+## Contact
+To report errors, share suggestions, or inquire about permitted uses, write to me **[here](mailto:m.defelipe.t@gmail.com)**.
 
+<figure style="margin: 0 0 1rem 0;">
+  <img src="{{ "/assets/img/guad_red.jpeg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
+  <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
+Moorish tortoise (Testudo graeca). Photograph: Miguel de Felipe.
+  </figcaption>
+</figure>
 
-# Contacto
-Para informar de errores, sugerencias o consultas de uso, escríbeme **[aquí](mailto:m.defelipe.t@gmail.com)**.
-
+---
