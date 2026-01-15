@@ -49,7 +49,7 @@ Historically, *Doñana* was the name given to the territory between Coto del Rey
 This is a landscape tightly linked to water where, ponds, streams, and channels spread thorough sand dunes, woodlands, and Mediterranean scrublands on their way to the marsh. The climate here is Mediterranean, with mild winters (10.89 °C on average ± 1.71 SD) and warm summers (23.53 °C ± 2.06 Standard Deviation), and a marked seasonality in rainfall. Mean annual precipitation is around 568.2 mm (± 199 SD; for the period 1985–2018), of which ~80% typically falls in autumn and winter. Rainfall also shows strong interannual variability, ranging from 169 mm in the 2004–2005 hydrological year to 1027 mm in 1995–1996.
 
 <figure style="margin: 0 0 1rem 0;">
-  <img src="{{ "/assets/img/monte_red.jpeg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
+  <img src="{{ "/assets/img/montes.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
 Where the mobile dunes meet the *monte blanco* in the Doñana Biological Reserve. Photograph: Miguel de Felipe
   </figcaption>
