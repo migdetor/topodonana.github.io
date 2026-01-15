@@ -34,6 +34,13 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 Los mapas reflejan nuestra visión del mundo en un momento determinado. El instante que le toca vivir a Doñana es, como su propia ecología, cambiante: lagunas que se secan, alcornoques centenarios sucumben, una marisma cuya inundación se vuelve errática, y con el cambio generacional presenciamos como se desvanece una forma única de habitar el territorio que nació como adaptación a un medio hostil.
 
 Esta cultura se encuentra escrita en el paisaje; miles de nombres llenan un espacio que, de otro modo, se muestra salvaje. Cuentan historias del territorio, de personas, usos y eventos; nombres que describen, orientan y advierten. Pero ¿Quién los recordará cuando ya no estén quienes los pronunciaban? ¿Quién recordará las lagunas más remotas cuando el matorral las borre?
+
+<figure style="margin: 0 0 1rem 0;">
+  <img src="{{ "/assets/img/mapm.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
+  <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
+Mapa actualizado del Parque Nacional de Doñana. 
+  </figcaption>
+</figure>
  
 ---
 
