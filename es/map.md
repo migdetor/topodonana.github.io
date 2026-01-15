@@ -36,7 +36,7 @@ Los mapas reflejan nuestra visión del mundo en un momento determinado. El insta
 Esta cultura se encuentra escrita en el paisaje; miles de nombres llenan un espacio que, de otro modo, se muestra salvaje. Cuentan historias del territorio, de personas, usos y eventos; nombres que describen, orientan y advierten. Pero ¿Quién los recordará cuando ya no estén quienes los pronunciaban? ¿Quién recordará las lagunas más remotas cuando el matorral las borre?
 
 <figure style="margin: 0 0 1rem 0;">
-  <img src="{{ "/assets/img/mapm.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
+  <img src="{{ "/assets/img/map.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
 Mapa actualizado del Parque Nacional de Doñana. 
   </figcaption>
