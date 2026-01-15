@@ -40,7 +40,7 @@ Through this page, we aim to make publicly available the cartographic informatio
   - [Interactive map]({{ "/interactive/" | relative_url }})
   - [Cartographic information]({{ "/en/content/" | relative_url }})
   - [Download data](https://doi.org/10.5281/zenodo.18109683)
-  - [Additional resources]({{ "/en/recursos/" | relative_url }})
+  - [Additional resources]({{ "/en/resources/" | relative_url }})
 
 ## Direct download
 Click **[here](https://doi.org/10.5281/zenodo.18109683)** to be redirected to a repository from which you can download the cartographic information.
