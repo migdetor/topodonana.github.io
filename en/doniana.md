@@ -3,7 +3,7 @@ layout: default
 title: "Doñana"
 permalink: /en/doniana/
 menu:
-  - label: "Inicio"
+  - label: "Home"
     url: "/es/"
   - label: "Doñana"
     url: "/en/doniana/"
