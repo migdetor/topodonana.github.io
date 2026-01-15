@@ -41,7 +41,7 @@ Mediante la creación de esta página se pretende poner a disposición pública 
   - [Mapa interactivo]({{ "/interactive/" | relative_url }})
   - [Información cartográfica]({{ "/es/content/" | relative_url }})
   - [Descarga de datos](https://doi.org/10.5281/zenodo.18109683)
-  - [Recursos adicionales]({{ "/es/recursos/" | relative_url }})
+ <!-- - [Recursos adicionales]({{ "/es/recursos/" | relative_url }}) -->
 
 ## Descarga directa
 Pulsa **[aqui](https://doi.org/10.5281/zenodo.18109683)** para ser redirigido a un repositorio desde donde descargar la información cartográfica.
