@@ -60,7 +60,7 @@ In this way of reading the territory, the human traces that structure it also ap
 It is worth distinguishing, though, between what has been taken as a **reference base** and what constitutes the project’s **own work**. The base layers—elevations, slopes, and other general cartography—come from institutional sources and have been incorporated **as they were published**, my work being to **adapt them to Doñana**: clipping them to the Park’s extent, harmonizing them so they fit together, making them operational within the map, and so on.
 
 <figure style="margin: 0 0 1rem 0;">
-  <img src="{{ "/assets/img/alcorn_red.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
+  <img src="{{ "/assets/img/alcor_red.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.78em; opacity: 0.85; margin-top: 0.35rem; text-align: justify; text-justify: inter-word;">
 Manual digitization of cork oaks through photointerpretation of orthophotographs. Photograph: Miguel de Felipe
   </figcaption>
