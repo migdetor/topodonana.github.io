@@ -33,7 +33,7 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 -->
 Los mapas reflejan nuestra visión del mundo en un momento determinado. El instante que le toca vivir a Doñana es, como su propia ecología, cambiante: lagunas que se secan, alcornoques centenarios sucumben, una marisma cuya inundación se vuelve errática, y con el cambio generacional presenciamos como se desvanece una forma única de habitar el territorio que nació como adaptación a un medio hostil.
 
-Esta cultura se encuentra escrita en el paisaje; miles de nombres llenan un espacio que, de otro modo, se muestra salvaje. Cuentan historias del territorio, de personas, usos y eventos; nombres que describen, orientan y advierten. Pero ¿Quién los recordará cuando ya no estén quienes los pronunciaban?
+Esta cultura se encuentra escrita en el paisaje; miles de nombres que cuentan historias del territorio, de personas, usos y eventos; nombres que describen, orientan y advierten. Pero ¿Quién los recordará cuando ya no estén quienes los pronunciaban?
 
 <figure style="margin: 0 0 1rem 0;">
   <img src="{{ "/assets/img/map.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
@@ -54,9 +54,9 @@ Vista parcial del Mapa actualizado del Parque Nacional de Doñana.
   </figcaption>
 </figure>
 
-En esta forma de entender el territorio aparecen también las trazas humanas que la estructuran: caminos y cortafuegos, fincas y vallados, casas de guardas (muchas ya derribadas), torres vigía, palacios, pozos, vértices geodésicos, o estaciones hidrometeorológicas. Toda esta información, junto con otra de referencia como los límites del Parque Nacional, las elevaciones, pendientes y la vegetación del terreno han sido reunidas para la elaboración del mapa. 
+En esta forma de entender el territorio aparecen también las trazas humanas que la estructuran: caminos y cortafuegos, fincas y vallados, casas de guardas (muchas ya derribadas), torres vigía, palacios, pozos, vértices geodésicos, o estaciones hidrometeorológicas. Toda esta información, junto con otra de referencia –como los límites del Parque Nacional, las elevaciones, pendientes y la vegetación del terreno– han sido reunidas para la elaboración del mapa. 
 
-Conviene, eso sí, distinguir entre lo que se ha tomado como **base de referencia** y lo que constituye el **trabajo propio** del proyecto. Las capas base —elevaciones, pendientes y otra cartografía general— proceden de fuentes institucionales y se han incorporado **tal como fueron publicadas**, limitándome a **adaptarlas a Doñana**: recortarlas al ámbito del parque, armonizarlas para que encajen entre sí, hacerlas operativas dentro del mapa, etc.
+Conviene, eso sí, distinguir entre lo que se ha tomado como **referencia base** y lo que constituye el **trabajo inédito** del proyecto. Las capas base —elevaciones, pendientes y otra cartografía general— proceden de fuentes institucionales y se han incorporado **tal como fueron publicadas**, limitándome a **adaptarlas a Doñana**: recortarlas al ámbito del parque, armonizarlas para que encajen entre sí, hacerlas operativas dentro del mapa, etc.
 
 <figure style="margin: 0 0 1rem 0;">
   <img src="{{ "/assets/img/alcor_red.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
