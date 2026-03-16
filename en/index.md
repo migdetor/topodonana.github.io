@@ -50,7 +50,7 @@ Click **[here](https://doi.org/10.5281/zenodo.18109683)** to be redirected to a 
 
 
 ## Acknowledgements
-This work would not have been possible without the many contributions and lessons shared by rangers, Doñana locals, and marsh people. Particularly, thanks to *Poli, Luis García, David Aragonés, Plácido Rodríguez-Paradas* and *Vilches*. Thanks also to everyone who supported the development of the map and showed genuine enthusiasm for it. To mention just a few: *Marina Trillo* for sharing a fascination with maps and exchanging sources of inspiration; and *Julia G. de Aledo* for suggesting the creation of a website to centralize the information and for encouraging the inclusion of the interactive map. 
+This work would not have been possible without the many contributions and lessons shared by rangers, Doñana locals, and marsh people. Particularly, thanks to *Poli, Luis García, David Aragonés and Plácido Rodríguez-Paradas*. Thanks also to everyone who supported the development of the map and showed genuine enthusiasm for it. To mention just a few: *Marina Trillo* for sharing a fascination with maps and exchanging sources of inspiration; and *Julia G. de Aledo* for suggesting the creation of a website to centralize the information and for encouraging the inclusion of the interactive map. 
 
 I also want to acknowledge the **Doñana Biological Station** (EBD-CSIC) and the **Doñana Biological Reserve** (ICTS-Doñana) as part of the scientific and historical framework in which my work in Doñana has developed, and for the value of the long-term series, infrastructure, and accumulated knowledge that have helped to build and conserve the Doñana we know today.
 
