@@ -30,9 +30,9 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 ---
 
 # A jewel at risk
-Only a handful of deltas, —due to their strategic position between the temperate and tropical zones of the world, manage to concentrate a level of diversity so extraordinary that, more than 60 years ago, moved the international community to protect what we now know as *Doñana*.
+Only a handful of deltas, —due to their strategic position between the temperate and tropical zones of the world, concentrate such an extraordinary biodiversity that, more than 60 years ago, moved the international community to protect what we curently know as *Doñana*.
 
-Over the last century, around 70% of the planet’s wetlands have disappeared, and it is estimated that a further 78% will do so by 2100. Doñana, despite being the most important wetland in Europe, has the dubious distinction of perfectly exemplifying the main challenges and threats faced by wetlands worldwide: agricultural intensification and climate change.
+Over the last century, around 70% of the planet’s wetlands have disappeared, and it is estimated that a further 78% will do so by 2100. Doñana, despite being the most important wetland in Europe, has the dubious distinction of perfectly exemplifying the main challenges and threats faced by wetlands worldwide: agricultural intensification, increasing water demand and climate change.
 
 <figure style="margin: 0 0 1rem 0;">
   <img src="{{ "/assets/img/atardec_red.jpeg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
