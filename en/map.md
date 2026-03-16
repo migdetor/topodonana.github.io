@@ -34,7 +34,7 @@ citation_doi_url: "https://doi.org/10.5281/zenodo.18109683"
 -->
 Maps reflect our view of the world at a given moment. The moment Doñana is living through is, like its own ecology, shifting: ponds that dry out, centuries-old cork oaks that succumb, a marsh whose flooding becomes erratic, and—alongside a generational change—the fading of a singular way of inhabiting the land, born as an adaptation to a harsh environment.
 
-That culture is written into the landscape; thousands of names fill a space that would otherwise appear wild. They tell stories of the territory, people, uses, and events –names that describe, guide, and warn. But who will remember them when those who spoke them are no longer here? Who will remember the most remote ponds when scrub erases them?
+That culture is written into the landscape; thousands of names telling stories of the territory, people, uses, and events –names that describe, guide, and warn. But who will remember them when those who spoke them are no longer here? Who will remember the most remote ponds when shrubs and pine trees colonize them?
 
 <figure style="margin: 0 0 1rem 0;">
   <img src="{{ "/assets/img/map.jpg" | relative_url }}" alt="Topo Doñana" style="max-width: 100%; height: auto;">
