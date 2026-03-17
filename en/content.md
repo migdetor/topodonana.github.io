@@ -63,7 +63,7 @@ This page brings together the geographic information layers and associated resou
 | **Doñana toponymy** | [Factsheet]({{ "/en/content/toponimos/" | relative_url }}) | Yes |
 | **Pond network cartography** | [Factsheet]({{ "/en/content/lagunas/" | relative_url }}), [REDIAM](https://portalrediam.cica.es/geonetwork/srv/api/records/db48f197-a17f-4f86-9e66-447da049f18c) | Yes |
 | **Cork oaks in Doñana NP** | [Factsheet]({{ "/en/content/alcornoques/" | relative_url }}) | Yes |
-| **Flooding duration** UNDER CONSTRUCTION | [Factsheet]({{ "/en/content/hidroperiodos/" | relative_url }}) | Yes |
+| **Flooding duration** | [Factsheet]({{ "/en/content/hidroperiodos/" | relative_url }}) | Yes |
 | **Zacallones, wells, and springs (“ojos”)** | [Factsheet]({{ "/en/content/zacallones/" | relative_url }}) | Yes |
 
 ---
