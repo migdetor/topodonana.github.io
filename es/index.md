@@ -50,7 +50,7 @@ Pulsa **[aqui](https://doi.org/10.5281/zenodo.18109683)** para ser redirigido a 
 <i>M. de Felipe (2026). Mapa actualizado del Parque Nacional de Doñana. Zenodo. DOI: [https://doi.org/10.5281/zenodo.18109683](https://doi.org/10.5281/zenodo.18109683)<i>
 
 ## Agradecimientos
-Este trabajo no habría sido posible sin las muchas aportaciones y enseñanzas de guardas, Doñaneros y marismeños varios. Gracias a *Poli, Luis García, David Aragonés y Plácido Rodríguez-Paradas*. Gracias también a todos los que apoyasteis y mostrásteis entusiasmo en el desarrollo del mapa. Por mencionar a algunos: a *Marina Trillo* por compartir fascinación por los mapas así como por la puesta en común de fuentes de inspiración; y a *Julia G. de Aledo* por sugerir la creación de una web en la que centralizar la información y la inclusión del mapa interactivo. 
+Este trabajo no habría sido posible sin las muchas aportaciones y enseñanzas de guardas, Doñaneros y marismeños varios. Entre ellos, gracias a *Poli, Luis García y David Aragonés*. Gracias también a todos los que apoyasteis y mostrásteis entusiasmo en el desarrollo del mapa. Por mencionar a algunos: a *Marina Trillo* por compartir fascinación por los mapas así como por la puesta en común de fuentes de inspiración; y a *Julia G. de Aledo* por sugerir la creación de una web en la que centralizar la información y la inclusión del mapa interactivo. 
 
 Quiero agradecer a la **Estación Biológica de Doñana** (EBD-CSIC) y a la **Reserva Biológica de Doñana** (ICTS-Doñana) como parte del marco científico e histórico en el que se ha desarrollado este trabajo, así como por el valor de las series, infraestructuras y conocimiento acumulado que han contribuido a construir y conservar la Doñana que hoy conocemos.
 
