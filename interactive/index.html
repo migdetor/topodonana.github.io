@@ -20,6 +20,18 @@
   <style>
     body { margin: 0; padding: 0; }
     html, body, #map { width: 100%; height: 100%; }
+
+    /* Botón "Mi ubicación" con estilo simple */
+    .locate-btn {
+      background: #fff;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      padding: 6px 8px;
+      cursor: pointer;
+      font: 14px/1.2 sans-serif;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+    }
+    .locate-btn:hover { background: #f7f7f7; }
   </style>
 </head>
 
@@ -27,7 +39,7 @@
   <div id="map"></div>
 
   <script>
-    // 1) Mapa: zoom inicial 11, limitado a 11–13
+    // 1) Mapa
     var map = L.map('map', {
       attributionControl: false,
       zoom: 11,
@@ -37,7 +49,7 @@
 
     L.control.attribution({ prefix: false }).addTo(map);
 
-    // 2) Basemap 1: OSM (abajo, como alternativa)
+    // 2) Basemap 1: OSM
     var osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 19,
       attribution: '&copy; OpenStreetMap contributors'
@@ -51,11 +63,9 @@
         attribution: 'Tiles &copy; Esri'
       }
     );
-
-    // Activa por defecto el satélite (si prefieres OSM por defecto, cambia esto a osm.addTo(map);)
     esriSat.addTo(map);
 
-    // 4) Tu mapa (overlay) arriba de todo
+    // 4) Tu mapa (overlay)
     var topoDonana = L.tileLayer('tiles/{z}/{x}/{y}.png', {
       minZoom: 10,
       maxZoom: 14,
@@ -69,12 +79,104 @@
       "OpenStreetMap": osm,
       "Satélite": esriSat
     };
-
     var overlays = {
       "Mapa actualizado de Doñana": topoDonana
     };
-
     L.control.layers(baseLayers, overlays, { collapsed: false }).addTo(map);
+
+    // ===========================
+    // 6) "Punto azul" (Opción 1)
+    // ===========================
+
+    // Icono tipo punto azul
+    var blueDot = L.divIcon({
+      className: '',
+      html: '<div style="width:12px;height:12px;border-radius:50%;background:#1e90ff;border:2px solid white;box-shadow:0 0 6px rgba(0,0,0,0.35)"></div>',
+      iconSize: [16, 16],
+      iconAnchor: [8, 8]
+    });
+
+    var userMarker = null;
+    var accuracyCircle = null;
+
+    // Controla si quieres que la cámara siga al usuario
+    var followUser = false;
+
+    function startGeolocation() {
+      map.locate({
+        watch: true,              // sigue actualizando posición
+        setView: false,           // no fuerza zoom/centrado automáticamente
+        enableHighAccuracy: true, // mejor en móvil (consume más batería)
+        maximumAge: 10000,        // acepta fixes de hasta 10s
+        timeout: 20000
+      });
+    }
+
+    function stopGeolocation() {
+      map.stopLocate();
+      if (userMarker) { map.removeLayer(userMarker); userMarker = null; }
+      if (accuracyCircle) { map.removeLayer(accuracyCircle); accuracyCircle = null; }
+    }
+
+    map.on('locationfound', function (e) {
+      var latlng = e.latlng;
+      var r = e.accuracy; // metros
+
+      if (!userMarker) {
+        userMarker = L.marker(latlng, { icon: blueDot, interactive: false }).addTo(map);
+        accuracyCircle = L.circle(latlng, {
+          radius: r,
+          interactive: false,
+          weight: 1
+        }).addTo(map);
+      } else {
+        userMarker.setLatLng(latlng);
+        accuracyCircle.setLatLng(latlng);
+        accuracyCircle.setRadius(r);
+      }
+
+      if (followUser) {
+        map.panTo(latlng, { animate: true });
+      }
+    });
+
+    map.on('locationerror', function (e) {
+      alert('No se pudo obtener tu ubicación. ' + e.message);
+    });
+
+    // Botón simple "Mi ubicación" (toggle)
+    var LocateControl = L.Control.extend({
+      options: { position: 'topleft' },
+      onAdd: function () {
+        var container = L.DomUtil.create('div', 'leaflet-bar');
+        var btn = L.DomUtil.create('button', 'locate-btn', container);
+        btn.type = 'button';
+        btn.textContent = '📍 Mi ubicación';
+
+        // Evita que el click se propague al mapa
+        L.DomEvent.disableClickPropagation(container);
+
+        var active = false;
+
+        L.DomEvent.on(btn, 'click', function () {
+          active = !active;
+
+          if (active) {
+            followUser = true;       // si no quieres seguimiento, pon false
+            startGeolocation();
+            btn.textContent = '⏹ Detener ubicación';
+          } else {
+            followUser = false;
+            stopGeolocation();
+            btn.textContent = '📍 Mi ubicación';
+          }
+        });
+
+        return container;
+      }
+    });
+
+    map.addControl(new LocateControl());
   </script>
 </body>
 </html>
